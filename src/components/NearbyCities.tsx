@@ -9,7 +9,7 @@ interface NearbyCitiesProps {
 }
 
 export function NearbyCities({ currentCity, serviceSlug = "monte-escalier" }: NearbyCitiesProps) {
-    const nearbyCities = getNearbyCities(currentCity);
+    const nearbyCities = getNearbyCities(currentCity.slug);
 
     if (nearbyCities.length === 0) return null;
 

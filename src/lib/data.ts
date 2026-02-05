@@ -105,17 +105,18 @@ function deg2rad(deg: number) {
     return deg * (Math.PI / 180);
 }
 
-export function getNearbyCities(citySlug: string, limit: number = 6): City[] {
+export function getNearbyCities(citySlug: string, limit: number = 6): (City & { distance: number })[] {
     const currentCity = getCityBySlug(citySlug);
     if (!currentCity) return [];
 
     const otherCities = cities.filter((c) => c.slug !== citySlug);
 
-    const sortedCities = otherCities.sort((a, b) => {
-        const distA = getDistanceFromLatLonInKm(currentCity.lat, currentCity.lng, a.lat, a.lng);
-        const distB = getDistanceFromLatLonInKm(currentCity.lat, currentCity.lng, b.lat, b.lng);
-        return distA - distB;
-    });
+    const citiesWithDist = otherCities.map(c => ({
+        ...c,
+        distance: getDistanceFromLatLonInKm(currentCity.lat, currentCity.lng, c.lat, c.lng)
+    }));
+
+    const sortedCities = citiesWithDist.sort((a, b) => a.distance - b.distance);
 
     return sortedCities.slice(0, limit);
 }
