@@ -1,8 +1,8 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { Metadata } from "next";
 import { services } from "@/data/service-content";
-import { getAllRegions, getServiceBySlug } from "@/lib/data";
+import { getAllRegions, getServiceBySlug, getCityBySlug } from "@/lib/data";
 import { cities } from "@/data/cities";
 import { ChevronRight, MapPin } from "lucide-react";
 
@@ -24,7 +24,14 @@ export async function generateMetadata({ params }: { params: { serviceSlug: stri
 
 export default function ServiceIndexPage({ params }: { params: { serviceSlug: string } }) {
     const service = getServiceBySlug(params.serviceSlug);
-    if (!service) notFound();
+    if (!service) {
+        // If the slug matches a city, redirect to /ville/[city] instead of 404
+        const city = getCityBySlug(params.serviceSlug);
+        if (city) {
+            redirect(`/ville/${city.slug}`);
+        }
+        notFound();
+    }
 
     const regions = getAllRegions();
 
