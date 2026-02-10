@@ -156,7 +156,7 @@ export function SectionFAQ({
     );
 }
 
-export function NearbyCities({ cities }: { cities: City[] }) {
+export function NearbyCities({ cities, serviceSlug }: { cities: City[], serviceSlug: string }) {
     return (
         <section className="py-8 border-t">
             <h3 className="text-xl font-bold mb-4 text-gray-700">Artisans disponibles aux alentours</h3>
@@ -164,7 +164,7 @@ export function NearbyCities({ cities }: { cities: City[] }) {
                 {cities.map((city) => (
                     <a
                         key={city.slug}
-                        href={`../${city.slug}`} // Relative link back to same service but different city
+                        href={`/service/${serviceSlug}/${city.slug}`} // Absolute link to same service in different city
                         className="text-blue-600 hover:underline text-sm truncate"
                     >
                         {city.name} ({city.zipCode})

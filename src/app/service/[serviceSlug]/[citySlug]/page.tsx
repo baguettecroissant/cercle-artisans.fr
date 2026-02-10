@@ -262,7 +262,7 @@ export default async function ProgrammaticPage({ params }: { params: { serviceSl
                     </div>
 
                     <div className="mt-8">
-                        <NearbyCities cities={nearbyCities} />
+                        <NearbyCities cities={nearbyCities} serviceSlug={service.slug} />
                     </div>
 
                 </div>
