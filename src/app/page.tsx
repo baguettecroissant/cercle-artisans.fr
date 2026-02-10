@@ -3,7 +3,8 @@ import Image from "next/image";
 
 import { services } from "@/data/service-content";
 import { cities } from "@/data/cities";
-import { Star, ShieldCheck, Clock, MapPin, ArrowRight, CheckCircle, Shield, Users } from "lucide-react";
+import { blogPosts } from "@/data/blog-posts";
+import { Star, ShieldCheck, Clock, MapPin, ArrowRight, CheckCircle, Shield, Users, BookOpen, Calendar } from "lucide-react";
 
 export default function Home() {
     // Top 12 major cities for the "Presence" section
@@ -203,6 +204,71 @@ export default function Home() {
                             className="inline-flex items-center text-slate-500 hover:text-blue-600 font-medium transition"
                         >
                             Voir toutes les villes couvertes <ArrowRight className="ml-2 w-4 h-4" />
+                        </Link>
+                    </div>
+                </div>
+            </section>
+
+            {/* 5. BLOG PREVIEW */}
+            <section className="py-20 bg-white">
+                <div className="container mx-auto px-4">
+                    <div className="text-center mb-12">
+                        <div className="inline-flex items-center bg-blue-50 border border-blue-100 rounded-full px-4 py-1.5 mb-4">
+                            <BookOpen className="w-4 h-4 text-blue-600 mr-2" />
+                            <span className="text-blue-700 text-sm font-medium">Conseils & Guides</span>
+                        </div>
+                        <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Derniers conseils d&apos;experts</h2>
+                        <p className="text-lg text-slate-600 max-w-2xl mx-auto">
+                            Guides pratiques, aides financières et comparatifs pour réussir vos travaux.
+                        </p>
+                    </div>
+
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                        {blogPosts.slice(0, 3).map((post) => (
+                            <Link
+                                key={post.slug}
+                                href={`/blog/${post.slug}`}
+                                className="group bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 overflow-hidden"
+                            >
+                                <div className="relative h-48 overflow-hidden">
+                                    <Image
+                                        src={post.heroImage}
+                                        alt={post.title}
+                                        fill
+                                        className="object-cover group-hover:scale-105 transition-transform duration-500"
+                                    />
+                                    <div className="absolute top-3 left-3">
+                                        <span className="bg-white/90 backdrop-blur-sm text-slate-700 text-xs font-semibold px-3 py-1 rounded-full">
+                                            {post.category}
+                                        </span>
+                                    </div>
+                                </div>
+                                <div className="p-5">
+                                    <div className="flex items-center text-xs text-slate-400 mb-3 space-x-3">
+                                        <span className="flex items-center">
+                                            <Calendar className="w-3 h-3 mr-1" />
+                                            {new Date(post.publishedAt).toLocaleDateString("fr-FR", { day: "numeric", month: "short", year: "numeric" })}
+                                        </span>
+                                        <span className="flex items-center">
+                                            <Clock className="w-3 h-3 mr-1" />
+                                            {post.readTime}
+                                        </span>
+                                    </div>
+                                    <h3 className="font-bold text-slate-900 group-hover:text-blue-600 transition-colors line-clamp-2 mb-2">
+                                        {post.title}
+                                    </h3>
+                                    <p className="text-sm text-slate-500 line-clamp-2">{post.excerpt}</p>
+                                </div>
+                            </Link>
+                        ))}
+                    </div>
+
+                    <div className="text-center mt-10">
+                        <Link
+                            href="/blog"
+                            className="inline-flex items-center bg-slate-900 hover:bg-blue-600 text-white font-semibold py-3 px-8 rounded-full transition-colors"
+                        >
+                            Tous nos articles <ArrowRight className="ml-2 w-4 h-4" />
                         </Link>
                     </div>
                 </div>

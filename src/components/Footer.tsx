@@ -79,6 +79,7 @@ export function Footer() {
                         <ul className="space-y-4 text-sm">
                             <li><Link href="/qui-sommes-nous" className="hover:text-white transition-colors">Qui sommes-nous ?</Link></li>
                             <li><Link href="/comment-ca-marche" className="hover:text-white transition-colors">Comment ça marche ?</Link></li>
+                            <li><Link href="/blog" className="hover:text-white transition-colors">Blog & Conseils</Link></li>
                             <li><Link href="/mentions-legales" className="hover:text-white transition-colors">Mentions Légales</Link></li>
                             <li><Link href="/politique-confidentialite" className="hover:text-white transition-colors">Politique de Confidentialité</Link></li>
                             <li><Link href="/sitemap.xml" className="hover:text-white transition-colors">Plan du site</Link></li>
