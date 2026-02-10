@@ -5,6 +5,7 @@ import {
 } from "@/lib/data";
 import { services } from "@/data/service-content";
 import { cities } from "@/data/cities";
+import { blogPosts } from "@/data/blog-posts";
 
 // Base URL from environment or default
 const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://cercle-artisans.fr";
@@ -80,6 +81,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
                 priority: 0.8,
             });
         }
+    }
+
+    // ---------------------------------------------------------
+    // 3. Blog Pages
+    // ---------------------------------------------------------
+    entries.push({
+        url: `${BASE_URL}/blog`,
+        lastModified: new Date(),
+        changeFrequency: "weekly",
+        priority: 0.8,
+    });
+
+    for (const post of blogPosts) {
+        entries.push({
+            url: `${BASE_URL}/blog/${post.slug}`,
+            lastModified: new Date(),
+            changeFrequency: "monthly",
+            priority: 0.7,
+        });
     }
 
     return entries;

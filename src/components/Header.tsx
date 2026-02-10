@@ -33,6 +33,9 @@ export function Header() {
                     <Link href="/service" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">
                         Nos Services
                     </Link>
+                    <Link href="/blog" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">
+                        Blog
+                    </Link>
                     <Link href="/annuaire" className="text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">
                         Zones d'intervention
                     </Link>
@@ -71,6 +74,13 @@ export function Header() {
                         onClick={() => setIsMenuOpen(false)}
                     >
                         Nos Services
+                    </Link>
+                    <Link
+                        href="/blog"
+                        className="text-slate-600 font-medium p-2 hover:bg-slate-50 rounded-lg"
+                        onClick={() => setIsMenuOpen(false)}
+                    >
+                        Blog
                     </Link>
                     <Link
                         href="/annuaire"

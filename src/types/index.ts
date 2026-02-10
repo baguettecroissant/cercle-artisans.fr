@@ -83,3 +83,16 @@ export interface PageData {
     regional: RegionalContent;
     local: LocalContent | null; // Null if no generated content yet (fallback)
 }
+
+export interface BlogPost {
+    slug: string;
+    title: string;
+    metaDescription: string;
+    heroImage: string;
+    category: string;
+    publishedAt: string;
+    readTime: string;
+    excerpt: string;
+    content: string;
+    relatedServices: string[];
+}
