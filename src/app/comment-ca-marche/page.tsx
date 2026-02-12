@@ -4,6 +4,9 @@ import Link from "next/link";
 export const metadata = {
     title: "Comment ça marche ? Devis Travaux RGE - Le Cercle des Artisans",
     description: "Processus simple en 3 étapes : description du projet, sélection de l'expert, réalisation des travaux. Service gratuit et sans engagement.",
+    alternates: {
+        canonical: "/comment-ca-marche",
+    },
 };
 
 export default function CommentCaMarche() {

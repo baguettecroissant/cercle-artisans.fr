@@ -30,6 +30,9 @@ export async function generateMetadata({
             type: "article",
             publishedTime: post.publishedAt,
         },
+        alternates: {
+            canonical: `/blog/${params.slug}`,
+        },
     };
 }
 

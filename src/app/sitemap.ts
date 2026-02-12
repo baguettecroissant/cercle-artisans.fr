@@ -8,7 +8,7 @@ import { cities } from "@/data/cities";
 import { blogPosts } from "@/data/blog-posts";
 
 // Base URL from environment or default
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://cercle-artisans.fr";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://www.cercle-artisans.fr";
 
 export default function sitemap(): MetadataRoute.Sitemap {
     // ---------------------------------------------------------

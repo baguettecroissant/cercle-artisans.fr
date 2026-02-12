@@ -5,6 +5,13 @@ import { services } from "@/data/service-content";
 import { cities } from "@/data/cities";
 import { blogPosts } from "@/data/blog-posts";
 import { Star, ShieldCheck, Clock, MapPin, ArrowRight, CheckCircle, Shield, Users, BookOpen, Calendar } from "lucide-react";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+    alternates: {
+        canonical: "/",
+    },
+};
 
 export default function Home() {
     // Top 12 major cities for the "Presence" section

@@ -7,6 +7,7 @@ import { Footer } from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+    metadataBase: new URL("https://www.cercle-artisans.fr"),
     title: "Le Cercle des Artisans",
     description: "Trouvez un artisan qualifié près de chez vous.",
 };

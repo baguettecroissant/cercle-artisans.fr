@@ -31,6 +31,9 @@ export async function generateMetadata({ params }: { params: { serviceSlug: stri
     return {
         title: `${service.seoTitle} à ${city.name} (${city.zipCode}) - Devis Gratuit`,
         description: `Trouvez le meilleur ${service.name} à ${city.name}. ${service.hero.subtitle} Intervention rapide sur ${city.region}.`,
+        alternates: {
+            canonical: `/service/${params.serviceSlug}/${params.citySlug}`,
+        },
     };
 }
 

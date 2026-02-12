@@ -1,6 +1,9 @@
 export const metadata = {
     title: "Mentions Légales - Le Cercle des Artisans",
     description: "Mentions légales et informations éditoriales du site Le Cercle des Artisans.",
+    alternates: {
+        canonical: "/mentions-legales",
+    },
 };
 
 export default function MentionsLegales() {

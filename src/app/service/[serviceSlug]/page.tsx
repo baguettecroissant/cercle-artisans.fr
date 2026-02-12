@@ -19,6 +19,9 @@ export async function generateMetadata({ params }: { params: { serviceSlug: stri
     return {
         title: `${service.name} : Trouvez un artisan qualifié en France`,
         description: `Annuaire des ${service.name}s certifiés par région et département. Devis gratuit et intervention rapide partout en France.`,
+        alternates: {
+            canonical: `/service/${params.serviceSlug}`,
+        },
     };
 }
 

@@ -27,6 +27,9 @@ export async function generateMetadata({ params }: { params: { serviceSlug: stri
     return {
         title: `${service.name} en ${regionName} - Annuaire Départements`,
         description: `Trouvez un expert ${service.name} en région ${regionName}. Sélectionnez votre département.`,
+        alternates: {
+            canonical: `/service/${params.serviceSlug}/region/${params.regionSlug}`,
+        },
     };
 }
 

@@ -2,6 +2,9 @@ export const metadata = {
     title: "Politique de Confidentialité - Le Cercle des Artisans",
     description:
         "Transparence sur la collecte et l'usage de vos données personnelles.",
+    alternates: {
+        canonical: "/politique-confidentialite",
+    },
 };
 
 export default function PolitiqueConfidentialite() {

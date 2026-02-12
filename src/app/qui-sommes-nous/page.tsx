@@ -5,6 +5,9 @@ import Link from "next/link";
 export const metadata = {
     title: "Qui sommes-nous ? Le Cercle des Artisans - Réseau RGE",
     description: "Découvrez Le Cercle des Artisans, le premier réseau d'entreprises RGE sélectionnées pour vos travaux de rénovation énergétique en France.",
+    alternates: {
+        canonical: "/qui-sommes-nous",
+    },
 };
 
 export default function QuiSommesNous() {

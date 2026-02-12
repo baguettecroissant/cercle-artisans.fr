@@ -8,6 +8,9 @@ export const metadata: Metadata = {
     title: "Blog - Conseils Rénovation & Travaux | Le Cercle des Artisans",
     description:
         "Guides, comparatifs et conseils d'experts pour réussir vos travaux de rénovation énergétique, isolation, chauffage et accessibilité.",
+    alternates: {
+        canonical: "/blog",
+    },
 };
 
 export default function BlogPage() {

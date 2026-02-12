@@ -21,6 +21,9 @@ export async function generateMetadata({ params }: { params: { citySlug: string 
     return {
         title: `Travaux de Rénovation à ${city.name} (${city.zipCode}) - Artisans RGE`,
         description: `Trouvez un artisan certifié RGE à ${city.name} pour vos travaux : Isolation, Chauffage, Monte-Escalier, et plus. Devis gratuits et vérifiés.`,
+        alternates: {
+            canonical: `/ville/${params.citySlug}`,
+        },
     };
 }
 
