@@ -2,6 +2,223 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "renovation-energetique-lyon-aides-metropole",
+        title: "Rénovation énergétique à Lyon : Les aides spécifiques de la métropole en 2025",
+        metaDescription: "Découvrez toutes les aides à la rénovation énergétique à Lyon et dans la Métropole : Écoréno'v, MaPrimeRénov', CEE, éco-PTZ. Prix, conditions et démarches pour vos travaux.",
+        heroImage: "/images/blog/renovation-energetique-lyon-hero.jpg",
+        category: "Aides & Financement",
+        publishedAt: "2026-02-13",
+        readTime: "14 min",
+        excerpt: "Lyon et sa métropole proposent des aides exclusives pour la rénovation énergétique, en complément des dispositifs nationaux. Écoréno'v, primes locales, accompagnement gratuit : voici le guide complet pour financer vos travaux.",
+        relatedServices: ["isolation-exterieur", "pompe-a-chaleur-air-eau", "isolation-combles", "fenetre", "climatisation", "monte-escalier"],
+        content: `
+            <p class="text-lg leading-relaxed">Vous habitez Lyon ou l'une des 59 communes de la <strong>Métropole de Lyon</strong> et votre facture de chauffage dépasse les 1 500 € par an ? Vous n'êtes pas seul : <strong>plus de 120 000 logements de l'agglomération lyonnaise sont classés F ou G au DPE</strong>, autrement dit des passoires thermiques. La bonne nouvelle, c'est que les Lyonnais ont accès à un arsenal d'aides unique en France : aux dispositifs nationaux (MaPrimeRénov', CEE, éco-PTZ) s'ajoute le programme <strong>Écoréno'v</strong>, spécifique à la Métropole de Lyon, qui peut financer jusqu'à <strong>95% du coût total</strong> des travaux pour les ménages les plus modestes. Ce guide complet vous explique comment en profiter.</p>
+
+            <h2>Pourquoi rénover son logement à Lyon est une priorité ?</h2>
+
+            <h3>Un parc immobilier vieillissant en zone climatique H1</h3>
+            <p>Lyon est située en <strong>zone climatique H1c</strong>, la plus rigoureuse en termes de besoins de chauffage (2 500 à 3 000 degrés-jours unifiés par an). Le parc immobilier lyonnais, majoritairement construit entre 1950 et 1975 — avant toute réglementation thermique — présente des performances énergétiques très faibles. Les immeubles haussmanniens des pentes de la Croix-Rousse, les HLM de la Duchère ou les pavillons de Bron et Vénissieux partagent un point commun : des <strong>murs non isolés</strong> (R < 1 m²·K/W), des <strong>fenêtres en simple vitrage</strong> et des chaudières fioul ou gaz de plus de 20 ans.</p>
+            <p>Concrètement, cela signifie :</p>
+            <ul>
+                <li><strong>Des factures de chauffage de 150 à 250 €/mois</strong> en hiver pour un logement de 80 m².</li>
+                <li><strong>Un inconfort thermique</strong> : sensation de paroi froide, courants d'air, condensation et moisissures.</li>
+                <li><strong>Une perte de valeur immobilière</strong> : depuis le 1er janvier 2025, les logements classés G sont <strong>interdits à la location</strong> (loi Climat et Résilience). Les logements F suivront en 2028.</li>
+            </ul>
+
+            <h3>Les avantages concrets d'une rénovation performante</h3>
+            <p>Une rénovation énergétique globale (isolation + chauffage + ventilation) permet de :</p>
+            <ul>
+                <li><strong>Diviser la facture énergétique par 2 à 4</strong> : passage d'une consommation de 350 kWh/m²/an (classe F) à moins de 110 kWh/m²/an (classe C ou B).</li>
+                <li><strong>Gagner en confort d'été</strong> : une <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation thermique par l'extérieur</a> réduit la température intérieure de 5 à 8°C pendant les canicules estivales — un enjeu majeur à Lyon où les épisodes à 38°C se multiplient.</li>
+                <li><strong>Valoriser son patrimoine</strong> : un gain de 2 classes DPE augmente la valeur du bien de <strong>5 à 15%</strong> selon l'Observatoire de l'Immobilier (source : notaires.fr).</li>
+                <li><strong>Réduire son empreinte carbone</strong> : le secteur résidentiel représente <strong>22% des émissions de CO₂</strong> de la Métropole de Lyon.</li>
+            </ul>
+
+            <h2>Les aides spécifiques de la Métropole de Lyon</h2>
+
+            <h3>Écoréno'v : le programme phare de la Métropole</h3>
+            <p>Lancé en 2015 et reconduit jusqu'en 2026, <strong>Écoréno'v</strong> est le dispositif emblématique de la Métropole de Lyon pour accélérer la rénovation énergétique. Il s'adresse aux propriétaires occupants et aux copropriétés des <strong>59 communes de la Métropole</strong> (Lyon, Villeurbanne, Vénissieux, Caluire-et-Cuire, Saint-Priest, Bron, Vaulx-en-Velin, etc.).</p>
+            <p><strong>Ce que propose Écoréno'v :</strong></p>
+            <ul>
+                <li><strong>Un accompagnement technique gratuit</strong> par un conseiller ALEC (Agence Locale de l'Énergie et du Climat) qui réalise un diagnostic thermique de votre logement et vous oriente vers les travaux prioritaires.</li>
+                <li><strong>Une aide financière complémentaire à MaPrimeRénov'</strong> pouvant atteindre <strong>2 000 à 5 000 €</strong> selon les travaux et les revenus du ménage.</li>
+                <li><strong>Un suivi de chantier</strong> par un professionnel indépendant pour garantir la qualité de mise en œuvre.</li>
+                <li><strong>Une assistance administrative</strong> pour le montage des dossiers d'aides (MaPrimeRénov', CEE, éco-PTZ).</li>
+            </ul>
+            <p><strong>Conditions d'éligibilité Écoréno'v :</strong></p>
+            <ul>
+                <li>Logement situé dans l'une des 59 communes de la Métropole de Lyon.</li>
+                <li>Logement de plus de 15 ans (construit avant 2011).</li>
+                <li>Travaux réalisés par un <strong>artisan certifié RGE</strong> (Reconnu Garant de l'Environnement).</li>
+                <li>Gain énergétique minimum de <strong>35%</strong> pour les rénovations globales.</li>
+            </ul>
+
+            <h3>Les aides départementales et régionales en Auvergne-Rhône-Alpes</h3>
+            <p>En complément d'Écoréno'v, la <strong>Région Auvergne-Rhône-Alpes</strong> et le <strong>Département du Rhône</strong> proposent des dispositifs cumulables :</p>
+            <ul>
+                <li><strong>Prime régionale à l'isolation :</strong> 500 à 1 500 € pour l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> perdus ou l'<a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation par l'extérieur</a>, sous conditions de ressources.</li>
+                <li><strong>Chèque énergie régional :</strong> jusqu'à 250 € pour les ménages en précarité énergétique.</li>
+                <li><strong>Aide à l'adaptation du logement (Département du Rhône) :</strong> subvention pour l'installation d'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> ou d'un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a> (via MaPrimeAdapt').</li>
+            </ul>
+
+            <h2>Les aides nationales cumulables à Lyon</h2>
+
+            <h3>MaPrimeRénov' 2025-2026 : les barèmes pour Lyon</h3>
+            <p>Lyon étant en <strong>Île-de-France/province catégorie H1</strong>, les plafonds de revenus sont spécifiques. Voici les montants MaPrimeRénov' pour les travaux les plus courants à Lyon :</p>
+            <table class="w-full border-collapse my-6 text-sm">
+                <thead>
+                    <tr class="bg-slate-100">
+                        <th class="p-3 text-left font-bold border-b">Type de travaux</th>
+                        <th class="p-3 text-left font-bold border-b">Bleu (très modestes)</th>
+                        <th class="p-3 text-left font-bold border-b">Jaune (modestes)</th>
+                        <th class="p-3 text-left font-bold border-b">Violet (intermédiaires)</th>
+                        <th class="p-3 text-left font-bold border-b">Rose (aisés)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="border-b"><td class="p-3"><a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">PAC air/eau</a></td><td class="p-3">11 000 €</td><td class="p-3">8 500 €</td><td class="p-3">4 500 €</td><td class="p-3">—</td></tr>
+                    <tr class="border-b"><td class="p-3">PAC géothermique (sol/eau)</td><td class="p-3">12 000 €</td><td class="p-3">10 000 €</td><td class="p-3">5 000 €</td><td class="p-3">—</td></tr>
+                    <tr class="border-b"><td class="p-3">Chauffe-eau thermodynamique (COP ≥ 2,5)</td><td class="p-3">1 400 €</td><td class="p-3">1 100 €</td><td class="p-3">800 €</td><td class="p-3">—</td></tr>
+                    <tr class="border-b"><td class="p-3"><a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">ITE</a> — R ≥ 3,7 m²·K/W</td><td class="p-3">80 €/m²</td><td class="p-3">65 €/m²</td><td class="p-3">45 €/m²</td><td class="p-3">—</td></tr>
+                    <tr class="border-b"><td class="p-3"><a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">Combles perdus</a> — R ≥ 7 m²·K/W</td><td class="p-3">30 €/m²</td><td class="p-3">25 €/m²</td><td class="p-3">20 €/m²</td><td class="p-3">—</td></tr>
+                    <tr class="border-b"><td class="p-3"><a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">Fenêtres double vitrage</a> (Uw ≤ 1,3)</td><td class="p-3">100 €/unité</td><td class="p-3">80 €/unité</td><td class="p-3">40 €/unité</td><td class="p-3">—</td></tr>
+                </tbody>
+            </table>
+            <p><strong>Plafonds de revenus 2025 pour Lyon (hors Île-de-France) :</strong></p>
+            <ul>
+                <li><strong>Bleu (très modestes) :</strong> ≤ 17 009 € pour 1 personne, ≤ 24 875 € pour 2 personnes, ≤ 29 917 € pour 3 personnes.</li>
+                <li><strong>Jaune (modestes) :</strong> ≤ 21 805 € pour 1 personne, ≤ 31 889 € pour 2 personnes, ≤ 38 349 € pour 3 personnes.</li>
+                <li><strong>Violet (intermédiaires) :</strong> ≤ 30 549 € pour 1 personne, ≤ 44 907 € pour 2 personnes, ≤ 54 071 € pour 3 personnes.</li>
+            </ul>
+
+            <h3>Les Certificats d'Économies d'Énergie (CEE) en zone H1</h3>
+            <p>Lyon est en <strong>zone climatique H1</strong>, ce qui correspond aux montants CEE les plus élevés de France. Les primes CEE sont financées par les énergéticiens (EDF, Engie, TotalEnergies) et sont <strong>cumulables avec MaPrimeRénov' et Écoréno'v</strong> :</p>
+            <ul>
+                <li><strong><a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">Isolation des combles</a> :</strong> 10 à 14 €/m² (zone H1), soit 800 à 1 120 € pour 80 m² de combles.</li>
+                <li><strong><a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">ITE murs extérieurs</a> :</strong> 12 à 18 €/m², soit 1 440 à 2 160 € pour 120 m² de façades.</li>
+                <li><strong><a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">PAC air/eau</a> :</strong> jusqu'à 5 500 € via le dispositif « Coup de Pouce Chauffage » (barème CEE renforcé).</li>
+                <li><strong><a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">Remplacement de fenêtres</a> :</strong> 80 à 120 € par fenêtre en zone H1.</li>
+            </ul>
+
+            <h3>L'éco-prêt à taux zéro (éco-PTZ)</h3>
+            <p>Pour financer le reste à charge <strong>sans intérêts</strong>, l'éco-PTZ est disponible auprès des banques partenaires à Lyon (Crédit Agricole Centre-Est, Banque Populaire AURA, Caisse d'Épargne Rhône-Alpes, etc.) :</p>
+            <ul>
+                <li><strong>15 000 €</strong> pour un geste unique d'isolation ou de chauffage.</li>
+                <li><strong>25 000 €</strong> pour deux types de travaux combinés.</li>
+                <li><strong>50 000 €</strong> pour une rénovation globale (parcours accompagné, durée : 20 ans max).</li>
+            </ul>
+
+            <h3>TVA à 5,5% et MaPrimeAdapt'</h3>
+            <p>La <strong>TVA réduite à 5,5%</strong> s'applique automatiquement sur tous les travaux de rénovation énergétique réalisés par un artisan RGE (au lieu de 20%). Pour les seniors ou personnes en situation de handicap, <strong>MaPrimeAdapt'</strong> finance jusqu'à <strong>70% des travaux d'accessibilité</strong> (plafond : 22 000 €) : <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a>, <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a>, douche PMR.</p>
+
+            <h2>Les solutions techniques adaptées au climat lyonnais</h2>
+
+            <h3>L'isolation thermique : le geste n°1</h3>
+            <p>En zone H1, l'isolation doit être particulièrement performante. Voici les solutions recommandées par nos artisans RGE à Lyon :</p>
+            <ul>
+                <li><strong><a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">Isolation des combles perdus</a></strong> : soufflage de laine de roche (λ = 0,035 W/m·K) ou ouate de cellulose. Épaisseur recommandée : <strong>35 à 40 cm</strong> pour atteindre R ≥ 7 m²·K/W (norme RT2012/RE2020). Matériaux certifiés <strong>ACERMI</strong> conformes NF EN 13162. Coût : <strong>20 à 45 €/m² TTC</strong> pose comprise.</li>
+                <li><strong><a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">ITE (Isolation Thermique par l'Extérieur)</a></strong> : pose de panneaux de PSE graphité (λ = 0,031 W/m·K) ou laine de roche haute densité sous enduit RPE. Épaisseur : <strong>16 à 20 cm</strong> pour R ≥ 4,5 m²·K/W. Supprime 100% des ponts thermiques de façade. Coût : <strong>130 à 220 €/m² TTC</strong>.</li>
+                <li><strong><a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">Fenêtres haute performance</a></strong> : double vitrage VIR (Uw ≤ 1,3 W/m²·K) ou triple vitrage (Uw ≤ 0,8 W/m²·K) recommandé pour les façades nord. Cadres PVC ou aluminium à rupture de pont thermique. Coût : <strong>500 à 1 200 €</strong> par fenêtre posée.</li>
+            </ul>
+
+            <h3>Le chauffage performant pour le climat continental lyonnais</h3>
+            <p>Avec des hivers rigoureux (températures de base de −10°C en zone H1c), le choix du système de chauffage est déterminant :</p>
+            <ul>
+                <li><strong><a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">Pompe à chaleur air/eau</a></strong> : COP de 3,5 à 4,2 selon les modèles. Compatible avec les radiateurs haute température existants ou plancher chauffant. Puissance recommandée à Lyon : 8 à 12 kW pour 100 m². Coût installé : <strong>10 000 à 16 000 € TTC</strong>.</li>
+                <li><strong><a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">PAC air/air réversible (climatisation)</a></strong> : chauffage d'appoint + rafraîchissement estival. SCOP ≥ 4,0 (classe A+++). Particulièrement pertinente à Lyon où les températures dépassent régulièrement 35°C en été. Coût : <strong>3 000 à 7 000 €</strong> pour un multisplit.</li>
+            </ul>
+
+            <h3>La ventilation : un impératif souvent oublié</h3>
+            <p>Une maison bien isolée <strong>doit impérativement être bien ventilée</strong> pour éviter l'humidité et garantir la qualité de l'air intérieur. La <strong>VMC double flux</strong> récupère jusqu'à 90% de la chaleur de l'air extrait. Coût : 4 000 à 8 000 € installée, éligible aux CEE.</p>
+
+            <h2>Prix détaillé des travaux de rénovation à Lyon</h2>
+            <p>Voici les tarifs constatés à Lyon et dans la Métropole, incluant la main d'œuvre par nos artisans RGE certifiés :</p>
+            <table class="w-full border-collapse my-6 text-sm">
+                <thead>
+                    <tr class="bg-slate-100">
+                        <th class="p-3 text-left font-bold border-b">Type de travaux</th>
+                        <th class="p-3 text-left font-bold border-b">Prix moyen TTC (matériel + pose)</th>
+                        <th class="p-3 text-left font-bold border-b">Détail</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="border-b"><td class="p-3">Isolation combles perdus (soufflage)</td><td class="p-3">25 à 45 €/m²</td><td class="p-3">Laine de roche ou ouate de cellulose, R ≥ 7</td></tr>
+                    <tr class="border-b"><td class="p-3">ITE sous enduit</td><td class="p-3">130 à 220 €/m²</td><td class="p-3">PSE graphité ou laine de roche, R ≥ 4,5</td></tr>
+                    <tr class="border-b"><td class="p-3">Fenêtres double vitrage PVC</td><td class="p-3">500 à 900 € / fenêtre</td><td class="p-3">Uw ≤ 1,3 W/m²·K, pose dépose</td></tr>
+                    <tr class="border-b"><td class="p-3">Fenêtres triple vitrage ALU</td><td class="p-3">800 à 1 400 € / fenêtre</td><td class="p-3">Uw ≤ 0,8 W/m²·K, rupture pont thermique</td></tr>
+                    <tr class="border-b"><td class="p-3">PAC air/eau (8-12 kW)</td><td class="p-3">10 000 à 16 000 €</td><td class="p-3">COP ≥ 3,5, raccordement circuit existant</td></tr>
+                    <tr class="border-b"><td class="p-3">PAC air/air multisplit</td><td class="p-3">3 000 à 7 000 €</td><td class="p-3">2 à 4 unités intérieures, SCOP ≥ 4,0</td></tr>
+                    <tr class="border-b"><td class="p-3">VMC double flux</td><td class="p-3">4 000 à 8 000 €</td><td class="p-3">Rendement ≥ 85%, gaines isolées</td></tr>
+                    <tr class="border-b"><td class="p-3">Démoussage toiture</td><td class="p-3">15 à 35 €/m²</td><td class="p-3">Traitement hydrofuge + nettoyage</td></tr>
+                </tbody>
+            </table>
+
+            <h2>Tableau de synthèse : coût d'une rénovation type à Lyon</h2>
+            <p>Exemple concret pour un <strong>appartement de 80 m² dans le 3ème arrondissement de Lyon</strong>, classé F au DPE, ménage aux revenus modestes (profil Jaune) :</p>
+            <table class="w-full border-collapse my-6 text-sm">
+                <thead>
+                    <tr class="bg-slate-100">
+                        <th class="p-3 text-left font-bold border-b">Travaux</th>
+                        <th class="p-3 text-left font-bold border-b">Coût TTC</th>
+                        <th class="p-3 text-left font-bold border-b">MaPrimeRénov'</th>
+                        <th class="p-3 text-left font-bold border-b">CEE (H1)</th>
+                        <th class="p-3 text-left font-bold border-b">Écoréno'v</th>
+                        <th class="p-3 text-left font-bold border-b">Reste à charge</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="border-b"><td class="p-3">Isolation combles (60 m²)</td><td class="p-3">2 100 €</td><td class="p-3">1 500 €</td><td class="p-3">720 €</td><td class="p-3">—</td><td class="p-3">0 € *</td></tr>
+                    <tr class="border-b"><td class="p-3">ITE façades (90 m²)</td><td class="p-3">15 300 €</td><td class="p-3">5 850 €</td><td class="p-3">1 350 €</td><td class="p-3">2 000 €</td><td class="p-3">6 100 €</td></tr>
+                    <tr class="border-b"><td class="p-3">PAC air/eau (8 kW)</td><td class="p-3">12 000 €</td><td class="p-3">8 500 €</td><td class="p-3">4 500 €</td><td class="p-3">—</td><td class="p-3">0 € *</td></tr>
+                    <tr class="border-b"><td class="p-3">Fenêtres (5 unités)</td><td class="p-3">3 750 €</td><td class="p-3">400 €</td><td class="p-3">500 €</td><td class="p-3">500 €</td><td class="p-3">2 350 €</td></tr>
+                    <tr class="border-b"><td class="p-3">VMC double flux</td><td class="p-3">5 500 €</td><td class="p-3">—</td><td class="p-3">600 €</td><td class="p-3">500 €</td><td class="p-3">4 400 €</td></tr>
+                    <tr class="border-b bg-slate-50 font-bold"><td class="p-3">TOTAL</td><td class="p-3">38 650 €</td><td class="p-3">16 250 €</td><td class="p-3">7 670 €</td><td class="p-3">3 000 €</td><td class="p-3">12 850 €</td></tr>
+                </tbody>
+            </table>
+            <p><em>* Lorsque le cumul des aides dépasse le coût des travaux, le reste à charge est ramené à 0 €. Le surplus n'est pas versé.</em></p>
+            <p>Soit un financement de <strong>67% par les aides publiques</strong>. Avec le <strong>bonus sortie de passoire thermique</strong> (+10% MaPrimeRénov'), le taux de prise en charge peut atteindre <strong>75 à 80%</strong>. Le reste à charge de 12 850 € est finançable par un <strong>éco-PTZ à taux zéro</strong> sur 15 ans, soit environ <strong>71 €/mois</strong> — largement inférieur aux économies d'énergie estimées à <strong>120-180 €/mois</strong>.</p>
+
+            <h2>Le processus pour vos travaux à Lyon : étape par étape</h2>
+            <ul>
+                <li><strong>Étape 1 — Contact ALEC Lyon :</strong> Prenez rendez-vous avec un conseiller de l'<strong>ALEC Lyon - Métropole de Lyon</strong> (gratuit) pour un premier diagnostic et l'orientation vers le programme Écoréno'v. Tél : 04 37 48 22 42.</li>
+                <li><strong>Étape 2 — Audit énergétique :</strong> Un bureau d'études certifié réalise l'audit (800 à 1 500 €, partiellement subventionné : 500 € par MaPrimeRénov' pour les profils Bleu/Jaune). L'audit identifie les travaux prioritaires et le gain DPE visé.</li>
+                <li><strong>Étape 3 — Devis d'artisans RGE :</strong> Demandez <strong>au minimum 2 à 3 devis</strong> auprès d'artisans certifiés RGE. <strong>C'est une condition sine qua non</strong> pour accéder à toutes les aides. <a href="/devis" class="text-blue-600 hover:underline font-medium">Nos artisans RGE à Lyon</a> vous fournissent des devis détaillés sous 48h.</li>
+                <li><strong>Étape 4 — Montage des dossiers d'aides :</strong> Dépôt sur <strong>maprimerenov.gouv.fr</strong> + demande CEE + dossier Écoréno'v auprès de la Métropole. <strong>Important :</strong> ne signez pas les devis et ne commencez pas les travaux avant la validation des aides.</li>
+                <li><strong>Étape 5 — Réalisation des travaux :</strong> Après accord (délai moyen : 4 à 8 semaines), les travaux peuvent démarrer. Durée moyenne d'un chantier complet : 3 à 6 semaines.</li>
+                <li><strong>Étape 6 — Versement des aides :</strong> À la fin du chantier, téléversez les factures. Les aides MaPrimeRénov' sont versées sous 2 à 4 semaines. Les primes CEE et Écoréno'v suivent sous 4 à 8 semaines.</li>
+            </ul>
+
+            <h2>FAQ : Rénovation énergétique à Lyon</h2>
+
+            <h3>Les aides Écoréno'v sont-elles cumulables avec MaPrimeRénov' ?</h3>
+            <p><strong>Oui, absolument.</strong> C'est même le montage financier recommandé par l'ALEC Lyon. Vous pouvez cumuler : MaPrimeRénov' + CEE + Écoréno'v + éco-PTZ + TVA 5,5%. Le cumul des aides ne peut toutefois pas dépasser <strong>100% du coût TTC des travaux</strong>. Pour les ménages très modestes (profil Bleu), le reste à charge peut être proche de zéro sur certains postes comme l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a>.</p>
+
+            <h3>Je suis locataire à Lyon, puis-je bénéficier d'aides ?</h3>
+            <p>Les aides MaPrimeRénov' et Écoréno'v sont réservées aux <strong>propriétaires</strong> (occupants ou bailleurs). En tant que locataire, vous pouvez toutefois bénéficier du <strong>chèque énergie</strong> (100 à 277 €/an) et demander à votre propriétaire de réaliser les travaux — ce dernier bénéficiera des aides. Depuis 2025, les propriétaires de passoires thermiques (G) sont <strong>obligés</strong> de rénover pour pouvoir continuer à louer.</p>
+
+            <h3>Quels artisans RGE choisir à Lyon ?</h3>
+            <p>La certification <strong>RGE (Reconnu Garant de l'Environnement)</strong> est délivrée par des organismes accrédités : <strong>Qualibat</strong> (isolation, menuiseries), <strong>Qualit'EnR</strong> (pompes à chaleur, solaire), <strong>Qualifelec</strong> (génie électrique). Vérifiez la validité de la certification sur <strong>france-renov.gouv.fr</strong>. Les artisans du <strong>Cercle des Artisans</strong> sont tous certifiés RGE, assurés décennale, et interviennent dans toute la Métropole de Lyon.</p>
+
+            <h3>Combien de temps durent les travaux de rénovation à Lyon ?</h3>
+            <p>Les délais varient selon l'ampleur du chantier :</p>
+            <ul>
+                <li><strong>Isolation des combles :</strong> 1 journée (soufflage).</li>
+                <li><strong>ITE complète :</strong> 2 à 4 semaines selon la surface.</li>
+                <li><strong>Remplacement de fenêtres :</strong> 1 à 2 jours pour un logement complet.</li>
+                <li><strong><a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">Installation PAC air/eau</a> :</strong> 2 à 3 jours.</li>
+                <li><strong>Rénovation globale :</strong> 3 à 6 semaines, avec coordination des corps de métier.</li>
+            </ul>
+
+            <h3>Mon logement est en copropriété à Lyon, quelles sont mes options ?</h3>
+            <p>Les copropriétés lyonnaises peuvent bénéficier de <strong>MaPrimeRénov' Copropriété</strong> (aide collective) et du programme <strong>Écoréno'v Copropriétés</strong> de la Métropole. L'aide peut atteindre <strong>25% du montant HT des travaux</strong> (plafonné à 25 000 € par logement). L'ALEC Lyon accompagne gratuitement les syndics dans le montage des dossiers.</p>
+
+            <h2>Conclusion : Lyon, un territoire d'exception pour rénover</h2>
+            <p>Avec le cumul des <strong>aides nationales</strong> (MaPrimeRénov', CEE, éco-PTZ, TVA 5,5%) et des <strong>aides locales</strong> (Écoréno'v, primes régionales), les propriétaires lyonnais disposent d'un des meilleurs dispositifs de financement de France. Un ménage aux revenus modestes peut financer <strong>jusqu'à 80% de ses travaux</strong>, voire plus avec le bonus sortie de passoire thermique.</p>
+            <p>Mais attention : les budgets sont limités et les dispositifs locaux comme Écoréno'v sont soumis à enveloppe. <strong>Le meilleur moment pour lancer votre projet, c'est maintenant.</strong></p>
+            <p><strong><a href="/devis" class="text-blue-600 hover:underline">→ Demandez votre devis gratuit auprès de nos artisans RGE à Lyon</a></strong> — Le Cercle des Artisans vous accompagne de l'audit énergétique au versement de vos aides, avec un <strong>interlocuteur unique</strong> et des artisans locaux certifiés RGE intervenant dans toute la Métropole de Lyon.</p>
+        `
+    },
+    {
         slug: "maprimerenov-2026-guide-changements-baremes",
         title: "MaPrimeRénov' 2026 : Le guide ultime des changements et nouveaux barèmes",
         metaDescription: "MaPrimeRénov' 2026 : découvrez tous les changements, les nouveaux barèmes par profil de revenus, les travaux éligibles et comment maximiser vos aides à la rénovation énergétique.",
