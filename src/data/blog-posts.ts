@@ -2,6 +2,128 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "renovation-ampleur-subventions-90-pourcent",
+        title: "Rénovation d'ampleur : Comment obtenir jusqu'à 90% de subventions ?",
+        metaDescription: "Financez jusqu'à 90% de vos travaux de rénovation globale en 2026 grâce à MaPrimeRénov' Parcours Accompagné. Guide complet : aides, prix, audit et démarches.",
+        heroImage: "/images/blog/renovation-ampleur-subventions-hero.png",
+        category: "Aides & Financement",
+        publishedAt: "2026-02-14",
+        readTime: "15 min",
+        excerpt: "Saviez-vous que vous pouvez financer jusqu'à 90% de votre rénovation globale ? Découvrez le dispositif 'Rénovation d'ampleur', la solution ultime pour les passoires thermiques.",
+        relatedServices: ["isolation-exterieur", "pompe-a-chaleur-air-eau", "isolation-combles", "fenetre", "climatisation", "monte-escalier"],
+        content: `
+            <p class="text-lg leading-relaxed">Votre maison est une passoire thermique (classée F ou G au DPE) ? Vos factures de chauffage explosent chaque hiver ? Vous n'êtes pas seul. Mais la bonne nouvelle, c'est que l'État a mis le paquet pour vous aider à tout changer. En 2026, le dispositif <strong>« Rénovation d'ampleur »</strong> (via MaPrimeRénov' Parcours Accompagné) permet de financer <strong>jusqu'à 90% du montant total de vos travaux HT</strong>. Oui, vous avez bien lu : pour 50 000 € de travaux, il est possible de ne payer que 5 000 € de sa poche. Ce guide vous explique comment décrocher ce jackpot écologique.</p>
+
+            <h2>Pourquoi se lancer dans une rénovation d'ampleur ?</h2>
+            
+            <h3>1. Sortir de la précarité énergétique et gagner en confort</h3>
+            <p>Une rénovation globale ne se contente pas de changer une chaudière. Elle traite l'enveloppe du bâtiment (isolation) ET les systèmes (chauffage, ventilation). Résultat : vous passez d'une maison froide et humide à un cocon confortable, avec une température homogène et un air sain. Fini la sensation de parois froides !</p>
+
+            <h3>2. Valoriser votre patrimoine immobilier</h3>
+            <p>La « valeur verte » est une réalité. Une maison classée C ou B se vend <strong>10 à 20% plus cher</strong> qu'une passoire thermique équivalente. À l'inverse, les logements F et G subissent une décote massive et sont progressivement interdits à la location depuis 2025.</p>
+
+            <h3>3. Profiter d'un financement exceptionnel</h3>
+            <p>Jamais les aides n'ont été aussi élevées. L'objectif de l'État est clair : éradiquer les passoires thermiques. En cumulant MaPrimeRénov' Rénovation d'ampleur avec les primes locales, le reste à charge devient minime pour les ménages modestes et très modestes.</p>
+
+            <h2>Le dispositif "Rénovation d'ampleur" : Comment ça marche ?</h2>
+            <p>Ce dispositif remplace les aides au coup par coup (mono-gestes) par une approche globale. Il est conditionné à l'atteinte d'une performance énergétique réelle après travaux.</p>
+
+            <h3>Les conditions clés :</h3>
+            <ul>
+                <li><strong>Saut de 2 classes DPE minimum :</strong> Par exemple, passer de F à D, ou de G à E.</li>
+                <li><strong>Audit énergétique obligatoire :</strong> Pour définir le scénario de travaux optimal.</li>
+                <li><strong>Accompagnement obligatoire :</strong> Vous devez être suivi par un « Mon Accompagnateur Rénov' » (MAR) agréé.</li>
+                <li><strong>Deux gestes d'isolation minimum :</strong> (ex: <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation combles</a> + <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">murs</a>).</li>
+                <li><strong>Interdiction des chauffages 100% fossiles :</strong> C'est le moment de passer à la <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur</a>.</li>
+            </ul>
+
+            <h2>Les taux de subvention 2026 : Jusqu'à 90% !</h2>
+            <p>Le montant de l'aide est calculé en pourcentage du coût des travaux (HT), selon vos revenus et le gain écologique obtenu.</p>
+
+            <table class="w-full border-collapse my-6 text-sm">
+                <thead>
+                    <tr class="bg-slate-100">
+                        <th class="p-3 text-left font-bold border-b">Gain de classes DPE</th>
+                        <th class="p-3 text-left font-bold border-b">Plafond de travaux HT</th>
+                        <th class="p-3 text-left font-bold border-b">Bleu (Très modestes)</th>
+                        <th class="p-3 text-left font-bold border-b">Jaune (Modestes)</th>
+                        <th class="p-3 text-left font-bold border-b">Violet (Intermédiaires)</th>
+                        <th class="p-3 text-left font-bold border-b">Rose (Aisés)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="border-b"><td class="p-3"><strong>2 classes</strong></td><td class="p-3">40 000 €</td><td class="p-3">80%</td><td class="p-3">60%</td><td class="p-3">45%</td><td class="p-3">30%</td></tr>
+                    <tr class="border-b"><td class="p-3"><strong>3 classes</strong></td><td class="p-3">55 000 €</td><td class="p-3">80%</td><td class="p-3">60%</td><td class="p-3">50%</td><td class="p-3">35%</td></tr>
+                    <tr class="border-b"><td class="p-3"><strong>4 classes</strong></td><td class="p-3">70 000 €</td><td class="p-3">90%</td><td class="p-3">75%</td><td class="p-3">60%</td><td class="p-3">35%</td></tr>
+                    <tr class="border-b bg-green-50"><td class="p-3" colspan="6"><em>Bonus "Sortie de passoire" (si le logement était F ou G) : +10% pour tous (intégré dans les taux ci-dessus pour le saut de 4 classes).</em></td></tr>
+                </tbody>
+            </table>
+
+            <p><strong>Exemple concret :</strong> Un ménage aux revenus très modestes (Bleu) vivant dans une passoire thermique (G) réalise 70 000 € de travaux pour atteindre l'étiquette B (saut de 4 classes). <br>
+            <strong>Aide MaPrimeRénov' = 90% de 70 000 € = 63 000 €.</strong> <br>
+            Reste à charge = 7 000 €, finançable par l'éco-PTZ.</p>
+
+            <h2>Les solutions techniques pour y arriver</h2>
+            <p>Pour gagner 3 ou 4 classes DPE, il faut agir sur tous les fronts avec des matériaux performants.</p>
+
+            <h3>1. L'enveloppe thermique (Isolation)</h3>
+            <ul>
+                <li><strong><a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">Isolation des murs par l'extérieur (ITE)</a> :</strong> C'est la solution la plus efficace. Elle supprime les ponts thermiques et protège le bâti. (R ≥ 3.7 m².K/W). Comptez 140 à 200 €/m².</li>
+                <li><strong><a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">Isolation des combles</a> :</strong> 30% des déperditions passent par le toit. L'isolation des combles perdus par soufflage est peu coûteuse et très rentable. (R ≥ 7 m².K/W).</li>
+                <li><strong><a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">Remplacement des menuiseries</a> :</strong> Passez au double vitrage argon ou triple vitrage. (Uw ≤ 1.3 W/m².K).</li>
+            </ul>
+
+            <h3>2. Le chauffage et l'eau chaude</h3>
+            <ul>
+                <li><strong><a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">Pompe à chaleur (PAC) Air/Eau</a> :</strong> Le système de référence en rénovation. Elle divise votre facture de chauffage par 3 ou 4 en utilisant les calories gratuites de l'air.</li>
+                <li><strong>Chauffe-eau thermodynamique :</strong> Pour produire de l'eau chaude à moindre coût.</li>
+            </ul>
+
+            <h3>3. La ventilation (VMC)</h3>
+            <p>Indispensable ! Une maison étanche doit respirer pour évacuer l'humidité. La <strong>VMC double flux</strong> est idéale car elle récupère les calories de l'air vicié avant de le rejeter.</p>
+
+            <h2>Zoom sur l'accessibilité : MaPrimeAdapt'</h2>
+            <p>Vous avez plus de 70 ans ou êtes en situation de handicap ? Vous pouvez cumuler vos travaux énergétiques avec des travaux d'adaptation (monte-escalier, douche PMR) via <strong>MaPrimeAdapt'</strong> qui finance <strong>50 à 70%</strong> de ces travaux spécifiques.</p>
+            <ul>
+                <li>Installation d'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier électrique</a> pour sécuriser l'étage.</li>
+                <li>Pose d'un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur de maison</a>.</li>
+            </ul>
+
+            <h2>Les étapes clés de votre projet</h2>
+            <ol class="list-decimal pl-6 space-y-2 mb-6">
+                <li><strong>Contactez un conseiller France Rénov'</strong> ou un Accompagnateur Rénov' agréé.</li>
+                <li><strong>Réalisez l'audit énergétique</strong> de votre logement.</li>
+                <li><strong>Faites faire des devis</strong> par des entreprises certifiées <strong>RGE (Reconnu Garant de l'Environnement)</strong>. C'est obligatoire !</li>
+                <li><strong>Déposez votre dossier de demande d'aide</strong> (MaPrimeRénov' + CEE souvent valorisés directement ou à part).</li>
+                <li><strong>Attendez l'accord de l'ANAH</strong> avant de signer les devis et de commencer les travaux.</li>
+                <li><strong>Réalisez les travaux</strong> et envoyez vos factures pour le paiement.</li>
+            </ol>
+
+            <p><strong><a href="/devis" class="text-blue-600 hover:underline font-medium">→ Trouvez des artisans RGE certifiés près de chez vous avec Le Cercle des Artisans</a></strong></p>
+
+            <h2>FAQ</h2>
+            
+            <h3>Est-ce que je dois avancer les frais ?</h3>
+            <p>En partie, oui. Mais l'ANAH propose des <strong>avances de fonds</strong> pour les ménages très modestes (jusqu'à 70% du montant de l'aide) pour démarrer les travaux. Le reste est versé à la fin du chantier.</p>
+
+            <h3>Puis-je réaliser les travaux moi-même ?</h3>
+            <p>Non. Pour bénéficier de MaPrimeRénov' et des CEE, la fourniture et la pose doivent être impérativement réalisées par un professionnel <strong>RGE</strong>.</p>
+
+            <h3>Quels sont les délais ?</h3>
+            <p>Comptez 4 à 6 mois pour le montage du dossier administratif et l'accord. Les travaux peuvent durer de 2 semaines à 2 mois selon l'ampleur. Patience est mère de vertu (et d'économies) !</p>
+
+            <h2>Conclusion</h2>
+            <p>La rénovation d'ampleur est une opportunité historique. Avec jusqu'à 90% de financement, le retour sur investissement est immédiat grâce aux économies d'énergie, sans parler du confort de vie. Ne laissez pas passer le train de la rénovation énergétique !</p>
+
+            <p class="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-100">
+                <strong>Prêt à transformer votre maison ?</strong><br>
+                Nos artisans partenaires sont tous certifiés RGE et habitués aux dossiers MaPrimeRénov'.<br>
+                <a href="/devis" class="inline-block mt-2 bg-blue-600 text-white px-6 py-2 rounded-full font-semibold hover:bg-blue-700 transition-colors">Demander mon devis gratuit</a>
+            </p>
+        `
+    },
+
+    {
         slug: "renovation-energetique-lyon-aides-metropole",
         title: "Rénovation énergétique à Lyon : Les aides spécifiques de la métropole en 2025",
         metaDescription: "Découvrez toutes les aides à la rénovation énergétique à Lyon et dans la Métropole : Écoréno'v, MaPrimeRénov', CEE, éco-PTZ. Prix, conditions et démarches pour vos travaux.",
