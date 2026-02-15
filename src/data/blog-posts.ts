@@ -2,6 +2,109 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "dossier-maprimerenov-bloque-solutions",
+        title: "Dossier MaPrimeRénov' bloqué : 5 solutions pour débloquer votre aide",
+        metaDescription: "Votre dossier MaPrimeRénov' est bloqué ? Délais, recours, médiateur... Découvrez 5 solutions concrètes pour débloquer votre aide et toucher votre prime rapidement.",
+        heroImage: "/images/blog/ma-prime-renov-bloque-hero.png",
+        category: "Aides & Financement",
+        publishedAt: "2026-02-15",
+        readTime: "10 min",
+        excerpt: "Dossier en instruction depuis des mois, demande de pièces complémentaires sans fin... Un dossier MaPrimeRénov' bloqué n'est pas une fatalité. Voici la marche à suivre pour récupérer votre dû.",
+        relatedServices: ["isolation-exterieur", "pompe-a-chaleur-air-eau", "monte-escalier", "isolation-combles", "fenetre"],
+        content: `
+                <p class="text-lg leading-relaxed">C'est le cauchemar de nombreux propriétaires : les travaux sont finis, les factures sont payées, mais la prime MaPrimeRénov' promise se fait attendre. Statut « en instruction » qui s'éternise, demande de documents déjà envoyés, ou pire, silence radio de l'ANAH. Si vous êtes dans cette situation, sachez que vous n'êtes pas seul et surtout, que des solutions existent. En tant qu'experts RGE, nous accompagnons quotidiennement nos clients dans ces méandres administratifs. Voici notre guide de survie pour <strong>débloquer votre dossier MaPrimeRénov'</strong> et obtenir votre virement.</p>
+    
+                <h2>Pourquoi mon dossier MaPrimeRénov' est-il bloqué ?</h2>
+                <p>Avant d'agir, il faut comprendre l'origine du blocage. L'Agence Nationale de l'Habitat (ANAH) traite des milliers de dossiers par semaine, et le moindre grain de sable peut gripper la machine.</p>
+    
+                <h3>Les 3 causes les plus fréquentes :</h3>
+                <ul>
+                    <li><strong>L'incohérence des documents :</strong> Une différence d'un centime entre le devis et la facture, une adresse mal orthographiée, ou un RIB au nom de jeune fille alors que le dossier est au nom d'épouse. L'automatisation des contrôles ne laisse passer aucune erreur.</li>
+                    <li><strong>La non-conformité de l'artisan RGE :</strong> Si le label RGE de votre artisan a expiré <em>pendant</em> les travaux ou s'il n'était pas valide à la date de signature du devis, le dossier est automatiquement rejeté ou mis en attente pour vérification manuelle.</li>
+                    <li><strong>Le contrôle aléatoire :</strong> L'ANAH réalise des contrôles sur site ou sur pièces avant paiement pour lutter contre la fraude. Si vous êtes sélectionné, le délai s'allonge de plusieurs semaines le temps que l'expert passe chez vous.</li>
+                </ul>
+    
+                <h2>Solution 1 : Vérifier et compléter son espace personnel</h2>
+                <p>La première chose à faire est de vous connecter à votre compte sur <strong>maprimerenov.gouv.fr</strong>. Ne vous contentez pas de regarder la barre de progression. Fouillez dans la messagerie sécurisée et l'onglet « Mes documents ».</p>
+                <p>Souvent, l'ANAH a envoyé une notification de <strong>demande de pièces complémentaires</strong> qui est passée inaperçue (spam, email non lu). Il peut s'agir d'une attestation sur l'honneur manquante ou d'un cadre de contribution CEE mal rempli par l'entreprise.</p>
+                <p><strong>Le conseil de l'expert :</strong> Renvoyez TOUS les documents demandés en une seule fois, au format PDF, parfaitement lisibles. Un document flou est un document rejeté.</p>
+    
+                <h2>Solution 2 : Contacter l'ANAH (avec la bonne méthode)</h2>
+                <p>Si rien ne bouge, il faut passer à l'offensive. Mais attention, harceler le standard téléphonique est souvent inefficace.</p>
+                <ul>
+                    <li><strong>Par téléphone :</strong> Le 0 808 800 700 (service gratuit) est souvent saturé. Appelez le matin dès 8h30. Demandez systématiquement le <strong>numéro de ticket</strong> de votre appel pour garder une trace.</li>
+                    <li><strong>Par le formulaire de contact :</strong> Privilégiez l'écrit via le formulaire de contact sur le site. Sélectionnez le motif « Suivi de mon dossier ». Joignez des captures d'écran.</li>
+                    <li><strong>L'astuce qui marche :</strong> Contactez un conseiller <strong>France Rénov'</strong> proche de chez vous. Bien qu'ils ne traitent pas directement les paiements, ils ont parfois des contacts privilégiés avec les délégations locales de l'ANAH pour signaler un dossier en souffrance.</li>
+                </ul>
+    
+                <h2>Solution 3 : Saisir le Défenseur des droits</h2>
+                <p>Si votre dossier est bloqué depuis <strong>plus de 2 mois sans raison valable</strong> et que vos relances restent sans réponse, vous pouvez saisir le <strong>Défenseur des droits</strong>. C'est une autorité administrative indépendante chargée de défendre les citoyens face à l'administration.</p>
+                <p>La procédure est gratuite et se fait en ligne. Le simple fait de mentionner cette démarche à l'ANAH suffit parfois à faire remonter votre dossier en haut de la pile. En 2024, le Défenseur des droits a résolu des centaines de litiges liés à MaPrimeRénov'.</p>
+    
+                <h2>Tableau récapitulatif : Délais normaux vs inquiétants</h2>
+                <p>Comment savoir si votre situation est anormale ? Voici les délais moyens constatés en 2025-2026.</p>
+    
+                <table class="w-full border-collapse my-6 text-sm">
+                    <thead>
+                        <tr class="bg-slate-100">
+                            <th class="p-3 text-left font-bold border-b">Étape du dossier</th>
+                            <th class="p-3 text-left font-bold border-b">Délai normal</th>
+                            <th class="p-3 text-left font-bold border-b">Quand s'inquiéter ?</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="border-b"><td class="p-3">Instruction de la demande (accord de subvention)</td><td class="p-3">15 jours à 1 mois</td><td class="p-3">> 2 mois</td></tr>
+                        <tr class="border-b"><td class="p-3">Instruction de la demande de paiement (après factures)</td><td class="p-3">3 à 5 semaines</td><td class="p-3">> 8 semaines</td></tr>
+                        <tr class="border-b"><td class="p-3">Virement bancaire (après notification de paiement)</td><td class="p-3">10 à 15 jours</td><td class="p-3">> 3 semaines</td></tr>
+                        <tr class="border-b"><td class="p-3">Réponse aux pièces complémentaires</td><td class="p-3">2 à 3 semaines</td><td class="p-3">> 1 mois</td></tr>
+                    </tbody>
+                </table>
+    
+                <h2>Solution 4 : Le médiateur de l'ANAH</h2>
+                <p>Avant d'aller au tribunal, il existe une étape intermédiaire : la médiation. Si votre réclamation écrite a été rejetée ou est restée sans réponse pendant 2 mois, vous pouvez saisir le médiateur de l'ANAH.</p>
+                <p>Attention, cette démarche n'est possible que si vous pouvez prouver que vous avez déjà tenté de résoudre le problème par les voies classiques (gardez vos emails !).</p>
+    
+                <h2>Solution 5 : Anticiper pour ne pas être bloqué (la prévention)</h2>
+                <p>Mieux vaut prévenir que guérir. Pour vos prochains travaux (isolation, <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> via MaPrimeAdapt', etc.), voici les règles d'or pour un dossier fluide :</p>
+                
+                <h3>1. L'artisan RGE est la clé de voûte</h3>
+                <p>Ne signez jamais avec une entreprise qui vous dit « On s'arrange avec le RGE ». L'entreprise qui facture DOIT être celle qui réalise les travaux et elle DOIT être titulaire du label <strong>RGE</strong> dans le domaine concerné (ex: Qualibat 5211 pour une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur</a>) à la date de signature du devis.</p>
+                
+                <h3>2. Ne commencez JAMAIS les travaux avant l'accord</h3>
+                <p>C'est la règle n°1. Si vous signez le devis et versez un acompte avant d'avoir reçu la notification d'attribution de l'aide par email, <strong>votre dossier sera irrémédiablement rejeté</strong>. Seule exception : les cas d'urgence impérieuse (panne de chauffage en plein hiver) avec une procédure spécifique encadrée.</p>
+    
+                <h3>3. La cohérence totale des informations</h3>
+                <p>Le devis doit être détaillé ligne par ligne (marque, modèle, résistance thermique R, coût unitaire, main d'œuvre). La facture doit reprendre exactement les mêmes termes. Si vous installez une <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation extérieure</a>, la surface isolée doit être identique.</p>
+    
+                <h2>Le saviez-vous ? Les mandataires administratifs</h2>
+                <p>Pour éviter ces tracas, vous pouvez désigner un <strong>mandataire administratif</strong>. C'est souvent l'entreprise de travaux ou un tiers de confiance (comme nous, Le Cercle des Artisans) qui gère le dossier à votre place. L'aide peut même être déduite directement de votre facture si vous choisissez un mandataire financier.</p>
+    
+                <h2>FAQ : Vos questions, nos réponses d'experts</h2>
+    
+                <h3>Peut-on perdre MaPrimeRénov' si les travaux tardent ?</h3>
+                <p>Oui. Vous avez un délai pour réaliser les travaux après l'obtention de l'accord (généralement 2 ans, parfois 1 an selon les cas). Si le chantier prend du retard (pénurie de matériaux, planning chargé), pensez à demander une <strong>prorogation de délai</strong> motivée auprès de l'ANAH avant la date butoir.</p>
+    
+                <h3>Mon artisan a perdu son RGE pendant le chantier, que faire ?</h3>
+                <p>C'est une situation délicate. Si son certificat était valide à la date de signature du devis (et que vous avez la preuve/attestation de l'époque), l'ANAH doit théoriquement accepter le dossier. Si vous n'avez pas vérifié à la signature... c'est prouver sa bonne foi qui sera difficile. D'où l'importance de vérifier sur l'annuaire France Rénov'.</p>
+    
+                <h3>L'ANAH me demande de rembourser une prime perçue, est-ce normal ?</h3>
+                <p>Cela arrive en cas de contrôle post-travaux révélant une non-conformité (ex: isolation moins épaisse que prévu) ou une fraude. Si vous êtes de bonne foi et victime d'une malfaçon, vous pouvez contester, mais l'artisan sera mis en cause.</p>
+    
+                <h3>Quid des CEE bloqués ?</h3>
+                <p>Les Certificats d'Économies d'Énergie (primes versées par EDF, Total, etc.) sont gérés par des acteurs privés. Les délais peuvent aussi être longs. En cas de litige, c'est le <strong>Médiateur national de l'énergie</strong> qu'il faut saisir, et non l'ANAH.</p>
+    
+                <h2>Conclusion</h2>
+                <p>Un dossier MaPrimeRénov' bloqué est une épreuve pour les nerfs et la trésorerie, mais ce n'est pas une fatalité. En étant méthodique, en fournissant les justificatifs précis et en utilisant les voies de recours (Défenseur des droits), la situation se débloque dans 95% des cas.</p>
+                <p>Pour éviter ces sueurs froides, la meilleure assurance reste de choisir des <strong>professionnels reconnus et accompagnants</strong>.</p>
+    
+                <p class="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-100">
+                    <strong>Vous cherchez la tranquillité d'esprit ?</strong><br>
+                    Le Cercle des Artisans, c'est un réseau d'artisans RGE sélectionnés pour leur fiabilité administrative autant que technique.<br>
+                    <a href="/devis" class="inline-block mt-2 bg-blue-600 !text-white no-underline px-6 py-2 rounded-full font-semibold hover:bg-blue-700 transition-colors">Je demande mon devis gratuit et sécurisé</a>
+                </p>
+            `
+    },
+    {
         slug: "renovation-ampleur-subventions-90-pourcent",
         title: "Rénovation d'ampleur : Comment obtenir jusqu'à 90% de subventions ?",
         metaDescription: "Financez jusqu'à 90% de vos travaux de rénovation globale en 2026 grâce à MaPrimeRénov' Parcours Accompagné. Guide complet : aides, prix, audit et démarches.",

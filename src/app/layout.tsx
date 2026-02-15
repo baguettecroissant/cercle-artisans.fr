@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -25,6 +26,7 @@ export default function RootLayout({
                 <main className="min-h-screen pt-20 pb-16 md:pb-0">{children}</main>
                 <Footer />
                 <StickyMobileCTA />
+                <Script src="https://nhmvgsrwhjsjnpncpiaj.supabase.co/functions/v1/analytics-collect?script=1" />
             </body>
         </html>
     );
