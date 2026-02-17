@@ -2,6 +2,95 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "climatisation-multi-split-une-seule-unite-exterieure",
+        title: "Climatisation Multi-split : Une seule unité extérieure pour toute la maison",
+        metaDescription: "Une seule unité extérieure pour chauffer et climatiser 5 pièces ? Découvrez la climatisation multi-split : fonctionnement, prix, aides 2025 et installation.",
+        heroImage: "/images/blog/climatisation-multi-split-hero.jpg",
+        category: "Climatisation",
+        publishedAt: "2026-02-17",
+        readTime: "8 min",
+        excerpt: "Fini les façades défigurées par une collection de moteurs ! La climatisation multi-split permet de raccorder jusqu'à 5 unités intérieures sur un seul groupe extérieur. Gain de place, économies d'énergie, confort pièce par pièce : voici tout ce qu'il faut savoir.",
+        relatedServices: ["climatisation", "pompe-a-chaleur-air-eau", "isolation-exterieur"],
+        content: `
+            <p class="text-lg leading-relaxed">C'est le dilemme classique : vous voulez climatiser le salon et les chambres, mais l'idée d'avoir trois gros moteurs accrochés à votre façade vous rebute (et votre copropriété aussi). La solution ? La <strong>climatisation multi-split</strong>. Avec une seule unité extérieure capable d'alimenter jusqu'à 5 unités intérieures, c'est le choix de la discrétion et de l'efficacité. Mais est-ce vraiment rentable ? Quel modèle choisir ? Et quelles sont les aides en 2026 ? Décryptage complet.</p>
+
+            <h2>Pourquoi choisir un climatiseur multi-split ?</h2>
+            <p>Contrairement au mono-split (1 moteur = 1 unité intérieure), le multi-split centralise la production de froid (et de chaud) sur un seul groupe extérieur puissant. Voici pourquoi nos clients l'adorent :</p>
+            
+            <h3>1. L'esthétique et le gain de place</h3>
+            <p>C'est l'argument numéro 1. Au lieu de transformer votre façade en exposition de ventilateurs, vous n'avez qu'un seul bloc, facile à dissimuler sur un balcon ou dans un jardin. C'est souvent la <strong>seule solution acceptée par les copropriétés</strong> strictes ou les architectes des bâtiments de France.</p>
+
+            <h3>2. Le confort pièce par pièce (Zoning)</h3>
+            <p>Chaque unité intérieure est <strong>indépendante</strong>. Vous pouvez régler la température à 19°C dans la chambre parentale, 21°C dans le salon, et éteindre la chambre d'amis inoccupée. Fini les guerres du thermostat !</p>
+
+            <h3>3. Les économies d'énergie</h3>
+            <p>Les modèles modernes sont équipés de la technologie <strong>Inverter</strong>, qui adapte la puissance du moteur en temps réel. Si une seule pièce demande du froid, le moteur tourne au ralenti. Résultat : une consommation optimisée et une durée de vie prolongée.</p>
+
+            <h2>Comment ça marche techniquement ?</h2>
+            <p>Le principe est ingénieux : l'unité extérieure contient le compresseur et le condenseur. Elle est reliée à chaque unité intérieure par des liaisons frigorifiques (tubes de cuivre isolés) où circule le fluide frigorigène. Chaque unité intérieure possède son propre détendeur électronique.</p>
+            <p><strong>Côté performance :</strong> Visez un SCOP (Coefficient de Performance Saisonnier en chaud) supérieur à 4,0 (A+) et un SEER (en froid) supérieur à 6,0 (A++). Cela signifie que pour 1 kWh d'électricité consommé, l'appareil restitue 4 kWh de chaleur ou 6 kWh de froid.</p>
+
+            <h2>Bi-split, Tri-split, Quadri-split : Les prix 2026</h2>
+            <p>Le budget dépend du nombre d'unités, de la puissance totale et de la complexité de l'installation (longueur des liaisons, saignées, etc.). Voici les fourchettes de prix constatées pour du matériel de marque (Daikin, Mitsubishi, Atlantic) posé par un pro :</p>
+
+            <table class="w-full border-collapse my-6 text-sm">
+                <thead>
+                    <tr class="bg-slate-100">
+                        <th class="p-3 text-left font-bold border-b">Type de système</th>
+                        <th class="p-3 text-left font-bold border-b">Configuration</th>
+                        <th class="p-3 text-left font-bold border-b">Prix moyen (Fourniture + Pose)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="border-b"><td class="p-3"><strong>Bi-split</strong></td><td class="p-3">2 pièces (ex: Salon + 1 Chambre)</td><td class="p-3">3 000 € à 4 500 € TTC</td></tr>
+                    <tr class="border-b"><td class="p-3"><strong>Tri-split</strong></td><td class="p-3">3 pièces (ex: Salon + 2 Chambres)</td><td class="p-3">4 500 € à 6 500 € TTC</td></tr>
+                    <tr class="border-b"><td class="p-3"><strong>Quadri-split</strong></td><td class="p-3">4 pièces (Maison complète)</td><td class="p-3">6 000 € à 9 000 € TTC</td></tr>
+                    <tr class="border-b"><td class="p-3"><strong>Gainable (5 sorties)</strong></td><td class="p-3">Tout intégré (réseau de gaines)</td><td class="p-3">10 000 € à 15 000 € TTC</td></tr>
+                </tbody>
+            </table>
+
+            <h2>Quelles aides financières pour une clim réversible en 2026 ?</h2>
+            <p>Soyons clairs pour éviter les déconvenues : la climatisation réversible (air-air) est considérée comme un équipement de confort d'été par l'État. Elle est donc <strong>exclue de MaPrimeRénov'</strong> (contrairement à la <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a> qui se branche sur des radiateurs).</p>
+            <p>Cependant, des aides existent pour amortir l'investissement :</p>
+            <ul>
+                <li><strong>Les CEE (Certificats d'Économies d'Énergie) :</strong> Jusqu'à 900 € de prime selon la surface et la zone climatique. Condition : faire appel à un artisan RGE et choisir un appareil performant (SCOP ≥ 3,9).</li>
+                <li><strong>La TVA réduite à 10% :</strong> Elle s'applique sur la <strong>main d'œuvre uniquement</strong> (et non sur le matériel) si votre logement a plus de 2 ans.</li>
+                <li><strong>L'éco-chèque régional :</strong> Certaines régions comme l'Occitanie ou PACA proposent des aides locales. Renseignez-vous !</li>
+            </ul>
+            
+            <p class="mb-4 btn-warning p-4 bg-orange-50 border-l-4 border-orange-500 text-orange-700"><strong>Attention aux arnaques :</strong> Si on vous promet la clim à 1€ ou qu'elle est "gratuite avec les aides", fuyez. C'est impossible techniquement et légalement.</p>
+
+            <h2>L'installation : Un travail de précision</h2>
+            <p>Poser un multi-split ne s'improvise pas. C'est un circuit fermé sous haute pression contenant des fluides frigorigènes réglementés.</p>
+            <ol class="list-decimal pl-6 space-y-2 mb-6">
+                <li><strong>L'étude thermique :</strong> Votre artisan dimensionne la puissance. Trop puissant = cycles courts et usure. Pas assez = surconsommation.</li>
+                <li><strong>Le passage des liaisons :</strong> C'est l'étape la plus délicate. Il faut passer les tubes de cuivre et l'évacuation des condensats (l'eau de condensation) depuis chaque pièce jusqu'au groupe extérieur ou une évacuation d'eau. Goulottes discrètes, saignées ou passage en combles/vide-sanitaire : tout s'étudie.</li>
+                <li><strong>Le tirage au vide et la mise en service :</strong> Étape cruciale pour chasser l'air et l'humidité des tuyaux avant d'envoyer le gaz. Seul un pro avec une <strong>attestation de capacité</strong> peut manipuler les fluides.</li>
+            </ol>
+
+            <h2>FAQ : Vos questions fréquentes</h2>
+
+            <h3>Est-ce bruyant ?</h3>
+            <p>Les unités intérieures actuelles sont quasi inaudibles (19 à 22 dB en mode silencieux, soit le bruit d'un chuchotement). L'unité extérieure ronronne (45-50 dB), attention donc à ne pas la coller sous la fenêtre du voisin !</p>
+
+            <h3>Peut-on chauffer toute la maison avec ?</h3>
+            <p>Oui, c'est le principe du chauffage thermodynamique. C'est très économique jusqu'à -5°C / -10°C extérieur. En zone de montagne ou climat très rude, un chauffage d'appoint (poêle, radiateurs) peut rester nécessaire pour les jours de grand froid.</p>
+
+            <h3>Quel entretien prévoir ?</h3>
+            <p>Nettoyez les filtres des unités intérieures tous les 2 mois (aspirateur + eau savonneuse). Pour l'unité extérieure et le circuit gaz, un contrôle d'étanchéité réalisé par un pro est obligatoire tous les 2 ans si la charge en fluide dépasse 2kg (souvent le cas sur les gros multi-splits).</p>
+
+            <h2>Conclusion</h2>
+            <p>La climatisation multi-split est l'investissement confort par excellence. Elle valorise votre bien, vous garde au frais l'été et réduit votre facture de chauffage l'hiver. Pour une installation durable et esthétique, l'expertise d'un frigoriste qualifié est indispensable.</p>
+
+            <p class="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-100">
+                <strong>Vous envisagez d'installer une clim multi-split ?</strong><br>
+                Ne laissez pas n'importe qui toucher à vos murs. Le Cercle des Artisans sélectionne pour vous les meilleurs climaticiens RGE de votre région.<br>
+                <a href="/devis" class="inline-block mt-2 bg-blue-600 !text-white no-underline px-6 py-2 rounded-full font-semibold hover:bg-blue-700 transition-colors">Je demande mon devis installation clim</a>
+            </p>
+        `
+    },
+
+    {
         slug: "dossier-maprimerenov-bloque-solutions",
         title: "Dossier MaPrimeRénov' bloqué : 5 solutions pour débloquer votre aide",
         metaDescription: "Votre dossier MaPrimeRénov' est bloqué ? Délais, recours, médiateur... Découvrez 5 solutions concrètes pour débloquer votre aide et toucher votre prime rapidement.",
