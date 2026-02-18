@@ -2,6 +2,103 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "quel-artisan-choisir-isolation-toulouse",
+        title: "Quel artisan choisir pour son isolation à Toulouse ?",
+        metaDescription: "Isolation à Toulouse : comment choisir le bon artisan RGE ? Prix au m², aides 2025 (MaPrimeRénov', CEE), matériaux et pièges à éviter. Le guide complet.",
+        heroImage: "/images/blog/isolation-toulouse-artisan.jpg",
+        category: "Isolation",
+        publishedAt: "2026-02-18",
+        readTime: "12 min",
+        excerpt: "Isolation des combles, murs ou fenêtres à Toulouse : face à la jungle des offres, comment trouver un artisan fiable ? Prix, arnaques, aides locales : notre enquête pour ne pas se tromper.",
+        relatedServices: ["isolation-exterieur", "isolation-combles", "fenetre", "pompe-a-chaleur-air-eau"],
+        content: `
+            <p class=\"text-lg leading-relaxed\">À Toulouse, on le sait : les étés sont de plus en plus caniculaires et les hivers, bien que courts, peuvent être piquants et humides. Si votre facture de chauffage s'envole ou si votre maison se transforme en fournaise dès le mois de juin, c'est qu'il est temps de revoir votre isolation. Mais voilà : entre les démarchages téléphoniques abusifs, les devis qui vont du simple au triple et le maquis des aides de l'État, trouver un <strong>artisan fiable à Toulouse</strong> relève du parcours du combattant. Comment éviter les arnaques ? Quel prix payer pour une isolation de qualité ? Quelles sont les spécificités de l'isolation en Haute-Garonne ? Voici le guide sans langue de bois des experts du Cercle des Artisans.</p>
+
+            <h2>Pourquoi l'isolation est la priorité n°1 à Toulouse ?</h2>
+            <p>Avant même de penser à changer votre chauffage pour une pompe à chaleur, l'isolation est l'étape incontournable. À Toulouse, l'enjeu est double :</p>
+            <ul>
+                <li><strong>Le confort d'hiver :</strong> Une maison mal isolée perd jusqu'à 30% de sa chaleur par le toit et 25% par les murs. C'est autant d'euros jetés par les fenêtres.</li>
+                <li><strong>Le confort d'été (Crucial en Occitanie) :</strong> C'est la spécificité de notre région. Une bonne isolation doit vous protéger du froid, mais aussi de la chaleur (le déphasage thermique). Tous les isolants ne se valent pas sur ce point !</li>
+            </ul>
+
+            <h2>Les solutions techniques : Que choisir pour sa maison toulousaine ?</h2>
+            
+            <h3>1. L'isolation des combles (Le meilleur rapport qualité/prix)</h3>
+            <p>C'est souvent par là qu'il faut commencer. Pour des <a href=\"/service/isolation-combles\" class=\"text-blue-600 hover:underline font-medium\">combles perdus</a>, la technique du soufflage est reine. 
+            <strong>Le conseil de l'expert :</strong> À Toulouse, privilégiez la <strong>ouate de cellulose</strong> ou la <strong>laine de roche</strong> plutôt que la laine de verre standard. Pourquoi ? Parce qu'elles sont plus denses et protègent mieux de la chaleur estivale (meilleur déphasage).</p>
+
+            <h3>2. L’Isolation Thermique par l’Extérieur (ITE)</h3>
+            <p>Pour les maisons des années 60-70 ("Phénix", brique creuse, parpaing) très courantes dans la couronne toulousaine (Colomiers, Blagnac, Balma...), l'<a href=\"/service/isolation-exterieur\" class=\"text-blue-600 hover:underline font-medium\">ITE</a> est la solution radicale. On enveloppe la maison d'un manteau isolant (souvent du polystyrène graphité) sous un nouvel enduit.
+            <strong>Avantage :</strong> Vous ne perdez pas de surface habitable et vous ravalez votre façade en même temps.</p>
+
+            <h3>3. Les menuiseries</h3>
+            <p>Passer du simple au double vitrage est indispensable, mais attention au choix du cadre. L'aluminium est esthétique mais moins isolant que le PVC, sauf s'il est à rupture de pont thermique. Pour les baies vitrées exposées plein sud, exigez un vitrage à contrôle solaire.</p>
+
+            <h2>Combien ça coûte vraiment ? (Prix marché Toulouse 2026)</h2>
+            <p>Méfiez-vous des prix trop bas ("l'isolation à 1€" n'existe plus sous cette forme) comme des prix délirants. Voici les fourchettes de prix honnêtes constatées en Haute-Garonne, <strong>fourniture et pose comprise</strong> par un artisan RGE :</p>
+
+            <table class=\"w-full border-collapse my-6 text-sm\">
+                <thead>
+                    <tr class=\"bg-slate-100\">
+                        <th class=\"p-3 text-left font-bold border-b\">Type de travaux</th>
+                        <th class=\"p-3 text-left font-bold border-b\">Matériau recommandé</th>
+                        <th class=\"p-3 text-left font-bold border-b\">Prix moyen au m² (TTC)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class=\"border-b\"><td class=\"p-3\"><strong>Isolation des combles perdus</strong></td><td class=\"p-3\">Ouate de cellulose (R=7)</td><td class=\"p-3\">25 € à 45 € / m²</td></tr>
+                    <tr class=\"border-b\"><td class=\"p-3\"><strong>Isolation rampants coupés</strong></td><td class=\"p-3\">Laine de bois (R=6)</td><td class=\"p-3\">60 € à 90 € / m²</td></tr>
+                    <tr class=\"border-b\"><td class=\"p-3\"><strong>Isolation Extérieure (ITE)</strong></td><td class=\"p-3\">Polystyrène graphité (14cm)</td><td class=\"p-3\">140 € à 190 € / m²</td></tr>
+                    <tr class=\"border-b\"><td class=\"p-3\"><strong>Isolation des murs intérieurs (ITI)</strong></td><td class=\"p-3\">Laine de verre + Placo</td><td class=\"p-3\">50 € à 80 € / m²</td></tr>
+                    <tr class=\"border-b\"><td class=\"p-3\"><strong>Fenêtre complète (rénovation)</strong></td><td class=\"p-3\">PVC Double Vitrage</td><td class=\"p-3\">500 € à 800 € / unité</td></tr>
+                </tbody>
+            </table>
+
+            <h2>Les aides financières 2025 à Toulouse : Ne passez pas à côté !</h2>
+            <p>La région Occitanie et Toulouse Métropole sont dynamiques sur les aides. Voici ce que vous pouvez cumuler :</p>
+            <ul>
+                <li><strong>MaPrimeRénov' :</strong> L'aide principale de l'État. Le montant dépend de vos revenus (couleur profil). Pour une ITE, cela peut aller jusqu'à 75€/m² pour les ménages très modestes.</li>
+                <li><strong>Les CEE (Certificats d'Économies d'Énergie) :</strong> Versés par les fournisseurs d'énergie. Attention, Toulouse est en zone climatique H1 (hiver froid) ou H2 selon les découpages, ce qui impacte le montant.</li>
+                <li><strong>L'Éco-Chèque Logement Occitanie :</strong> Une aide de la Région de 1500 € pour les propriétaires occupants (sous conditions de ressources) réalisant des travaux permettant un gain énergétique de 40%. Renseignez-vous !</li>
+                <li><strong>TVA à 5,5% :</strong> Automatique sur la facture si l'artisan est RGE.</li>
+            </ul>
+
+            <div class=\"bg-yellow-50 border-l-4 border-yellow-500 p-4 mb-6\">
+                <strong>💡 Point Vigilance :</strong> Pour toucher ces aides, l'artisan doit être certifié <strong>RGE (Reconnu Garant de l'Environnement)</strong> à la date de signature du devis. Demandez toujours son certificat à jour !
+            </div>
+
+            <h2>Comment se déroule un chantier avec un bon artisan ?</h2>
+            <p>Voici les étapes d'une relation saine avec votre prestataire :</p>
+            <ol class=\"list-decimal pl-6 space-y-2 mb-6\">
+                <li><strong>La visite technique (Obligatoire) :</strong> Un artisan sérieux ne fait jamais un devis par téléphone. Il doit venir voir l'accès, l'état de la charpente, la présence de réseaux électriques, etc.</li>
+                <li><strong>Le devis détaillé :</strong> Il doit mentionner la résistance thermique (R) de l'isolant, la marque, l'épaisseur, et distinguer la main d'œuvre du matériel.</li>
+                <li><strong>Le montage des dossiers d'aides :</strong> Un bon artisan ou son partenaire vous aide à valider votre éligibilité AVANT de signer.</li>
+                <li><strong>La protection du chantier :</strong> C'est souvent là qu'on reconnaît les pros. Protection des sols, nettoyage de fin de chantier... exigez la propreté.</li>
+            </ol>
+
+            <h2>FAQ : Vos questions fréquentes</h2>
+
+            <h3>Faut-il enlever l'ancienne laine de verre dans les combles ?</h3>
+            <p>Oui, c'est vivement recommandé ! Si l'ancienne laine est tassée, humide ou souillée par des rongeurs, la recouvrir est une mauvaise idée. Il faut procéder à un enlèvement et une mise en déchetterie avant de souffler le nouvel isolant.</p>
+
+            <h3>Quel est le délai pour des travaux d'isolation à Toulouse ?</h3>
+            <p>Actuellement, comptez 3 à 6 semaines entre la signature du devis et l'intervention. L'isolation des combles se fait souvent en une demi-journée. Une ITE prend 2 à 3 semaines selon la météo.</p>
+
+            <h3>La visite technique est-elle payante ?</h3>
+            <p>Non, chez la majorité des artisans RGE (dont ceux du Cercle des Artisans), le déplacement et le devis sont gratuits et sans engagement.</p>
+
+            <h2>Conclusion : Ne jouez pas à la loterie avec votre confort</h2>
+            <p>Isoler sa maison à Toulouse est l'investissement le plus rentable que vous puissiez faire en 2026. Mais la qualité de la pose est aussi importante que la qualité du matériau. Un isolant mal posé (ponts thermiques, tassement) perd toute son efficacité en quelques années.</p>
+            <p>Pour éviter les mauvaises surprises, faites appel à des entreprises locales, vérifiées et recommandées par leurs clients.</p>
+
+            <p class=\"mt-6 p-4 bg-blue-50 rounded-lg border border-blue-100\">
+                <strong>Vous cherchez un artisan RGE de confiance à Toulouse ?</strong><br>
+                Nous avons sélectionné pour vous les meilleurs spécialistes de l'isolation en Haute-Garonne.<br>
+                <a href=\"/devis\" class=\"inline-block mt-2 bg-blue-600 !text-white no-underline px-6 py-2 rounded-full font-semibold hover:bg-blue-700 transition-colors\">Obtenir mes 3 devis gratuits</a>
+            </p>
+        `
+    },
+    {
         slug: "climatisation-multi-split-une-seule-unite-exterieure",
         title: "Climatisation Multi-split : Une seule unité extérieure pour toute la maison",
         metaDescription: "Une seule unité extérieure pour chauffer et climatiser 5 pièces ? Découvrez la climatisation multi-split : fonctionnement, prix, aides 2025 et installation.",
