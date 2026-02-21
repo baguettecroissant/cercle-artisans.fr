@@ -21,7 +21,7 @@ export async function generateMetadata({
     if (!post) return {};
 
     return {
-        title: `${post.title} | Le Cercle des Artisans`,
+        title: post.title,
         description: post.metaDescription,
         openGraph: {
             title: post.title,
@@ -67,18 +67,19 @@ export default function BlogPostPage({
     // Extract FAQ items from HTML content for FAQPage schema
     const faqItems: { question: string; answer: string }[] = [];
     // Only extract from posts that have a FAQ section
-    const faqSectionMatch = post.content.match(/FAQ[^<]*/i);
-    if (faqSectionMatch) {
-        let match;
-        const faqContent = post.content.slice(
-            post.content.indexOf(faqSectionMatch[0])
-        );
-        const faqEntryRegex = /<h3[^>]*>([^<]+)<\/h3>[\s\S]*?<p[^>]*>([\s\S]*?)<\/p>/g;
-        while ((match = faqEntryRegex.exec(faqContent)) !== null) {
-            const question = match[1].trim();
-            const answer = match[2].replace(/<[^>]*>/g, "").trim();
-            if (question && answer) {
-                faqItems.push({ question, answer });
+    if (post.content.includes('FAQ')) {
+        const faqPart = post.content.slice(post.content.indexOf('FAQ'));
+        const h3Matches = faqPart.split(/<h3[^>]*>/).slice(1);
+        for (const block of h3Matches) {
+            const titleEnd = block.indexOf('</h3>');
+            if (titleEnd === -1) continue;
+            const question = block.slice(0, titleEnd).replace(/<[^>]*>/g, '').trim();
+            const pMatch = block.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+            if (pMatch) {
+                const answer = pMatch[1].replace(/<[^>]*>/g, '').trim();
+                if (question && answer) {
+                    faqItems.push({ question, answer });
+                }
             }
         }
     }
