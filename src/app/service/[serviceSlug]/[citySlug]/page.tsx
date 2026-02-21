@@ -112,19 +112,19 @@ export default async function ProgrammaticPage({ params }: { params: { serviceSl
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Accueil",
-                        "item": "https://cercle-artisans.fr"
+                        "item": "https://www.cercle-artisans.fr"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": service.name,
-                        "item": `https://cercle-artisans.fr/service/${service.slug}/paris` // Ideal: /service/slug/
+                        "item": `https://www.cercle-artisans.fr/service/${service.slug}/paris` // Ideal: /service/slug/
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": city.departmentName, // Region/Dept in Breadcrumb
-                        "item": `https://cercle-artisans.fr` // Placeholders for now until directory pages exist
+                        "item": `https://www.cercle-artisans.fr` // Placeholders for now until directory pages exist
                     },
                     {
                         "@type": "ListItem",
@@ -170,9 +170,9 @@ export default async function ProgrammaticPage({ params }: { params: { serviceSl
                         {service.hero.subtitle}
                     </p>
                     <div className="mt-8 flex flex-col sm:flex-row justify-center gap-4">
-                        <button className="bg-white text-blue-600 font-bold py-3 px-8 rounded-full shadow-lg hover:bg-blue-50 transition transform hover:-translate-y-1">
+                        <Link href="/devis" className="bg-white text-blue-600 font-bold py-3 px-8 rounded-full shadow-lg hover:bg-blue-50 transition transform hover:-translate-y-1 inline-block">
                             Demander un Devis Gratuit
-                        </button>
+                        </Link>
                         {/* Phone number removed as per request */}
                     </div>
                 </div>

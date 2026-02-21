@@ -49,28 +49,100 @@ export default function BlogPostPage({
         post.relatedServices.includes(s.slug)
     );
 
-    // Other articles for "Read more"
+    // Other articles for "Read more" — prioritize same category, then shared relatedServices
     const otherPosts = blogPosts
         .filter((p) => p.slug !== post.slug)
+        .map((p) => {
+            let score = 0;
+            if (p.category === post.category) score += 3;
+            const sharedServices = p.relatedServices.filter((s) =>
+                post.relatedServices.includes(s)
+            );
+            score += sharedServices.length;
+            return { ...p, _score: score };
+        })
+        .sort((a, b) => b._score - a._score)
         .slice(0, 2);
 
-    // Schema.org Article
+    // Extract FAQ items from HTML content for FAQPage schema
+    const faqItems: { question: string; answer: string }[] = [];
+    // Only extract from posts that have a FAQ section
+    const faqSectionMatch = post.content.match(/FAQ[^<]*/i);
+    if (faqSectionMatch) {
+        let match;
+        const faqContent = post.content.slice(
+            post.content.indexOf(faqSectionMatch[0])
+        );
+        const faqEntryRegex = /<h3[^>]*>([^<]+)<\/h3>[\s\S]*?<p[^>]*>([\s\S]*?)<\/p>/g;
+        while ((match = faqEntryRegex.exec(faqContent)) !== null) {
+            const question = match[1].trim();
+            const answer = match[2].replace(/<[^>]*>/g, "").trim();
+            if (question && answer) {
+                faqItems.push({ question, answer });
+            }
+        }
+    }
+
+    // Schema.org Article + optional FAQPage
+    const jsonLdGraph: Record<string, unknown>[] = [
+        {
+            "@type": "Article",
+            headline: post.title,
+            description: post.metaDescription,
+            image: `https://www.cercle-artisans.fr${post.heroImage}`,
+            datePublished: post.publishedAt,
+            author: {
+                "@type": "Organization",
+                name: "Le Cercle des Artisans",
+            },
+            publisher: {
+                "@type": "Organization",
+                name: "Le Cercle des Artisans",
+                url: "https://www.cercle-artisans.fr",
+            },
+        },
+        {
+            "@type": "BreadcrumbList",
+            itemListElement: [
+                {
+                    "@type": "ListItem",
+                    position: 1,
+                    name: "Accueil",
+                    item: "https://www.cercle-artisans.fr",
+                },
+                {
+                    "@type": "ListItem",
+                    position: 2,
+                    name: "Blog",
+                    item: "https://www.cercle-artisans.fr/blog",
+                },
+                {
+                    "@type": "ListItem",
+                    position: 3,
+                    name: post.title,
+                },
+            ],
+        },
+    ];
+
+    // Add FAQPage schema if FAQ items found
+    if (faqItems.length > 0) {
+        jsonLdGraph.push({
+            "@type": "FAQPage",
+            mainEntity: faqItems.map((item) => ({
+                "@type": "Question",
+                name: item.question,
+                acceptedAnswer: {
+                    "@type": "Answer",
+                    text: item.answer,
+                },
+            })),
+        });
+    }
+
     const jsonLd = {
         "@context": "https://schema.org",
-        "@type": "Article",
-        headline: post.title,
-        description: post.metaDescription,
-        image: `https://cercle-artisans.fr${post.heroImage}`,
-        datePublished: post.publishedAt,
-        author: {
-            "@type": "Organization",
-            name: "Le Cercle des Artisans",
-        },
-        publisher: {
-            "@type": "Organization",
-            name: "Le Cercle des Artisans",
-            url: "https://cercle-artisans.fr",
-        },
+        "@graph": jsonLdGraph,
     };
 
     return (
@@ -87,6 +159,7 @@ export default function BlogPostPage({
                     src={post.heroImage}
                     alt={post.title}
                     fill
+                    sizes="100vw"
                     className="object-cover opacity-40"
                     priority
                 />

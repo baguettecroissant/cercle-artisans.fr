@@ -23,6 +23,46 @@ export default function Home() {
     return (
         <div className="flex flex-col min-h-screen">
 
+            {/* JSON-LD Organization + WebSite */}
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{
+                    __html: JSON.stringify({
+                        "@context": "https://schema.org",
+                        "@graph": [
+                            {
+                                "@type": "Organization",
+                                "@id": "https://www.cercle-artisans.fr/#organization",
+                                name: "Le Cercle des Artisans",
+                                url: "https://www.cercle-artisans.fr",
+                                description:
+                                    "Premier réseau d'artisans certifiés RGE en France. Rénovation énergétique, isolation, pompe à chaleur, climatisation et accessibilité.",
+                                contactPoint: {
+                                    "@type": "ContactPoint",
+                                    email: "contact@cercle-artisans.fr",
+                                    contactType: "customer service",
+                                    availableLanguage: "French",
+                                },
+                                areaServed: {
+                                    "@type": "Country",
+                                    name: "France",
+                                },
+                            },
+                            {
+                                "@type": "WebSite",
+                                "@id": "https://www.cercle-artisans.fr/#website",
+                                url: "https://www.cercle-artisans.fr",
+                                name: "Le Cercle des Artisans",
+                                publisher: {
+                                    "@id": "https://www.cercle-artisans.fr/#organization",
+                                },
+                                inLanguage: "fr-FR",
+                            },
+                        ],
+                    }),
+                }}
+            />
+
             {/* 1. HERO SECTION */}
             <section className="relative bg-slate-900 text-white py-24 px-4 overflow-hidden">
                 <div className="absolute inset-0 bg-[url('/images/hero-bg.jpg')] bg-cover bg-center opacity-20"></div>
@@ -90,6 +130,7 @@ export default function Home() {
                                         src={service.hero.image}
                                         alt={service.name}
                                         fill
+                                        sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                                         className="object-cover transition-transform duration-500 group-hover:scale-105"
                                     />
                                     <div className="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent z-10"></div>

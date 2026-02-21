@@ -17,3 +17,58 @@
 .animate-slide-up {
     animation: slide-up 0.3s ease-out;
 }
+
+/* ===========================
+   ViteUnDevis Widget Responsive
+   =========================== */
+.vud-widget-container {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.vud-widget-container iframe {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+.vud-widget-container>* {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+}
+
+/* Force all nested elements to respect container width */
+#v8501848b2bd,
+#v8501848b2bd *,
+#v73ea5977e4d,
+#v73ea5977e4d * {
+    max-width: 100% !important;
+}
+
+#v8501848b2bd iframe,
+#v73ea5977e4d iframe {
+    width: 100% !important;
+    max-width: 100% !important;
+    border: none;
+}
+
+#v8501848b2bd table,
+#v8501848b2bd img,
+#v73ea5977e4d table,
+#v73ea5977e4d img {
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+@media (max-width: 768px) {
+
+    #v8501848b2bd,
+    #v73ea5977e4d {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    #v8501848b2bd iframe,
+    #v73ea5977e4d iframe {
+        min-height: 600px;
+    }
+}

@@ -96,7 +96,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const post of blogPosts) {
         entries.push({
             url: `${BASE_URL}/blog/${post.slug}`,
-            lastModified: new Date(),
+            lastModified: new Date(post.publishedAt),
             changeFrequency: "monthly",
             priority: 0.7,
         });

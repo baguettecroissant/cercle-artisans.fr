@@ -2,6 +2,180 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "maprimerenov-marseille-accompagnateur-renov-local",
+        title: "MaPrimeRénov' à Marseille : Comment trouver un Accompagnateur Rénov' local",
+        metaDescription: "MaPrimeRénov' à Marseille : trouvez votre Accompagnateur Rénov' agréé dans les Bouches-du-Rhône. Aides 2025, prix, démarches et artisans RGE locaux. Guide complet.",
+        heroImage: "/images/blog/maprimerenov-accompagnateur-renov-marseille.png",
+        category: "Aides & Financement",
+        publishedAt: "2026-02-21",
+        readTime: "14 min",
+        excerpt: "Vous souhaitez rénover votre logement à Marseille et profiter de MaPrimeRénov' ? Depuis 2024, un Accompagnateur Rénov' agréé est obligatoire pour les rénovations d'ampleur. Découvrez comment le trouver, combien ça coûte et quelles aides cumuler dans les Bouches-du-Rhône.",
+        relatedServices: ["isolation-exterieur", "pompe-a-chaleur-air-eau", "isolation-combles", "fenetre", "climatisation", "monte-escalier"],
+        content: `
+<p class="text-lg leading-relaxed">Votre appartement du Panier surchauffe dès le mois de mai ? Votre maison à La Valentine laisse passer le mistral à travers des murs non isolés ? À Marseille, la question n'est plus de savoir <strong>si</strong> vous devez rénover, mais <strong>comment financer intelligemment</strong> vos travaux. Et en 2025-2026, la réponse tient en trois mots : <strong>MaPrimeRénov' Parcours Accompagné</strong>. Mais attention, pour les rénovations d'ampleur (les plus subventionnées, jusqu'à 90% !), un acteur clé est désormais incontournable : l'<strong>Accompagnateur Rénov'</strong> (MAR). Sans lui, pas d'aide. Alors, qui est-il ? Comment le trouver à Marseille et dans les Bouches-du-Rhône ? Combien ça coûte ? Les experts du Cercle des Artisans vous livrent le guide complet.</p>
+
+<h2>Pourquoi un Accompagnateur Rénov' est-il obligatoire à Marseille ?</h2>
+<p>Depuis le 1er janvier 2024, l'État a rendu obligatoire le recours à un <strong>Mon Accompagnateur Rénov'</strong> (MAR) agréé par l'Agence Nationale de l'Habitat (ANAH) pour toute demande de <strong>MaPrimeRénov' Parcours Accompagné</strong>. C'est le dispositif qui finance les rénovations les plus ambitieuses, celles qui permettent de gagner au minimum 2 classes DPE.</p>
+
+<h3>Le rôle concret de l'Accompagnateur Rénov'</h3>
+<p>L'Accompagnateur Rénov' n'est pas un simple conseiller. C'est un professionnel agréé, indépendant des entreprises de travaux, qui vous guide de A à Z :</p>
+<ul>
+    <li><strong>Audit énergétique complet :</strong> Il réalise ou fait réaliser un diagnostic précis de votre logement (performances actuelles, déperditions thermiques, état du bâti) et identifie les travaux prioritaires.</li>
+    <li><strong>Scénarisation des travaux :</strong> Il propose plusieurs scénarios de rénovation avec les gains de performance attendus (saut de 2, 3 ou 4 classes DPE) et les coûts associés.</li>
+    <li><strong>Montage financier :</strong> Il vous aide à identifier toutes les aides cumulables (MaPrimeRénov', CEE, aides locales, éco-PTZ) et à monter vos dossiers administratifs. Un vrai casse-tête sans lui.</li>
+    <li><strong>Suivi du chantier :</strong> Il vérifie la conformité des travaux réalisés par les artisans RGE et s'assure que les performances promises sont bien atteintes.</li>
+    <li><strong>Assistance post-travaux :</strong> Il vous accompagne pour la demande de paiement finale auprès de l'ANAH.</li>
+</ul>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-5 mb-6">
+    <strong>💡 Le saviez-vous ?</strong> L'accompagnement par un MAR est subventionné ! L'ANAH prend en charge une partie du coût : <strong>jusqu'à 100% pour les ménages très modestes</strong> (profil Bleu) et <strong>20% pour les autres profils</strong>. Coût moyen de la prestation : 1 500 à 3 000 € selon la complexité du projet.
+</div>
+
+<h2>Comment trouver un Accompagnateur Rénov' à Marseille et dans les Bouches-du-Rhône ?</h2>
+<p>À Marseille, vous avez plusieurs options pour trouver un MAR agréé. Voici les canaux les plus fiables :</p>
+
+<h3>1. L'Espace France Rénov' de Marseille</h3>
+<p>C'est votre premier réflexe. L'Espace Conseil <strong>France Rénov' Métropole Aix-Marseille-Provence</strong> est un service public gratuit. Les conseillers vous orientent vers les MAR agréés de votre secteur et vous fournissent un premier niveau d'information sur les aides disponibles. Plusieurs permanences existent dans les arrondissements marseillais et les communes voisines (Aix-en-Provence, Aubagne, Martigues, Vitrolles).</p>
+
+<h3>2. L'annuaire officiel de l'ANAH</h3>
+<p>Rendez-vous sur le site <strong>france-renov.gouv.fr</strong> pour consulter l'annuaire officiel des Accompagnateurs Rénov' agréés. Vous pouvez filtrer par département (Bouches-du-Rhône, 13) et par commune. Vérifiez systématiquement que l'agrément est à jour avant de signer.</p>
+
+<h3>3. Les opérateurs locaux agréés</h3>
+<p>Plusieurs structures opèrent comme MAR dans la métropole Aix-Marseille-Provence :</p>
+<ul>
+    <li><strong>L'ADIL 13</strong> (Agence Départementale d'Information sur le Logement) : conseil gratuit sur le financement.</li>
+    <li><strong>Les associations locales type SOLIHA</strong> : spécialisées dans l'accompagnement des ménages modestes.</li>
+    <li><strong>Des bureaux d'études thermiques privés agréés</strong> : pour un accompagnement personnalisé et technique.</li>
+</ul>
+
+<h3>4. Le réseau d'artisans RGE du Cercle des Artisans</h3>
+<p>En passant par <strong>Le Cercle des Artisans</strong>, vous accédez à un réseau de professionnels RGE implantés dans les Bouches-du-Rhône. Nos partenaires travaillent régulièrement avec les MAR locaux et peuvent vous orienter vers un accompagnateur fiable. C'est un gain de temps considérable.</p>
+
+<h2>Quels travaux financer avec MaPrimeRénov' à Marseille ?</h2>
+<p>Le climat méditerranéen de Marseille impose des besoins bien spécifiques. Le soleil abondant est un atout, mais les étés caniculaires et le mistral créent des défis thermiques uniques. Voici les travaux les plus pertinents :</p>
+
+<h3>L'isolation : la priorité absolue en zone H3</h3>
+<p>Marseille est en <strong>zone climatique H3</strong>, la plus douce de France. Pourtant, l'ancien parc immobilier marseillais (constructions 1950-1980, immeubles haussmanniens) est souvent très mal isolé. Les solutions adaptées :</p>
+<ul>
+    <li><strong><a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">Isolation Thermique par l'Extérieur (ITE)</a> :</strong> C'est le geste roi. Elle supprime les ponts thermiques et protège contre la chaleur estivale. Épaisseur recommandée en zone H3 : 12 à 16 cm de PSE graphité. Coefficient R ≥ 3,7 m².K/W (exigence MaPrimeRénov'). Prix moyen à Marseille : <strong>120 à 190 €/m² TTC</strong> posé.</li>
+    <li><strong><a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">Isolation des combles</a> :</strong> Priorité pour les maisons individuelles. 30% des déperditions passent par le toit. Soufflage de laine de roche ou ouate de cellulose. R ≥ 7 m².K/W. Prix : <strong>20 à 40 €/m²</strong> posé.</li>
+    <li><strong><a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">Remplacement des fenêtres</a> :</strong> Double vitrage VIR (Uw ≤ 1,3 W/m².K) avec option <strong>contrôle solaire</strong> recommandé pour les façades sud et ouest. Prix : <strong>500 à 1 000 €</strong> par fenêtre posée.</li>
+</ul>
+
+<h3>Le chauffage et la climatisation : s'adapter au climat marseillais</h3>
+<ul>
+    <li><strong><a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">Pompe à chaleur air/eau</a> :</strong> Solution idéale à Marseille grâce aux hivers doux. COP excellent (4,0 à 5,0 en climat méditerranéen). Puissance recommandée : 6 à 10 kW pour 100 m². Prix : <strong>9 000 à 15 000 € TTC</strong> installé.</li>
+    <li><strong><a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">Climatisation réversible</a> :</strong> Quasi indispensable à Marseille avec les 40°C estivaux. La PAC air/air réversible chauffe l'hiver et rafraîchit l'été. Non éligible MaPrimeRénov' mais éligible CEE. Prix : <strong>3 000 à 7 000 €</strong> pour un multi-split.</li>
+</ul>
+
+<h3>L'accessibilité : MaPrimeAdapt' pour les seniors marseillais</h3>
+<p>À Marseille, de nombreux logements anciens sont inadaptés au vieillissement (étages sans ascenseur, escaliers raides). Profitez du chantier pour installer un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> ou un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a>. <strong>MaPrimeAdapt'</strong> finance de <strong>50 à 70%</strong> de ces travaux d'adaptation (plafond : 22 000 €), cumulable avec les aides énergétiques.</p>
+
+<h2>Les aides financières 2025-2026 à Marseille : tableau récapitulatif</h2>
+<p>En cumulant aides nationales et locales, les Marseillais peuvent financer une part très importante de leurs travaux :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Aide</th>
+            <th class="p-4 text-left font-semibold">Montant / Taux</th>
+            <th class="p-4 text-left font-semibold">Conditions clés</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>MaPrimeRénov' Parcours Accompagné</strong></td><td class="p-4">30% à 90% du montant HT (plafond 70 000 €)</td><td class="p-4">MAR obligatoire, saut ≥ 2 classes DPE, artisan RGE</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>MaPrimeRénov' Monogeste (ITE)</strong></td><td class="p-4">45 à 80 €/m² selon profil</td><td class="p-4">R ≥ 3,7 m².K/W, artisan RGE</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>CEE (Certificats d'Économies d'Énergie)</strong></td><td class="p-4">8 à 15 €/m² (isolation) / jusqu'à 5 000 € (PAC)</td><td class="p-4">Zone H3, cumulable MaPrimeRénov'</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Aides Métropole Aix-Marseille</strong></td><td class="p-4">1 000 à 3 000 € (selon programme en cours)</td><td class="p-4">Résider dans la Métropole AMP, sous conditions</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Éco-PTZ</strong></td><td class="p-4">Jusqu'à 50 000 € à taux zéro</td><td class="p-4">Travaux réalisés par artisan RGE</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>TVA réduite</strong></td><td class="p-4">5,5% (au lieu de 20%)</td><td class="p-4">Automatique si artisan RGE et logement > 2 ans</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>MaPrimeAdapt'</strong></td><td class="p-4">50 à 70% (plafond 22 000 €)</td><td class="p-4">+ de 60 ans, perte autonomie GIR 1 à 6</td></tr>
+    </tbody>
+</table>
+
+<h2>Exemple concret : rénovation d'un T3 dans le 8ème arrondissement</h2>
+<p>Prenons le cas d'un couple de retraités (profil Jaune, revenus modestes) vivant dans un appartement de 70 m² classé F au DPE, dans un immeuble des années 1960 à proximité du Prado :</p>
+
+<table class="w-full border-collapse my-6 text-sm">
+    <thead>
+        <tr class="bg-slate-100">
+            <th class="p-3 text-left font-bold border-b">Travaux réalisés</th>
+            <th class="p-3 text-left font-bold border-b">Coût TTC</th>
+            <th class="p-3 text-left font-bold border-b">Aides cumulées</th>
+            <th class="p-3 text-left font-bold border-b">Reste à charge</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="border-b"><td class="p-3">ITE façade (55 m²)</td><td class="p-3">8 250 €</td><td class="p-3">5 775 €</td><td class="p-3">2 475 €</td></tr>
+        <tr class="border-b"><td class="p-3">Isolation combles (50 m²)</td><td class="p-3">1 750 €</td><td class="p-3">1 750 €</td><td class="p-3">0 €</td></tr>
+        <tr class="border-b"><td class="p-3">PAC air/eau (8 kW)</td><td class="p-3">11 000 €</td><td class="p-3">9 200 €</td><td class="p-3">1 800 €</td></tr>
+        <tr class="border-b"><td class="p-3">Fenêtres double vitrage (6 unités)</td><td class="p-3">4 500 €</td><td class="p-3">2 100 €</td><td class="p-3">2 400 €</td></tr>
+        <tr class="border-b"><td class="p-3">Monte-escalier (MaPrimeAdapt')</td><td class="p-3">5 500 €</td><td class="p-3">3 300 €</td><td class="p-3">2 200 €</td></tr>
+        <tr class="border-b bg-slate-50 font-bold"><td class="p-3">TOTAL</td><td class="p-3">31 000 €</td><td class="p-3">22 125 €</td><td class="p-3">8 875 €</td></tr>
+    </tbody>
+</table>
+
+<p><strong>Résultat :</strong> 71% de financement par les aides. Le reste à charge de 8 875 € est finançable par un <strong>éco-PTZ à taux zéro</strong> sur 15 ans, soit environ <strong>49 €/mois</strong> — bien inférieur aux économies d'énergie estimées à <strong>100-150 €/mois</strong>. La maison passe de F à C, une revalorisation immobilière de 10 à 15%.</p>
+
+<h2>Le processus étape par étape à Marseille</h2>
+<ul class="list-disc pl-8 space-y-4 mb-8">
+    <li><strong>Étape 1 — Premier contact gratuit :</strong> Contactez l'<strong>Espace France Rénov'</strong> de Marseille ou <a href="/devis" class="text-blue-600 hover:underline font-medium">demandez un devis via Le Cercle des Artisans</a>. Un conseiller évalue votre situation et vous oriente.</li>
+    <li><strong>Étape 2 — Choix du MAR :</strong> Sélectionnez votre <strong>Accompagnateur Rénov'</strong> agréé dans les Bouches-du-Rhône. Il réalise l'audit énergétique et vous présente les scénarios de travaux.</li>
+    <li><strong>Étape 3 — Devis d'artisans RGE :</strong> Sollicitez <strong>au minimum 3 devis</strong> auprès d'artisans certifiés RGE locaux. Vérifiez la validité de leur certification sur france-renov.gouv.fr. <strong>Ne signez rien avant l'accord de l'ANAH.</strong></li>
+    <li><strong>Étape 4 — Dépôt du dossier :</strong> Votre MAR vous aide à déposer la demande sur <strong>maprimerenov.gouv.fr</strong>. Délai moyen d'instruction à Marseille : 3 à 6 semaines.</li>
+    <li><strong>Étape 5 — Réalisation des travaux :</strong> Après accord, les travaux peuvent commencer. Durée moyenne : 3 à 8 semaines selon l'ampleur. Votre MAR contrôle la conformité.</li>
+    <li><strong>Étape 6 — Versement des aides :</strong> Factures transmises, le virement MaPrimeRénov' intervient sous 2 à 4 semaines. Les CEE sont versés séparément par l'opérateur choisi.</li>
+</ul>
+
+<h2>FAQ : Vos questions sur MaPrimeRénov' à Marseille</h2>
+
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">L'Accompagnateur Rénov' est-il vraiment obligatoire à Marseille ?</h3>
+        <p>Oui, pour toute demande de <strong>MaPrimeRénov' Parcours Accompagné</strong> (rénovation d'ampleur avec saut de ≥ 2 classes DPE). Pour les monogestes simples (remplacement de fenêtres seul, isolation des combles seule), le MAR n'est pas obligatoire mais reste vivement recommandé pour optimiser votre dossier. À Marseille, les MAR agréés sont présents dans toute la métropole Aix-Marseille-Provence.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Combien coûte un Accompagnateur Rénov' dans les Bouches-du-Rhône ?</h3>
+        <p>La prestation varie de <strong>1 500 à 3 000 €</strong> selon le type de logement et la complexité du projet. Mais bonne nouvelle : l'ANAH subventionne l'accompagnement. Pour les ménages très modestes (profil Bleu), la prise en charge peut être <strong>totale</strong>. Pour les profils Jaune et Violet, comptez un reste à charge de <strong>300 à 800 €</strong>. C'est un investissement largement compensé par les milliers d'euros d'aides qu'il vous permet d'obtenir.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Puis-je cumuler MaPrimeRénov' avec les aides de la Métropole Aix-Marseille ?</h3>
+        <p><strong>Oui, absolument.</strong> Les aides de la Métropole Aix-Marseille-Provence sont cumulables avec MaPrimeRénov', les CEE, l'éco-PTZ et la TVA à 5,5%. Le cumul total ne peut toutefois pas dépasser 100% du coût TTC des travaux. C'est précisément le rôle de votre Accompagnateur Rénov' de maximiser ce cumul.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Quels sont les délais pour obtenir MaPrimeRénov' à Marseille ?</h3>
+        <p>Comptez en moyenne : <strong>2 à 4 semaines</strong> pour l'audit énergétique, <strong>3 à 6 semaines</strong> pour l'instruction du dossier par l'ANAH, puis <strong>3 à 8 semaines</strong> de travaux selon l'ampleur. Au total, prévoyez <strong>3 à 5 mois</strong> entre le premier contact et la fin du chantier. Le versement des aides intervient 2 à 4 semaines après transmission des factures.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Mon logement est en copropriété à Marseille, quelles sont mes options ?</h3>
+        <p>Les copropriétés marseillaises peuvent bénéficier de <strong>MaPrimeRénov' Copropriétés</strong> (aide collective de 25% du montant HT, plafonnée à 25 000 €/logement). Les travaux sur les parties communes (ITE, toiture, chauffage collectif) sont votés en assemblée générale. Le syndic peut faire appel à un MAR spécialisé copropriétés. De nombreuses copropriétés marseillaises des années 60-70 sont éligibles.</p>
+    </div>
+</div>
+
+<h2>Conclusion : Marseille, le moment idéal pour rénover</h2>
+<p>Avec un ensoleillement record, un climat qui valorise les performances de la <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur</a> (COP excellent), et un patrimoine immobilier qui a besoin d'être rénové, <strong>Marseille réunit toutes les conditions pour une rénovation énergétique rentable</strong>. En cumulant MaPrimeRénov' Parcours Accompagné, les CEE, les aides de la Métropole et l'éco-PTZ, vous pouvez financer jusqu'à <strong>80% de vos travaux</strong>, voire davantage si vous êtes en profil Bleu ou Jaune.</p>
+
+<p>L'Accompagnateur Rénov' est votre meilleur allié pour naviguer dans ce maquis administratif. Et pour les travaux eux-mêmes, un seul critère : <strong>des artisans certifiés RGE</strong>, locaux, assurés et compétents.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Prêt(e) à rénover votre logement à Marseille ?</strong>
+        <p class="text-blue-800 m-0">Le Cercle des Artisans vous met en relation avec des artisans RGE vérifiés dans les Bouches-du-Rhône. Recevez jusqu'à 3 devis gratuits et sans engagement.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Mes 3 Devis Gratuits à Marseille
+        </a>
+    </div>
+</div>
+
+        `
+    },
+    {
         slug: "isolation-thermique-exterieur-ite-prix-gain-chaleur",
         title: "Isolation Thermique par l'Extérieur (ITE) : Prix au m² et gain de chaleur réel",
         metaDescription: "Guide complet sur l'Isolation Thermique par l'Extérieur (ITE) en 2026. Découvrez les prix réels au m², les aides financières (MaPrimeRénov', CEE) et le gain thermique.",

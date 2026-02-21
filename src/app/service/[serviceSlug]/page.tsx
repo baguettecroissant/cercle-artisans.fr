@@ -22,6 +22,12 @@ export async function generateMetadata({ params }: { params: { serviceSlug: stri
         alternates: {
             canonical: `/service/${params.serviceSlug}`,
         },
+        openGraph: {
+            title: `${service.name} : Artisans Certifiés RGE`,
+            description: `Annuaire des ${service.name}s certifiés par région et département. Devis gratuit et intervention rapide partout en France.`,
+            images: [service.hero.image],
+            type: "website",
+        },
     };
 }
 

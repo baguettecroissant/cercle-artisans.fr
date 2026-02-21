@@ -1,36 +1,48 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 
 export function QuoteWidget() {
+    const scriptLoadedRef = useRef(false);
+
     useEffect(() => {
         const vud_partenaire_id = '2353';
         const vud_box_id = '73ea5977e4';
+        const widgetDivId = 'v73ea5977e4d';
         let vud_keyword = document.title;
         vud_keyword = encodeURI(vud_keyword);
 
-        // Check if script already exists to avoid duplication
-        const existingScript = document.querySelector(`script[src*="viteundevis.com"][src*="${vud_box_id}"]`);
+        // Remove any previous widget scripts to allow re-injection
+        const existingScripts = document.querySelectorAll(`script[src*="viteundevis.com"][src*="${vud_box_id}"]`);
+        existingScripts.forEach((s) => s.remove());
 
-        if (!existingScript) {
-            const vud_js = document.createElement('script');
-            vud_js.type = 'text/javascript';
-            // The user provided script: 
-            // vud_js.src = '//www.viteundevis.com/marqueblanche/?b='+vud_box_id+'&p='+vud_partenaire_id+'&c='+vud_keyword;
-            vud_js.src = `//www.viteundevis.com/marqueblanche/?b=${vud_box_id}&p=${vud_partenaire_id}&c=${vud_keyword}`;
-
-            // Append to body
-            document.body.appendChild(vud_js);
+        // Clear the widget container for fresh injection
+        const targetDiv = document.getElementById(widgetDivId);
+        if (targetDiv) {
+            targetDiv.innerHTML = '';
         }
 
+        // Small delay to ensure DOM is fully rendered
+        const timer = setTimeout(() => {
+            const vud_js = document.createElement('script');
+            vud_js.type = 'text/javascript';
+            vud_js.src = `//www.viteundevis.com/marqueblanche/?b=${vud_box_id}&p=${vud_partenaire_id}&c=${vud_keyword}`;
+            vud_js.async = true;
+            document.body.appendChild(vud_js);
+            scriptLoadedRef.current = true;
+        }, 100);
+
         return () => {
-            // Cleanup if needed
+            clearTimeout(timer);
+            const scripts = document.querySelectorAll(`script[src*="viteundevis.com"][src*="${vud_box_id}"]`);
+            scripts.forEach((s) => s.remove());
         };
     }, []);
 
     return (
-        <div className="w-full bg-white rounded-xl shadow-lg border border-slate-200 p-4 min-h-[400px]">
+        <div className="w-full bg-white rounded-xl shadow-lg border border-slate-200 p-4 vud-widget-container">
             <div id="v73ea5977e4d"></div>
         </div>
     );
 }
+

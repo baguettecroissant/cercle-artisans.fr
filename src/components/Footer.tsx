@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Hammer, Facebook, Twitter, Instagram, Linkedin, MapPin, Mail, Phone } from "lucide-react";
+import { Hammer, MapPin, Mail, Phone } from "lucide-react";
 
 export function Footer() {
     return (
@@ -24,17 +24,7 @@ export function Footer() {
                         <p className="text-slate-400 text-sm leading-relaxed">
                             Le premier réseau d'artisans certifiés RGE en France. Nous connectons les particuliers avec des professionnels de confiance pour tous travaux de rénovation énergétique.
                         </p>
-                        <div className="flex space-x-4">
-                            <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-blue-600 transition-colors">
-                                <Facebook className="w-5 h-5" />
-                            </a>
-                            <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-blue-400 transition-colors">
-                                <Twitter className="w-5 h-5" />
-                            </a>
-                            <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-pink-600 transition-colors">
-                                <Instagram className="w-5 h-5" />
-                            </a>
-                        </div>
+                        {/* Social links - add real URLs when available */}
                     </div>
 
                     {/* Services Column */}
