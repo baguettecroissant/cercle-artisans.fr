@@ -2,6 +2,200 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "consommation-electrique-climatisation-cout-mensuel",
+        title: "Consommation électrique d'une clim : Combien ça coûte réellement par mois ?",
+        metaDescription: "Consommation électrique d'une climatisation en 2026 : coût réel par mois selon le type de clim (mono-split, multi-split, réversible). Calculs, astuces et aides financières.",
+        heroImage: "/images/blog/consommation-electrique-climatisation.png",
+        category: "Climatisation",
+        publishedAt: "2026-02-22",
+        readTime: "13 min",
+        excerpt: "Votre climatisation fait-elle exploser votre facture d'électricité ? Entre les chiffres marketing des fabricants et la réalité de votre compteur Linky, l'écart est parfois brutal. Décryptage complet avec calculs réels, comparatifs et solutions pour maîtriser le coût de votre clim au quotidien.",
+        relatedServices: ["climatisation", "pompe-a-chaleur-air-eau", "isolation-exterieur", "isolation-combles", "fenetre"],
+        content: `
+<p class="text-lg leading-relaxed">C'est la question que <strong>tous les propriétaires se posent avant d'installer une climatisation</strong> — ou que ceux qui en possèdent une se posent chaque été en ouvrant leur facture EDF : <strong>combien coûte réellement une climatisation en électricité par mois ?</strong> Entre les étiquettes énergétiques A+++ affichées en magasin, les promesses des installateurs et la réalité du compteur Linky, difficile de s'y retrouver. Pourtant, avec les bonnes données techniques et un calcul rigoureux, il est possible d'estimer précisément votre consommation. Les experts du <strong>Cercle des Artisans</strong>, spécialistes de l'installation de <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation réversible</a>, vous livrent un guide complet, transparent et sans langue de bois.</p>
+
+<h2>Pourquoi la consommation électrique d'une clim est un sujet crucial en 2026 ?</h2>
+<p>Avec le réchauffement climatique, les étés français sont de plus en plus caniculaires. En 2025, la France a enregistré un record de 47 jours de canicule dans le Sud-Est. La climatisation n'est plus un luxe, c'est une nécessité sanitaire, notamment pour les personnes âgées et les enfants. Mais dans un contexte où le prix du kWh d'électricité (tarif réglementé EDF) s'établit à <strong>environ 0,2516 € TTC en février 2026</strong> (option Base), la facture peut vite devenir salée si votre installation est mal dimensionnée ou si votre logement est une passoire thermique.</p>
+
+<h3>Les 3 facteurs qui font exploser votre facture de clim</h3>
+<ul>
+    <li><strong>L'isolation de votre logement :</strong> C'est le facteur n°1, souvent négligé. Une clim dans un logement mal isolé, c'est comme refroidir une pièce avec la fenêtre ouverte. Avant même de penser climatisation, vérifiez l'état de votre <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation des murs</a> et de vos <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">combles</a>. Un mur non isolé (R < 1 m².K/W) peut multiplier la consommation de votre clim par 2.</li>
+    <li><strong>Le dimensionnement de l'appareil :</strong> Une clim trop puissante (surdimensionnée) fera des cycles courts (démarrage/arrêt incessants), ce qui use le compresseur et gaspille de l'énergie. Une clim sous-dimensionnée tournera en permanence à plein régime sans jamais atteindre la température demandée. Le bon dimensionnement, c'est le métier d'un <strong>artisan RGE qualifié</strong>.</li>
+    <li><strong>La performance énergétique de l'appareil (SEER et SCOP) :</strong> Le SEER (Seasonal Energy Efficiency Ratio) mesure l'efficacité en mode froid sur une saison. Un SEER de 6 signifie que pour 1 kWh d'électricité consommé, l'appareil produit 6 kWh de froid. Plus le SEER est élevé, moins vous consommez. En 2026, visez <strong>un SEER ≥ 6,1 (classe A++) minimum</strong>.</li>
+</ul>
+
+<h2>Comment calculer la consommation électrique de votre climatisation ? (La méthode pro)</h2>
+<p>Oubliez les calculateurs approximatifs en ligne. Voici la formule utilisée par les professionnels du <strong>Cercle des Artisans</strong> pour estimer la consommation réelle d'une climatisation :</p>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-5 mb-6">
+    <strong>🔢 Formule de calcul :</strong><br>
+    <strong>Consommation (kWh) = Puissance frigorifique (kW) × Heures d'utilisation / SEER</strong><br><br>
+    <em>Exemple concret :</em> Un split mural de <strong>2,5 kW</strong> (adapté à une pièce de 25-30 m²) avec un <strong>SEER de 6,1</strong>, utilisé <strong>8 heures par jour pendant 90 jours</strong> (3 mois d'été) :<br>
+    Consommation = (2,5 × 8 × 90) / 6,1 = <strong>295 kWh sur la saison</strong><br>
+    Coût = 295 × 0,2516 = <strong>74,22 € pour tout l'été</strong>, soit environ <strong>24,74 € par mois</strong> en période estivale.
+</div>
+
+<p>Ce chiffre peut surprendre : c'est bien moins que ce que beaucoup imaginent. Mais attention, c'est un calcul sur une <strong>pièce correctement isolée</strong> avec un appareil <strong>bien dimensionné</strong> et une température de consigne raisonnable (25-26°C). Si vous descendez la consigne à 20°C en pleine canicule, l'appareil tournera en surrégime et la facture doublera.</p>
+
+<h2>Les différents types de climatisation et leur consommation réelle</h2>
+<p>Toutes les clims ne consomment pas pareil. Le type de système, la technologie embarquée et le nombre de pièces climatisées modifient radicalement la facture. Voici le comparatif détaillé.</p>
+
+<h3>1. Le Mono-split mural : Le standard pour une pièce</h3>
+<p>C'est le système le plus répandu en France. Une unité extérieure, une unité intérieure murale. Idéal pour climatiser un salon ou une chambre de 15 à 35 m². Les modèles récents (Daikin, Mitsubishi Electric, Atlantic) équipés de la technologie <strong>Inverter</strong> adaptent leur puissance en continu, évitant les cycles d'arrêt/redémarrage gourmands en énergie.</p>
+<p><strong>Consommation moyenne :</strong> 150 à 350 kWh/saison selon la surface et l'isolation. <strong>Coût : 12 à 30 €/mois</strong> pendant l'été.</p>
+
+<h3>2. Le Multi-split : Plusieurs pièces, un seul moteur</h3>
+<p>Un seul groupe extérieur alimente 2 à 5 unités intérieures. Chaque pièce est contrôlée indépendamment (zoning). C'est la solution plébiscitée pour climatiser toute la maison avec une seule unité extérieure — souvent la seule option acceptée par les copropriétés. Découvrez notre <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">guide complet de la climatisation multi-split</a>.</p>
+<p><strong>Consommation moyenne :</strong> 400 à 900 kWh/saison pour un tri-split (3 pièces). <strong>Coût : 35 à 75 €/mois</strong> pendant l'été.</p>
+
+<h3>3. La clim réversible (PAC air-air) : Chauffage + climatisation</h3>
+<p>C'est le même appareil qu'un split classique, mais il fonctionne dans les deux sens : froid en été, chaud en hiver. En mode chauffage, on parle de SCOP (Coefficient de Performance Saisonnier en chauffage). Un SCOP de 4,0 signifie que pour 1 kWh consommé, l'appareil restitue 4 kWh de chaleur. C'est 3 à 4 fois moins cher que des radiateurs électriques classiques. Pour un chauffage principal avec radiateurs à eau, la <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a> reste le système de référence éligible MaPrimeRénov'.</p>
+<p><strong>Consommation annuelle (chauffage + climatisation) :</strong> 800 à 1 800 kWh/an pour un logement de 80 m². <strong>Coût total annuel : 200 à 450 €</strong>, soit <strong>17 à 38 €/mois</strong> lissé sur l'année.</p>
+
+<h3>4. Le gainable : L'invisible premium</h3>
+<p>Le système est entièrement dissimulé dans les faux plafonds ou les combles. L'air est diffusé par des grilles discrètes dans chaque pièce. C'est la Rolls de la climatisation en termes de confort et d'esthétique, mais aussi la plus énergivore car le réseau de gaines génère des pertes de charge.</p>
+<p><strong>Consommation moyenne :</strong> 600 à 1 200 kWh/saison pour une maison de 100-120 m². <strong>Coût : 50 à 100 €/mois</strong> pendant l'été.</p>
+
+<h2>Tableau récapitulatif : Coût mensuel réel selon le type de clim (été 2026)</h2>
+<p>Voici le tableau de synthèse avec les fourchettes de prix constatées pour un logement correctement isolé, avec un appareil performant (SEER ≥ 6) et une utilisation normale (8h/jour, consigne 25-26°C) :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Type de climatisation</th>
+            <th class="p-4 text-left font-semibold">Surface couverte</th>
+            <th class="p-4 text-left font-semibold">Conso. saisonnière (kWh)</th>
+            <th class="p-4 text-left font-semibold">Coût mensuel été (€/mois)</th>
+            <th class="p-4 text-left font-semibold">Coût annuel si réversible</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Mono-split mural (2,5 kW)</strong></td><td class="p-4">20 – 30 m²</td><td class="p-4">150 – 350 kWh</td><td class="p-4">12 – 30 €</td><td class="p-4">180 – 350 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Bi-split (5 kW)</strong></td><td class="p-4">40 – 55 m²</td><td class="p-4">280 – 550 kWh</td><td class="p-4">24 – 46 €</td><td class="p-4">250 – 500 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Tri-split (7 kW)</strong></td><td class="p-4">60 – 80 m²</td><td class="p-4">400 – 900 kWh</td><td class="p-4">35 – 75 €</td><td class="p-4">350 – 700 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Quadri-split (10 kW)</strong></td><td class="p-4">80 – 110 m²</td><td class="p-4">550 – 1 100 kWh</td><td class="p-4">46 – 92 €</td><td class="p-4">450 – 900 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Gainable (10-14 kW)</strong></td><td class="p-4">100 – 150 m²</td><td class="p-4">600 – 1 200 kWh</td><td class="p-4">50 – 100 €</td><td class="p-4">500 – 1 100 €</td></tr>
+    </tbody>
+</table>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 mb-6">
+    <strong>⚠️ Attention :</strong> Ces chiffres valent pour un logement <strong>correctement isolé</strong>. Si vos murs ne sont pas isolés (R < 2 m².K/W), si vos <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a> sont en simple vitrage ou si votre toiture n'est pas isolée, multipliez ces chiffres par <strong>1,5 à 2</strong>. Investir dans l'isolation AVANT d'installer la climatisation est le conseil n°1 de tous nos artisans.
+</div>
+
+<h2>7 astuces concrètes pour réduire la consommation électrique de votre clim</h2>
+<ul>
+    <li><strong>Réglez la consigne à 25-26°C :</strong> Chaque degré en moins augmente la consommation de 7%. Passer de 26°C à 22°C, c'est <strong>+28% sur la facture</strong>.</li>
+    <li><strong>Fermez volets et stores avant la montée en température :</strong> Un volet roulant fermé réduit les apports solaires de 90% côté sud. C'est la climatisation passive la plus efficace.</li>
+    <li><strong>Nettoyez les filtres tous les 2 mois :</strong> Un filtre encrassé force le compresseur à travailler plus. 15 minutes de nettoyage = 5 à 15% d'économies.</li>
+    <li><strong>Utilisez le mode « Eco » ou « Auto » :</strong> Les modes automatiques des clims Inverter modulent la puissance. Le mode « Turbo » consomme 30% de plus.</li>
+    <li><strong>N'éteignez pas complètement la clim quand vous sortez :</strong> Paradoxalement, relancer une clim dans une pièce surchauffée consomme plus qu'un maintien à 28-29°C pendant votre absence.</li>
+    <li><strong>Isolez votre logement :</strong> Une <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation thermique par l'extérieur (ITE)</a> réduit les besoins de climatisation de 30 à 50%. Combinée à une <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a>, le gain est spectaculaire.</li>
+    <li><strong>Faites entretenir votre installation chaque année :</strong> Le contrôle de la charge en fluide frigorigène (R32 ou R410A) et le nettoyage de l'échangeur extérieur permettent de maintenir la performance d'origine.</li>
+</ul>
+
+<h2>Le prix d'installation d'une climatisation en 2026 (matériel + pose RGE)</h2>
+<p>Le coût initial de l'installation est un investissement qui s'amortit en 3 à 5 ans grâce aux économies de chauffage (en mode réversible) par rapport aux convecteurs électriques. Voici les fourchettes de prix constatées, <strong>fourniture et pose comprises</strong> par un artisan certifié RGE :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Type de système</th>
+            <th class="p-4 text-left font-semibold">Configuration type</th>
+            <th class="p-4 text-left font-semibold">Prix TTC (fourniture + pose)</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Mono-split mural</strong></td><td class="p-4">1 pièce (salon ou chambre)</td><td class="p-4">1 500 € à 3 000 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Bi-split</strong></td><td class="p-4">2 pièces (salon + chambre)</td><td class="p-4">3 000 € à 4 500 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Tri-split</strong></td><td class="p-4">3 pièces (salon + 2 chambres)</td><td class="p-4">4 500 € à 6 500 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Quadri-split</strong></td><td class="p-4">4 pièces (maison complète)</td><td class="p-4">6 000 € à 9 000 €</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Gainable intégral</strong></td><td class="p-4">Maison entière (réseau de gaines)</td><td class="p-4">10 000 € à 15 000 €</td></tr>
+    </tbody>
+</table>
+
+<h2>Les aides financières 2026 pour installer une climatisation réversible</h2>
+<p>Soyons clairs et honnêtes : la <strong>climatisation réversible (PAC air-air) n'est pas éligible à MaPrimeRénov'</strong>. L'État considère qu'il s'agit d'un équipement de confort et non d'un geste de performance énergétique majeur (contrairement à la <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a>, qui se raccorde aux radiateurs à eau et qui bénéficie d'aides pouvant aller jusqu'à 5 000 €). Cependant, des dispositifs existent pour réduire la facture :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Aide disponible</th>
+            <th class="p-4 text-left font-semibold">Montant estimé (2026)</th>
+            <th class="p-4 text-left font-semibold">Conditions d'éligibilité</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Certificats d'Économies d'Énergie (CEE)</strong></td><td class="p-4">300 € à 900 €</td><td class="p-4">Artisan RGE, SCOP ≥ 3,9, logement > 2 ans</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>TVA réduite à 10%</strong></td><td class="p-4">Économie de 150 € à 500 €</td><td class="p-4">Main d'œuvre uniquement, logement > 2 ans</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Aides locales (régions/communes)</strong></td><td class="p-4">Variable (200 € à 1 000 €)</td><td class="p-4">Selon votre collectivité, renseignez-vous !</td></tr>
+        <tr class="border-b hover:bg-gray-50"><td class="p-4"><strong>Éco-PTZ (si combiné à des travaux d'isolation)</strong></td><td class="p-4">Jusqu'à 50 000 € à taux zéro</td><td class="p-4">Bouquet de travaux avec artisan RGE</td></tr>
+    </tbody>
+</table>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-5 mb-6">
+    <strong>💡 Le conseil stratégique du Cercle des Artisans :</strong> La meilleure façon d'amortir votre climatisation est de l'intégrer dans un projet de <strong>rénovation globale</strong>. Si vous combinez l'installation d'une clim réversible avec une <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation par l'extérieur</a>, le remplacement de vos <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a> et l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation de vos combles</a>, vous pouvez bénéficier de <strong>MaPrimeRénov' Parcours Accompagné</strong> (jusqu'à 90% de subvention sur les travaux d'isolation et de chauffage) tout en profitant de votre clim au quotidien.
+</div>
+
+<h2>Le processus d'installation étape par étape</h2>
+<p>Une installation de climatisation par un professionnel RGE suit un processus technique rigoureux, essentiel pour garantir la performance et la durée de vie de votre équipement :</p>
+<ul class="list-disc pl-8 space-y-4 mb-8">
+    <li><strong>Étape 1 — Visite technique et bilan thermique :</strong> L'artisan RGE se déplace chez vous pour analyser la configuration de chaque pièce (volume, orientation, exposition solaire, isolation existante). Il dimensionne précisément la puissance nécessaire à l'aide d'un logiciel de calcul thermique. <strong>Un devis sérieux ne se fait jamais par téléphone.</strong></li>
+    <li><strong>Étape 2 — Choix du matériel et devis détaillé :</strong> Il vous recommande la marque et le modèle adaptés (Daikin, Mitsubishi, Atlantic, Toshiba…) et précise le SEER, le SCOP, la puissance frigorifique et le niveau sonore de chaque unité. Le devis doit mentionner clairement ces données techniques.</li>
+    <li><strong>Étape 3 — Pose des liaisons frigorifiques :</strong> C'est l'étape la plus technique. Les tubes cuivre calorifugés, le câble d'alimentation et le tuyau d'évacuation des condensats sont acheminés de l'unité extérieure vers chaque unité intérieure, par goulottes PVC, saignées murales ou passage en combles/vide-sanitaire.</li>
+    <li><strong>Étape 4 — Fixation des unités et raccordement :</strong> L'unité extérieure est posée sur des supports antivibratiles (silent-blocs) et l'unité intérieure est fixée sur une platine murale parfaitement nivelée. Les raccordements frigorifiques sont réalisés par dudgeonnage (évasement du tube cuivre) avec un couple de serrage normé.</li>
+    <li><strong>Étape 5 — Tirage au vide et mise en service :</strong> Étape critique. Une pompe à vide élimine toute trace d'air et d'humidité dans le circuit avant l'ouverture des vannes de fluide frigorigène (R32 ou R410A). Seul un technicien titulaire de l'<strong>attestation de capacité</strong> (obligatoire) peut manipuler ces fluides réglementés.</li>
+    <li><strong>Étape 6 — Test, réglages et formation :</strong> L'installateur vérifie les performances (températures de soufflage, pressions), règle la télécommande et vous explique les fonctions avancées (mode Eco, programmation horaire, mode nuit silencieux).</li>
+</ul>
+
+<h2>FAQ : Les questions que nos clients posent au téléphone</h2>
+
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">Est-ce qu'une clim réversible consomme autant en chauffage qu'en climatisation ?</h3>
+        <p>Non. En mode chauffage, la climatisation réversible (PAC air-air) consomme en moyenne <strong>30 à 40% de plus qu'en mode froid</strong> car l'écart de température entre l'extérieur (0-5°C) et la consigne intérieure (20-21°C) est plus important qu'en été. Cependant, elle reste <strong>3 à 4 fois moins chère que des radiateurs électriques</strong> classiques (convecteurs ou panneaux rayonnants). Pour un logement de 80 m², comptez <strong>40 à 70 €/mois de chauffage</strong> contre 120 à 200 €/mois en tout-électrique. L'économie est considérable.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Faut-il laisser la clim tourner toute la nuit ?</h3>
+        <p>Oui, mais en <strong>mode nuit (ou « Sleep »)</strong>. Ce mode augmente progressivement la consigne de 1 à 2°C au fil de la nuit (car le corps se refroidit naturellement pendant le sommeil) et réduit la vitesse du ventilateur au minimum pour limiter le bruit (jusqu'à 19 dB). Résultat : un sommeil confortable pour une consommation dérisoire — environ <strong>0,3 à 0,5 kWh pour une nuit de 8 heures</strong>, soit 8 à 13 centimes d'électricité.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Ma clim est ancienne (plus de 10 ans), consomme-t-elle beaucoup plus qu'un modèle récent ?</h3>
+        <p>Oui, la différence est significative. Les anciens climatiseurs (avant 2015) utilisent souvent un fluide R410A moins efficace et n'intègrent pas la technologie Inverter à vitesse variable. Leur SEER est typiquement de 3 à 4 contre 6 à 8 pour les modèles actuels. <strong>Cela représente une surconsommation de 40 à 100%.</strong> Remplacer un vieux climatiseur par un modèle R32 Inverter de classe A+++ est souvent rentabilisé en 3 à 4 ans par les économies d'électricité seules.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">La climatisation fait-elle disjoncter mon compteur ?</h3>
+        <p>Un mono-split classique (2,5 kW frigorifiques) consomme environ <strong>800 à 1 200 W électriques en fonctionnement</strong> et jusqu'à <strong>1 800 W au démarrage</strong> (appel de courant du compresseur). Avec un abonnement EDF standard de 6 kVA (30A), cela laisse une marge confortable. Si vous avez un multi-split puissant (10 kW+), vérifiez que votre abonnement est adapté (9 ou 12 kVA recommandé) pour éviter les disjonctions intempestives, surtout si vous faites tourner four, lave-vaisselle et clim simultanément.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Clim réversible ou pompe à chaleur air-eau : laquelle choisir ?</h3>
+        <p>Ce sont deux technologies complémentaires. La <strong>clim réversible (PAC air-air)</strong> est idéale si vous avez des convecteurs électriques et que vous cherchez à climatiser ET chauffer. La <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">PAC air-eau</a> est le choix si vous avez un circuit de radiateurs à eau ou un plancher chauffant, car elle se raccorde directement au circuit hydraulique existant. La PAC air-eau est <strong>éligible à MaPrimeRénov'</strong> (jusqu'à 5 000 €), contrairement à la PAC air-air.</p>
+    </div>
+</div>
+
+<h2>Conclusion : Maîtrisez votre consommation, ne la subissez pas</h2>
+<p>La consommation électrique d'une climatisation bien choisie, bien dimensionnée et installée par un professionnel qualifié reste <strong>parfaitement maîtrisable</strong> — entre 15 et 75 €/mois selon la taille de votre logement et vos habitudes. C'est bien souvent moins que ce que coûte un chauffage électrique classique en hiver. Le véritable levier d'économie, c'est le <strong>triptyque gagnant : isolation performante + appareil Inverter de dernière génération + installation par un artisan RGE</strong>.</p>
+
+<p>Les professionnels du réseau <strong>Le Cercle des Artisans</strong> sont triés sur le volet : titulaires de l'attestation de capacité pour la manipulation des fluides frigorigènes, certifiés RGE, assurés décennale et formés aux dernières technologies des grands fabricants. Ils dimensionnent votre installation avec rigueur et vous accompagnent dans le montage de vos dossiers de primes CEE.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Prêt(e) à installer une climatisation efficace et économe ?</strong>
+        <p class="text-blue-800 m-0">Recevez jusqu'à 3 devis gratuits et sans engagement d'artisans RGE vérifiés près de chez vous. Dimensionnement sur-mesure, primes CEE déduites et garantie décennale incluse.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Mes 3 Devis Clim Gratuits
+        </a>
+    </div>
+</div>
+
+        `
+    },
+    {
         slug: "maprimerenov-marseille-accompagnateur-renov-local",
         title: "MaPrimeRénov' à Marseille : Comment trouver un Accompagnateur Rénov' local",
         metaDescription: "MaPrimeRénov' à Marseille : trouvez votre Accompagnateur Rénov' agréé dans les Bouches-du-Rhône. Aides 2025, prix, démarches et artisans RGE locaux. Guide complet.",
