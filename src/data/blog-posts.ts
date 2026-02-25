@@ -10,7 +10,7 @@ export const blogPosts: BlogPost[] = [
         publishedAt: "2026-02-23",
         readTime: "12 min",
         excerpt: "L'application de chlore ou de javel sur votre toit détruit l'imperméabilité de vos tuiles. Découvrez les méthodes de démoussage professionnelles en 2026, leur prix et comment optimiser votre rénovation énergétique.",
-        relatedServices: ["demoussage-toiture","isolation-combles","isolation-exterieur","fenetre"],
+        relatedServices: ["demoussage-toiture", "isolation-combles", "isolation-exterieur", "fenetre"],
         content: `
 <p class="text-lg leading-relaxed">Les intempéries, la pollution atmosphérique et les années qui passent transforment inévitablement l'aspect et les performances de votre toiture. La prolifération de mousses, de lichens et d'algues sur vos tuiles ou vos ardoises n'est pas qu'une simple question d'esthétique : c'est un véritable danger pour l'intégrité de votre maison. Face à ce problème, l'erreur la plus commune (et la plus grave) est le recours à l'eau de javel ou au chlore. Dans ce guide ultra-complet, les experts en rénovation énergétique du <strong>Cercle des Artisans</strong> vous expliquent pourquoi ces produits chimiques sont strictement interdits, quelles sont les véritables solutions professionnelles, et comment ces travaux s'inscrivent dans une démarche de performance énergétique avec l'appui d'un artisan certifié RGE.</p>
 
@@ -1712,4 +1712,165 @@ export const blogPosts: BlogPost[] = [
             <p><strong><a href="/devis" class="text-blue-600 hover:underline">Demandez votre devis gratuit</a></strong> pour obtenir une étude personnalisée et un chiffrage précis adapté à votre maison.</p>
         `
     },
+    {
+        slug: "isolation-des-murs-interieur-iti-perte-surface-economie-energie",
+        title: "Isolation des murs par l'intérieur (ITI) : Perte de surface vs économie d'énergie",
+        metaDescription: "Isolation par l'intérieur (ITI) en 2026 : quelle surface perd-on vraiment ? Prix, aides (MaPrimeRénov', CEE), avantages et guide d'installation étape par étape.",
+        heroImage: "/images/blog/isolation-iti-hero.png",
+        category: "Isolation",
+        publishedAt: "2026-02-25",
+        readTime: "13 min",
+        excerpt: "L'isolation par l'intérieur (ITI) est la solution la plus économique pour isoler vos murs. Mais combien de surface habitable perdez-vous réellement ? Comparatif avec l'ITE, détails sur les prix 2026, les aides de l'État et le déroulement des travaux de rénovation énergétique.",
+        relatedServices: ["isolation-exterieur", "isolation-combles", "fenetre", "pompe-a-chaleur-air-eau", "climatisation", "monte-escalier", "ascenseur-privatif", "demoussage-toiture"],
+        content: `
+<p class="text-lg leading-relaxed">Vos factures de chauffage flambent chaque hiver ? Vos murs sont froids au toucher et l'humidité s'installe dans certaines pièces ? L'isolation des murs est une étape incontournable de votre rénovation énergétique. En France, la solution la plus courante et la plus économique reste l'<strong>Isolation Thermique par l'Intérieur (ITI)</strong>. Pourtant, une crainte légitime freine de nombreux propriétaires : <em>"Vais-je perdre trop d'espace dans mon salon ou mes chambres ?"</em>. Dans ce guide ultra-complet, les experts en rénovation et accessibilité du <strong>Cercle des Artisans</strong> vous expliquent tout. Nous allons démystifier la perte réelle de surface habitable, détailler les matériaux, analyser le prix au m², et lister toutes les aides financières 2026 (MaPrimeRénov', CEE, MaPrimeAdapt'). Préparez-vous à transformer votre confort sans sacrifier votre budget.</p>
+
+<h2>Pourquoi faire ces travaux ? Les véritables bénéfices de l'ITI</h2>
+<p>L'isolation par l'intérieur consiste à poser un isolant sur la face intérieure des murs en contact avec l'extérieur (les murs donnant sur la rue ou le jardin). Les avantages sont multiples, bien au-delà de la simple baisse de la facture d'énergie.</p>
+
+<h3>1. Une facture énergétique divisée par deux</h3>
+<p>Saviez-vous que <strong>20 à 25% de la chaleur</strong> de votre maison s'échappe par des murs non isolés ? En posant une ITI performante, vous coupez net cette fuite. Votre système de chauffage (chaudière ou <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a>) tourne moins souvent, s'use moins vite et vos factures mensuelles s'effondrent immédiatement. En été, si vous possédez une <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation</a>, elle rafraîchira vos pièces beaucoup plus rapidement sans tourner en surrégime.</p>
+
+<h3>2. L'amélioration fulgurante du confort thermique et acoustique</h3>
+<p>L'ITI supprime ce que l'on appelle l'<strong>effet de paroi froide</strong>. Même si l'air de votre pièce est chauffé à 20°C, un mur froid à 14°C vous donnera une sensation de frisson désagréable. Grâce à l'isolant, la température ressentie devient homogène et douillette. De plus, la majorité des isolants (comme la laine de verre ou la laine de roche) offrent un excellent affaiblissement acoustique. Les bruits de la rue, des voitures ou des voisins sont considérablement étouffés.</p>
+
+<h3>3. Une mise en œuvre rapide sans toucher à la façade</h3>
+<p>Contrairement à l'<a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation par l'extérieur (ITE)</a>, l'ITI ne modifie pas l'aspect extérieur de votre maison. Vous n'avez pas besoin de demander une longue autorisation d'urbanisme à votre mairie. C'est la solution idéale si votre façade possède un cachet particulier (pierre de taille, briques apparentes) ou si les règles de votre copropriété interdisent toute modification extérieure.</p>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-5 mb-6">
+    <strong>💡 Accessibilité et ITI :</strong> Isoler ses murs est souvent l'occasion de repenser l'agencement intérieur. Pour les seniors, c'est le moment d'intégrer des renforts dans les cloisons pour de futures barres de maintien ou d'adapter les escaliers pour la pose d'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> sécurisé sans contraintes de fixation.
+</div>
+
+<h2>Perte de surface vs économie d'énergie : Le vrai bilan</h2>
+<p>Abordons le point critique : l'espace. Gagner en isolation, c'est forcément rajouter de l'épaisseur à ses murs. Mais la technologie des matériaux a considérablement évolué.</p>
+
+<h3>Combien de m² perdez-vous réellement ?</h3>
+<p>Pour atteindre un <strong>coefficient de résistance thermique (R) de 3,7 m².K/W</strong> (le minimum exigé en 2026 pour décrocher les aides de l'État), il faut prévoir, avec une ossature métallique standard et de la laine de verre performante, une <strong>épaisseur totale d'environ 13 à 15 cm</strong> (isolant + plaque de plâtre).</p>
+<ul>
+    <li>Dans une chambre classique de 12 m² (3m x 4m) possédant un seul mur donnant sur l'extérieur (largeur de 3m) : vous perdez environ <strong>0,42 m²</strong> au sol.</li>
+    <li>Dans un grand salon de 30 m² avec deux murs sur l'extérieur (7m linéaires) : vous perdez environ <strong>1 m²</strong>.</li>
+</ul>
+<p><strong>Le verdict :</strong> La perte est souvent de l'ordre de <strong>3% à 5% de la surface de la pièce</strong>. Cette "perte" est largement compensée par le fait que l'intégralité de la pièce devient utilisable. Les coins auparavant glacés et humides deviennent parfaitement habitables. Vous remplacez des mètres carrés "froids" par des espaces 100% confortables. De plus, opter pour la <strong>mousse polyuréthane (PIR)</strong> permet de réduire cette épaisseur à une dizaine de centimètres seulement pour la même performance.</p>
+
+<h2>Les différents types de solutions techniques et d'isolants</h2>
+<p>Il n'existe pas une méthode unique. Le choix dépendra de l'état de vos murs, de votre budget et du niveau de confort souhaité. Tous les matériaux posés par nos artisans sont <strong>certifiés ACERMI et répondent strictement aux normes NF (DTU 25.41)</strong>.</p>
+
+<h3>1. Le doublage sur ossature métallique (La Rolls-Royce de l'ITI)</h3>
+<p>C'est la méthode reine. L'artisan fixe des rails métalliques (fourrures) au sol et au plafond. L'isolant en rouleau ou en panneau semi-rigide est inséré derrière et entre ces montants métalliques. Une plaque de plâtre (Placo) vient fermer le tout. L'énorme avantage est que l'espace vide entre l'isolant et la plaque permet de passer fluidement toutes vos gaines électriques sans creuser le mur.</p>
+<p><em>Isolants idéaux : Laine de verre, laine de roche, fibre de bois, ouate de cellulose.</em></p>
+
+<h3>2. Le doublage collé (Le plus économique et rapide)</h3>
+<p>Ici, un panneau complexe (qui rassemble l'isolant et la plaque de plâtre déjà collés ensemble en usine) est fixé directement sur le mur porteur grâce à des plots de mortier adhésif (le fameux MAP). Cette solution est extrêmement rapide à poser, mais elle demande un mur existant parfaitement droit, sec et plat. Elle ne permet pas de passer facilement de nouvelles gaines électriques.</p>
+<p><em>Isolants idéaux : Polystyrène expansé graphité (PSE), Polyuréthane.</em></p>
+
+<h3>3. Les isolants biosourcés : l'avenir de la rénovation</h3>
+<p>Nous conseillons de plus en plus les matériaux biosourcés comme la <strong>fibre de bois, le chanvre, le lin ou le coton recyclé</strong>. En plus de leur bilan carbone neutre, ils offrent un excellent "déphasage thermique". En été, ils mettent beaucoup plus de temps à laisser passer la chaleur (jusqu'à 12 heures) que les laines minérales (environ 4 heures), un atout maître pour réduire votre besoin de <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation</a>.</p>
+
+<h2>Tableau de synthèse : Le Prix détaillé (matériel et main d'œuvre) en 2026</h2>
+<p>Quel est le budget réel pour une telle intervention ? L'ITI reste presque <strong>deux fois moins chère que son homologue l'ITE</strong> (Isolation par l'Extérieur). Voici un récapitulatif des prix moyens constatés par les professionnels certifiés RGE du <em>Cercle des Artisans</em>, <strong>fourniture, pose et finition des joints incluses</strong>.</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Technique & Matériau (Coefficient R ≥ 3,7)</th>
+            <th class="p-4 text-left font-semibold">Prix moyen au m² (TTC posé par artisan RGE)</th>
+            <th class="p-4 text-left font-semibold">Coût estimé pour 50 m² de murs</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Doublage Collé (Polystyrène expansé PSE)</strong></td>
+            <td class="p-4">50 € à 70 €</td>
+            <td class="p-4">2 500 € à 3 500 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Ossature Métallique + Laine de Verre premium</strong></td>
+            <td class="p-4">65 € à 85 €</td>
+            <td class="p-4">3 250 € à 4 250 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Ossature Métallique + Laine de Roche (Pare-feu / Acoustique)</strong></td>
+            <td class="p-4">75 € à 95 €</td>
+            <td class="p-4">3 750 € à 4 750 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Ossature Métallique + Fibre de Bois (Confort d'été)</strong></td>
+            <td class="p-4">80 € à 110 €</td>
+            <td class="p-4">4 000 € à 5 500 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Panneaux Polyuréthane (Gain de place maximal)</strong></td>
+            <td class="p-4">90 € à 120 €</td>
+            <td class="p-4">4 500 € à 6 000 €</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 mb-6">
+    <strong>⚠️ Les frais annexes à ne pas oublier :</strong> L'ITI modifie l'intérieur. Il faudra souvent budgétiser la réparation des peintures ou des papiers peints, le déplacement des grandes portes-fenêtres (que nos artisans peuvent effectuer lors de la pose d'une nouvelle <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtre à double vitrage</a>), et le repositionnement de vos radiateurs muraux.
+</div>
+
+<h2>Les aides financières 2026 : Réduisez drastiquement la note</h2>
+<p>L'État encourage fortement l'isolation pour atteindre les objectifs climatiques. <strong>À condition absolue de passer par un artisan labellisé RGE (Reconnu Garant de l'Environnement)</strong>, votre projet bénéficiera d'enveloppes considérables.</p>
+
+<ul>
+    <li><strong>MaPrimeRénov' 2026 (Monogeste ou Parcours Accompagné) :</strong> Si vous réalisez juste l'isolation de vos murs (démarche "Monogeste"), vous pouvez toucher, selon vos revenus, <strong>de 15 € à 25 € par m² isolé</strong>. Si cette ITI fait partie d'une "rénovation d'ampleur" incluant par exemple l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> ou le changement de chaudière, MaPrimeRénov' Parcours Accompagné peut rembourser <strong>jusqu'à 90% du coût de votre chantier HT</strong> !</li>
+    <li><strong>Les Certificats d'Économies d'Énergie (Les Primes CEE) :</strong> Délivrées par les fournisseurs d'énergie, ces primes s'ajoutent à MaPrimeRénov'. Comptez environ <strong>10 € à 15 € / m² supplémentaire</strong> selon la zone climatique.</li>
+    <li><strong>La TVA à taux réduit (5,5% au lieu de 20%) :</strong> C'est la plus simple. Si votre maison a plus de 2 ans et que l'artisan RGE fournit et pose le matériel, vous n'appliquez que 5,5% de taxes sur la facture, ce qui abaisse le prix final sans aucun dossier à monter.</li>
+    <li><strong>L'Éco-Prêt à Taux Zéro (Éco-PTZ) :</strong> Une fois vos aides déduites, le "reste à charge" peut être emprunté auprès de votre banque sans aucun intérêt, de 15 000€ à 50 000€ étalés sur 15 à 20 ans.</li>
+    <li><strong>L'adaptation pour les seniors (MaPrimeAdapt') :</strong> Si vos murs sont refaits dans une pièce de vie, pourquoi ne pas préparer l'avenir ? <strong>MaPrimeAdapt'</strong> (jusqu'à 22 000 € subventionnés à 70%) finance des équipements de maintien à domicile avec des artisans spécialisés, sans faire doubler les frais d'intervention. Dans le cas de l'installation d'un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a>, l'isolation phonique de l'ITI est souvent un pré-requis très appréciable.</li>
+</ul>
+
+<h2>Le processus d'installation étape par étape</h2>
+<p>Comment se déroulent concrètement vos travaux si vous choisissez nos experts membres du <em>Cercle des Artisans</em> ?</p>
+<ol class="list-decimal pl-6 space-y-4 mb-8">
+    <li><strong>La visite technique préalable :</strong> C'est essentiel. Le plaquiste RGE inspecte la salubrité de vos murs. Aucune isolation ne doit être posée sur un mur atteint de mérule, de remontées capillaires ou de moisissures ; celles-ci doivent être assainies. Par ailleurs, il s'assure que votre système de <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">toiture est parfaitement étanche</a> avant de commencer les murs.</li>
+    <li><strong>La pose des ossatures et de l'isolant :</strong> Des rails sont fixés au sol et au plafond. Les panneaux de laine minérale ou biosourcée sont délicatement calés, de manière parfaitement jointive (sans aucun trou d'air) pour bloquer les fameux ponts thermiques.</li>
+    <li><strong>La membrane d'étanchéité à l'air (Pare-vapeur) :</strong> C'est l'étape technique que les professionnels maîtrisent. Ce film bloque les passages d'air tout en empêchant la condensation de la vapeur de votre intérieur dans le mur froid, évitant ainsi un pourrissement futur du mur.</li>
+    <li><strong>Le revêtement, les saignées et les bandes. :</strong> Les gaines électriques (prises, appliques murales, convecteurs) sont tirées sans percer le film pare-vapeur. Ensuite, le parement en placoplâtre est vissé sur l'ossature.</li>
+    <li><strong>La finition pro :</strong> La touche finale, ce sont les "bandes à joint", recouverts d'enduit poncé parfaitement lisse, prêts à recevoir les couches de peinture rafraîchissantes sous l’œil ravi du propriétaire.</li>
+</ol>
+
+<h2>FAQ : Les questions que l'on nous pose au téléphone</h2>
+
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">Vaut-il mieux faire une ITI ou une ITE (Isolation par l'extérieur) ?</h3>
+        <p>L'ITE (par l'extérieur) reste, d'un point de vue de la performance "pure", plus efficace car elle coupe 100% des ponts thermiques de plancher, mais elle coûte au moins deux fois plus cher et modifie l'allure complète de la maison. L'ITI est pour sa part beaucoup plus rapide, très économique, sans déclaration mairie, et offre un excellent compromis confort/budget. Les artisans du Cercle sauront vous conseiller utilement après une visite des lieux.</p>
+    </div>
+    
+    <div>
+        <h3 class="text-xl font-bold">Faut-il refaire toute la ventilation de la maison si j'isole correctement l'intérieur ?</h3>
+        <p>Un grand OUI. Ce n'est pas une option. En installant une ITI performante munie d'un pare-vapeur, vous rendez la pièce totalement étanche ("effet Thermos"). L'air vicié et chargé d'humidité (respiration, cuisine, bain) doit être mécaniquement expulsé sous peine de voir exploser les moisissures. L'installation ou le renforcement d'une VMC (Ventilation Mécanique Contrôlée) simple flux hygroréglable ou double flux devient absolue.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Dois-je remplacer mes vieilles fenêtres lors d'une isolation des murs par l'intérieur ?</h3>
+        <p>C'est très fortement recommandé de regrouper ces deux opérations. Techniquement, le raccord parfait entre le nouvel isolant du mur et le nouveau cadre de votre menuiserie est plus simple et supprime tout pont thermique. Ne pas changer de vieilles fenêtres de menuiserie à côté d'un mur sur-isolé, c'est comme porter un épais pull en laine mais oublier ses "gants", vous allez perdre énormément en confort thermique d'une pièce à l'autre.</p>
+    </div>
+    
+    <div>
+        <h3 class="text-xl font-bold">L'intervention va-t-elle rendre mon logement inhabitable ?</h3>
+        <p>Une chambre ou un salon nécessitera généralement 2 à 4 jours de travaux pour un plaquiste selon la surface (le temps de séchage des bandes à joints de plâtre inclus). Oui, la pièce devra être vidée de son mobilier collé au pan de mur à travailler, et subira de la poussière liée aux perçages, mais vous pourrez parfaitement continuer à vivre dans le reste de la maison pendant tout le processus de la rénovation.</p>
+    </div>
+</div>
+
+<h2>Conclusion : N'attendez plus l'hiver pour agir sereinement</h2>
+<p>L'Isolation des murs par l'intérieur (ITI) demeure la manière la plus rationnelle d'améliorer immédiatement et puissamment le confort de votre maison tout en diminuant jusqu'à la moitié des coûts vertigineux de votre consommation de chauffage de manière pérenne. Les appréhensions récurrentes sur la "perte de place" constituent un faux problème lorsque l'on mesure les immenses bienfaits et le sentiment cocooning retrouvés de ces espaces assainis.</p>
+
+<p>Choisir un artisan méticuleux est donc crucial : un mauvais raccord d'isolant, une absence de membrane pare-vapeur ou une VMC mal calculée provoqueront l'arrivée de la condensation en quelques saisons. Il vous faut viser la tranquillité d'esprit à long terme en faisant confiance aux équipes vérifiées du <strong>Cercle des Artisans</strong>.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Passez à l'action énergétique avant la hausse des prix !</strong>
+        <p class="text-blue-800 m-0">Ne payez plus pour chauffer l'extérieur. Laissez un artisan professionnel expert RGE concevoir pour vous l'isolation parfaite de votre intérieur.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Demander mon Devis RGE Gratuit
+        </a>
+    </div>
+</div>
+`
+    }
 ];

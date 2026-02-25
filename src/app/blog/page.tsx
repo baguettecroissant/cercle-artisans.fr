@@ -14,8 +14,10 @@ export const metadata: Metadata = {
 };
 
 export default function BlogPage() {
+    // Sort posts by date descending
+    const sortedPosts = [...blogPosts].sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
     // First post is featured
-    const [featured, ...rest] = blogPosts;
+    const [featured, ...rest] = sortedPosts;
 
     return (
         <div className="min-h-screen bg-gray-50/50">
