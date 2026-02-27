@@ -1,6 +1,158 @@
 import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
+
+    {
+        slug: "prix-monte-escalier-2026-comparatif",
+        title: "Prix d'un monte-escalier en 2026 : Tableau comparatif des modèles (Droit vs Tournant)",
+        metaDescription: "Découvrez le prix réel d'un monte-escalier en 2026. Comparatif complet droit, tournant, aides MaPrimeAdapt', installation et devis artisans RGE.",
+        heroImage: "/images/blog/prix-monte-escalier-2026.png",
+        category: "Accessibilité",
+        publishedAt: "2026-02-27",
+        readTime: "15 min",
+        excerpt: "Combien coûte l'installation d'un monte-escalier en 2026 ? Entre les modèles droits, les escaliers tournants complexes et les aides de l'État comme MaPrimeAdapt', voici le guide ultra-complet pour sécuriser votre domicile sans vous ruiner.",
+        relatedServices: ["monte-escalier", "ascenseur-privatif", "pompe-a-chaleur-air-eau", "isolation-exterieur"],
+        content: `
+<p class="text-lg leading-relaxed">Confort, sécurité, maintien à domicile : trois priorités absolues lorsqu'on envisage de vieillir sereinement chez soi ou d'accompagner un proche en perte d'autonomie. L'escalier, autrefois simple trait d'union entre deux étages, devient souvent le premier obstacle, voire un véritable danger au quotidien. Face à ce défi, l'installation d'un <strong>monte-escalier électrique</strong> s'impose comme LA solution incontournable en 2026. Mais à quel prix ? Entre les modèles droits classiques et les configurations tournantes sur-mesure, les devis peuvent varier du simple au triple. Surtout, avec l'avènement des nouvelles aides de l'État telles que <strong>MaPrimeAdapt'</strong>, le reste à charge peut être considérablement réduit. Dans ce guide ultra-complet, les experts en accessibilité et rénovation du Cercle des Artisans décryptent pour vous les prix réels en 2026, les solutions techniques, les aides financières et les pièges à éviter pour un maintien à domicile en toute sécurité.</p>
+
+<h2>Pourquoi faire ces travaux ? L'enjeu de la sécurité, du confort et de l'énergie</h2>
+<p>L'installation d'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> dépasse largement la simple commodité. C'est une démarche structurante pour l'habitat qui répond à plusieurs urgences :</p>
+
+<h3>1. Prévenir le risque de chute, première cause d'accident domestique</h3>
+<p>Les statistiques sont formelles : les chutes dans les escaliers représentent la cause numéro un d'hospitalisation grave chez les seniors. La perte de mobilité, même légère (arthrose, problèmes articulaires, fatigue respiratoire), rend la montée ou la descente de chaque marche extrêmement périlleuse. Un monte-escalier supprime mécaniquement 100% de ce risque. C'est l'assurance pour l'utilisateur, et pour sa famille, d'une sérénité retrouvée. Le domicile redevient un espace protecteur et sécurisant.</p>
+
+<h3>2. Conserver l'usage intégral de sa maison sans déménager</h3>
+<p>Devoir abandonner l'étage où se trouvent les chambres et la salle de bain pour dormir dans un salon réaménagé au rez-de-chaussée est une décision difficile et souvent mal vécue. L'équipement efface cette barrière architecturale. Vous conservez toutes vos habitudes, vos espaces intimes et l'attachement émotionnel à votre maison. Comparé au coût faramineux d'un déménagement, de l'achat d'un logement de plain-pied ou d'une entrée en EHPAD, l'installation d'un fauteuil élévateur est un investissement extrêmement rationnel et rentable.</p>
+
+<h3>3. Une démarche intégrable dans une rénovation énergétique globale</h3>
+<p>On l'oublie souvent, mais l'adaptation du logement va de pair avec le confort thermique. Un senior qui ne peut plus monter à l'étage pour cause de froid ou de marches trop dures subit une double peine. En profitant des travaux d'accessibilité, beaucoup de nos clients intègrent une réflexion sur leur système de chauffage. L'installation d'une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a> couplée à une bonne isolation permet de réguler parfaitement la température à chaque étage. Et pour ceux qui redoutent la canicule bloqués à l'étage, l'ajout d'une <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation</a> réversible permet un haut niveau de confort et de sécurité sanitaire. Enfin, si le budget et la configuration le permettent, l'<a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a> est une alternative premium qui valorise exceptionnellement le bien immobilier.</p>
+
+<h2>Les différents types de solutions techniques : Droit, Tournant, Extérieur</h2>
+<p>Chaque maison est unique, et la technologie s'est parfaitement adaptée à toutes les architectures. Le choix du matériel ne dépend pas uniquement de vos envies, mais surtout de la configuration précise de votre cage d'escalier.</p>
+
+<h3>1. Le Monte-escalier Droit : Simple, rapide, économique</h3>
+<p>C'est le modèle standard. Il s'installe exclusivement sur un escalier ne comportant <strong>aucun virage, aucun palier intermédiaire et aucune cassure de pente</strong>. Le rail de guidage (souvent en profilé d'aluminium extrudé) est rectiligne et se fixe généralement sur les marches (et non sur le mur, ce qui préserve l'intégrité de vos cloisons).<br>
+<strong>Avantages :</strong> Fabriqué en série (le rail est simplement découpé à la bonne longueur sur place), il est disponible rapidement, s'installe en quelques heures (souvent moins d'une demi-journée) et représente la solution la moins coûteuse du marché.</p>
+
+<h3>2. Le Monte-escalier Tournant : Le sur-mesure absolu</h3>
+<p>Dans 75% des maisons françaises, l'escalier est tournant (quartier tournant haut, bas, ou en colimaçon) ou intègre des paliers. Dans ce cas, un monte-escalier droit est inutilisable. Le modèle tournant nécessite la création d'un rail <strong>100% sur-mesure</strong>. Un technicien réalise une modélisation 3D (photométrie) millimétrée de vos marches. Le rail (souvent à double tubulure pour une stabilité maximale dans les courbes) est ensuite cintré et forgé en usine selon ces côtes précises.<br>
+<strong>Avantages :</strong> Il épouse les courbes au plus près du mur ou de la rampe, dégageant ainsi le passage de l'escalier pour les autres habitants. L'assise pivote automatiquement (système ASL) pour garantir une posture parfaitement horizontale et sécurisée tout le long du trajet.</p>
+
+<h3>3. Le Monte-escalier Extérieur : Braver les intempéries</h3>
+<p>L'accès principal de votre maison est surélevé (perron, marches pour descendre au jardin) ? Le modèle extérieur reprend la technologie du modèle droit ou tournant, mais avec des matériaux spécifiques (visserie Inox, cartes électroniques tropicalisées, housse de protection imperméable, plastiques anti-UV).<br>
+<strong>Avantages :</strong> Résiste au gel, à la neige, aux pluies battantes et aux chaleurs extrêmes estivales (un défi courant pour nos façades, souvent protégé par une robuste <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation par l'extérieur</a> sur laquelle s'appuient les commandes d'appel).</p>
+
+<h2>Tableau comparatif : Le Prix détaillé (matériel + main d'œuvre) en 2026</h2>
+<p>Le prix total d'un monte-escalier est la somme de trois facteurs : le bloc moteur/fauteuil, la complexité du rail de guidage, et les options (rail escamotable automatique, pivotement motorisé du siège, revêtements cuirs, design premium). Voici le tableau de synthèse des tarifs moyens TTC constatés (fourniture et pose par un artisan RGE agréé) :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Type de Monte-escalier</th>
+            <th class="p-4 text-left font-semibold">Configuration de l'escalier</th>
+            <th class="p-4 text-left font-semibold">Fourchette de Prix Moyen (TTC, posé)</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Monte-escalier Droit (Intérieur)</strong></td>
+            <td class="p-4">1 volée droite (12-15 marches), sans palier</td>
+            <td class="p-4">2 500 € à 4 500 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Monte-escalier Tournant (Intérieur)</strong></td>
+            <td class="p-4">1 ou plusieurs virages, paliers, colimaçon</td>
+            <td class="p-4">6 500 € à 10 500 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Monte-escalier Extérieur</strong></td>
+            <td class="p-4">Droit ou tournant, composants étanches</td>
+            <td class="p-4">4 500 € à 12 000 € (selon courbe)</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Ascenseur Privatif (Alternative)</strong></td>
+            <td class="p-4">Création de trémie, desserte de 2 niveaux</td>
+            <td class="p-4">15 000 € à 25 000 €</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-5 mb-6">
+    <strong>💡 L'Expertise du Cercle des Artisans :</strong> Attention aux prix d'appel à "1 500 €" sur internet. Ils ne comprennent souvent ni la pose certifiée, ni le rail sur-mesure, ni les options obligatoires pour les escaliers étroits (comme le rail escamotable en bas qui évite les trébuchements). L'accompagnement par un technicien Conseil est vital pour chiffrer précisément votre besoin.
+</div>
+
+<h2>Les aides financières 2025/2026 : Le rôle clé de MaPrimeAdapt'</h2>
+<p>L'État français a massivement déployé <strong>MaPrimeAdapt'</strong> (lancée pleinement en 2024 et confirmée pour 2025/2026) pour unifier toutes les anciennes aides de l'ANAH (Habiter Facile), de la CNAV, et de la MDPH. Cette prime subventionne directement une part écrasante de vos travaux d'accessibilité à l'image des aides classiques comme MaPrimeRénov' pour l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> ou la <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">réfection des menuiseries</a>.</p>
+
+<ul>
+    <li><strong>MaPrimeAdapt' :</strong> Cette subvention de l'ANAH prend en charge de <strong>50% à 70%</strong> du montant HT des travaux, la limite plafonnée à 22 000 € de travaux.
+        <ul>
+            <li><strong>Pour qui ?</strong> Les personnes de plus de 70 ans (sans restriction Gir conditionnées à partir d'un certain seuil), ou dès 60 ans si perte d'autonomie anticipée (GIR 1 à 6), sous conditions de ressources (profils "Modestes" ou "Très modestes").</li>
+        </ul>
+    </li>
+    <li><strong>Le Crédit d'Impôt Accessibilité à 25% :</strong> Si vous ne remplissez pas les critères de revenus ou d'âge de MaPrimeAdapt', vous pouvez encore bénéficier d'un crédit d'impôt automatique de 25% des dépenses d'équipements pour l'accessibilité (plafonné à 5 000 € pour une personne seule, 10 000 € pour un couple marié). Un artisan RGE labellisé "Handibat" ou "Silverbat" vous garantit l'éligibilité.</li>
+    <li><strong>La TVA à Taux Réduit à 5,5% :</strong> L'achat et l'installation d'un fauteuil monte-escalier ouvrent droit (pour tout type de logement de plus de 2 ans) à la TVA à 5,5% au lieu de 20%, appliquée directement sur votre facture par le poseur.</li>
+    <li><strong>L'Obligation de l'Assistant à Maîtrise d'Ouvrage (AMO) / Accompagnateur Rénov' :</strong> Pour obtenir les subventions maximales MaPrimeAdapt', un diagnostic ergothérapeute à domicile est exigé pour certifier que l'installation du modèle, de sa configuration et des contraintes du domicile est médicalement et techniquement validée.</li>
+</ul>
+
+<h2>Le processus d'installation étape par étape</h2>
+<p>La mise en place par un professionnel réseau du Cercle des Artisans s'opère selon un protocole strict qui assure rapidité, absence de salissures, et surtout sécurité absolue :</p>
+<ol class="list-decimal pl-6 space-y-4 mb-8">
+    <li><strong>L'Étude de faisabilité et d'ergonomie (Gratuite) :</strong> Un technicien, parfois appuyé par un ergothérapeute selon le dossier, se déplace à votre domicile. Il relève les mensurations de l'escalier (largeur minimale de 69 cm généralement requise), étudie les fixations (escalier bois, béton, carrelage) et la physiologie de l'utilisateur (poids, mobilité des genoux).</li>
+    <li><strong>La photométrie 3D ou mesure de l'escalier :</strong> Pour un modèle tournant, des dizaines de mesures sont numérisées. Elles permettront à l'usine de forger un double rail tubulaire respectant vos courbes au millimètre.</li>
+    <li><strong>La Fabrication :</strong> Le délai constructeur est de 2 semaines (modèle droit en stock) à 4 ou 6 semaines (tournant sur mesure en fonderie).</li>
+    <li><strong>La Pose par des techniciens certifiés :</strong> Un matin, les techniciens arrivent. Le rail est solidement chevillé <strong>exclusivement sur les marches</strong> (et pas dans vos cloisons décoratives comme un Placo). Le bloc moteur est clipsé, puis relié en amont et en aval à l'alimentation électrique (le monte escalier fonctionne avec d'imposantes batteries logées sous le siège, elles se rechargent en stationnement, vous garantissant de <strong>pouvoir faire plusieurs allers-retours même en cas de panne de courant totale</strong>).</li>
+    <li><strong>Explications et Essais :</strong> Les techniciens vous apprennent l'usage de la ceinture de sécurité, de la manette ergonomique embarquée, et des télécommandes palières (comme pour appeler le siège). Après nettoyage parfait, votre nouvelle autonomie commence.</li>
+</ol>
+
+<h2>FAQ : Les questions que nos clients posent au téléphone</h2>
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">Un monte-escalier va-t-il empêcher les autres membres de la famille de monter les marches ?</h3>
+        <p>Pas du tout ! Lorsque l'appareil n'est pas utilisé, l'assise, les accoudoirs et le repose-pied du fauteuil se replient (rabattables) manuellement ou de manière motorisée vers le mur. L'encombrement est alors extrêmement minime (environ 30 à 35 cm), laissant un large passage libre pour la circulation des piétons classiques, la montée des courses ou l'installation future d'équipements de confort pour l'isolation de votre étage comme sous votre <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">toiture</a>.</p>
+    </div>
+    
+    <div>
+        <h3 class="text-xl font-bold">Mon escalier en colimaçon (très pentu et étroit) peut-il accueillir ce type d'appareil ?</h3>
+        <p>Oui, avec la technologie du Rail Tournant Intérieur et les fauteuils au design spécifique. Certains modèles premium permettent même une manœuvre appelée "Marche en crabe", où le siège pivote de 45° pendant l'ascension pour éviter que les genoux du passager ne heurtent la rambarde ou le mur opposé. La largeur minimale exigée oscille autour de 65 à 70 cm avec cette expertise.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Quelles sont les solutions pour la dernière marche, tout en haut (pente brutale) ?</h3>
+        <p>Tous les appareils homologués CE incluent un pivotement d'assise. Arrivé tout en haut de votre escalier, le fauteuil pivote via une simple pression pour se retrouver à 90°, face au palier. Vos pieds se posent à plat sur l'étage pour vous asseoir et vous relever. Vous n'avez plus jamais à reculer dangereusement vers le vide de la descente.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Que se passe-t-il en bas de l'escalier si une porte gêne le rail de départ ?</h3>
+        <p>C'est très fréquent, notamment près d'un hall d'entrée. Dans ce cas, les experts posent un rail escamotable automatisé. La partie terminale du rail au rez-de-chaussée se soulève (charnière et moteur) automatiquement une fois que le fauteuil monte, dégageant ainsi parfaitement le passage et évitant un obstacle de trébuchement.</p>
+    </div>
+    
+    <div>
+        <h3 class="text-xl font-bold">Quel est le coût d'entretien annuel ?</h3>
+        <p>Il est préconisé, pour conserver les garanties (allant de 2 ans jusqu'à l'extension à vie) de souscrire un contrat d'entretien de nettoyage des rails, graissage, contrôle sécurité électronique et tests de charge de la batterie. Cela coûte entre 150 € et 250 € par an.</p>
+    </div>
+</div>
+
+<h2>Conclusion : Ne reportez pas votre maintien à domicile !</h2>
+<p>S'équiper d'un monte-escalier ne doit pas être un achat précipité suite à un grave accident, mais une anticipation logique du maintien de vos capacités, tout comme on anticipe ses économies d'énergie en prévoyant une isolation sérieuse avant les tempêtes de l'hiver.</p>
+
+<p>Afin de bénéficier de la TVA réduite et des subventions massives "MaPrimeAdapt" luttant à 70% contre les restes à charge, s'appuyer sur des professionnels labellisés "Handibat" de haute technicité est une obligation. Évitez les plateformes bas de gamme dénuées de service après-vente immédiat face à un blocage mécanique (on ne laisse pas un senior bloqué par panne).</p>
+
+<p><strong>Le Cercle des Artisans</strong> dispose d'un réseau certifié et audité d'experts en mobilité domestique reconnus pour la solidité de leur matériel et leur assistance sans faille. En contactant notre réseau d'artisans, vous avez l'assurance de devis RGE précis, d'un matériel adapté sur mesure et d'un accompagnement personnalisé pour le montage financier des primes d'État.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Étudiez le meilleur tarif local pour votre escalier dès maintenant !</strong>
+        <p class="text-blue-800 m-0">Ne prenez plus de risques au quotidien. Obtenez dès à présent vos devis gratuits de monte-escalier, une étude faisabilité précise par un technicien de votre département, et déduisez-en immédiatement les primes 2026 adaptées à vos revenus.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Visualiser mes Devis Gratuits
+        </a>
+    </div>
+</div>
+`
+    },
     {
         slug: "demoussage-toiture-chlore-interdit",
         title: "Démoussage de toiture : Pourquoi le chlore/javel est strictement interdit",
