@@ -1,7 +1,157 @@
 import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
+    {
+        slug: "comment-savoir-si-charpente-besoin-traitement-fongicide",
+        title: "Comment savoir si votre charpente a besoin d'un traitement fongicide ?",
+        metaDescription: "Comment savoir si votre charpente a besoin d'un traitement fongicide ? Repérer les signes d'infestation, solutions, devis et détail des aides MaPrimeRénov'.",
+        heroImage: "/images/blog/hero_charpente_traitement_1772701894916.png",
+        category: "Travaux",
+        publishedAt: "2026-03-05",
+        readTime: "7 min",
+        excerpt: "Découvrez notre guide complet pour repérer les signes d'infestation fongique sur votre charpente, connaître les solutions de traitement, les prix, ainsi que les aides financières existantes.",
+        relatedServices: ["isolation-combles", "isolation-exterieur", "demoussage-toiture", "pompe-a-chaleur-air-eau", "fenetre"],
+        content: `
+<h2>Comment savoir si votre charpente a besoin d'un traitement fongicide ? L'expertise au service de votre maison</h2>
+<p class="text-lg leading-relaxed">La charpente est le squelette vital de votre maison, la structure architecturale fondamentale qui garantit la stabilité, la sécurité et la pérennité de votre toiture face aux intempéries. Pourtant, parce qu'elle est souvent tapie dans l'ombre humide et difficile d'accès de vos combles perdus, elle reste particulièrement vulnérable aux attaques silencieuses, mais dévastatrices, des champignons lignivores (comme la mérule) et des insectes à larves xylophages (comme les capricornes, les termites ou les vrillettes). Mais alors, <strong>comment savoir si votre charpente a besoin d'un traitement fongicide</strong> ? Ignorer les tout premiers signes avant-coureurs d'une infestation fongique ou d'une faiblesse du bois peut vous conduire rapidement à des dégradations structurelles majeures, compromettant non seulement la sécurité de votre habitation, mais réduisant aussi à néant vos efforts d'économie d'énergie. En effet, la préservation d'une charpente saine est le prérequis technique et réglementaire indispensable avant d'envisager tout type de projet d'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> performant pour maintenir un coefficient thermique R optimal et assurer le confort quotidien de votre intérieur tout au long de l'année.</p>
 
+<p>Dans ce guide ultra-complet, nous mettons notre expertise de professionnels RGE (Reconnu Garant de l'Environnement) à votre service. Nous allons vous aider pas à pas à repérer les signaux d'alarme incontestables, comprendre les différentes solutions techniques, étudier les prix et coûts au mètre carré, et découvrir les subventions et les aides financières 2025/2026 (MaPrimeRénov', CEE, TVA réduite) qui peuvent alléger significativement la facture de ces travaux capitaux.</p>
+
+<h2>Pourquoi faire réaliser urgemment un traitement fongicide de votre charpente ?</h2>
+<h3>1. Garantir la sécurité et l'intégrité structurelle de toute votre habitation</h3>
+<p>L'argument principal en faveur d'un traitement fongicide du bois est la sécurité. Les champignons invasifs (mérule, coniophore des caves) et les insectes xylophages se nourrissent de la cellulose composant le bois de menuiserie. Ils creusent des milliers de galeries invisibles à l'œil nu qui affaiblissent considérablement la résistance mécanique des fermes, poutres, chevrons et pannes, soutenant le lourd poids de votre toiture. Une charpente ainsi fragilisée, c'est l'épée de Damoclès d'un affaissement de toiture. Anticiper ce fléau en traitant par biocide fongicide en amont, c'est l'assurance d'une maison sécurisée.</p>
+
+<h3>2. Préparer le terrain parfait pour vos travaux de rénovation énergétique</h3>
+<p>Si vous envisagez de lourds travaux de rénovation énergétique pour réduire vos factures de chauffage, sachez qu'il est impensable d'installer de l'isolant thermique sur une charpente malade. Avant la moindre isolation de combles ou une lourde <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation par l'extérieur (ITE)</a> de la toiture, le bois doit être minutieusement assaini et séché. Enfermer volontairement une charpente humide et attaquée par des champignons sous un isolant performant ne ferait qu'accélérer la prolifération des spores végétatives. Un professionnel certifié RGE s'assurera de réaliser un audit approfondi avant de poser l'isolant.</p>
+
+<h3>3. Valoriser, préserver et sécuriser votre patrimoine immobilier</h3>
+<p>Lors de la vente future de votre bien, le diagnostic d'état parasitaire est souvent obligatoire. La présence de moisissures, de pourriture cubique ou d'insectes vivants fera chuter le prix de la transaction. A l'inverse, disposer d'une attestation de traitement de charpente de moins de 10 ans complété par un artisan certifié deviendra un puissant argument de vente.</p>
+
+<h2>Quels sont les différents types de solutions techniques pour traiter le bois ?</h2>
+<p>Si vous sollicitez l'un de nos artisans pour une inspection de charpente, la première étape est de poser un diagnostic très précis pour évaluer l'état d'avancement de la contamination, l'essence du bois et la complexité de son accessibilité. Le bois recevra ensuite une protection experte par des agents curatifs biocides testés rigoureusement et certifiés par la norme NF, manipulés par des professionnels bien équipés.</p>
+
+<h3>Traitement préventif de la charpente : Assurer ce qui est sain</h3>
+<p>Si la charpente de votre maison a plus de 10 ans (fin de la garantie décennale du traitement industriel originel) mais qu'elle ne présente encore aucune attaque visible, l'option du <strong>traitement préventif</strong> sera la stratégie la plus judicieuse. Il s'agit de l'application minutieuse par pulvérisation d'une pellicule de produit biocide protecteur (fongicide, insecticide, anti-termites) en surface. Ce traitement rapide recrée une barrière chimique protectrice pour vos bois.</p>
+
+<h3>Traitement curatif radical en profondeur (injection) pour bois malade</h3>
+<p>Hélas, si vous visualisez d'importantes moisissures, une pellicule de vermoulures au sol, et qu'en effectuant un sondage le bois sonne creux, le traitement curatif par injection s'impose lourdement :</p>
+<ul>
+    <li><strong>Le bûchage :</strong> Le maître artisan élimine le bois devenu mou et vermoulu à l'aide d'instruments manuels afin de faire resurgir le bois dur et sain de la charpente.</li>
+    <li><strong>Le perçage et pose d'injecteurs :</strong> De nombreux perçages successifs sont exécutés patiemment en quinconce dans la section des poutres majeures pour y insérer des chevilles d'injection plastiques avec clapets anti-retour.</li>
+    <li><strong>L'injection sous haute pression :</strong> À l'aide d'une pompe spéciale, l'artisan injecte un puissant produit chimique exterminateur directement au cœur du bois. Ce traitement imprègne et regonfle le bois jusqu'à saturation, empoisonnant irrémédiablement l'intérieur pour tous les xylophages ou lignivores testés.</li>
+    <li><strong>Pulvérisation finale double couche :</strong> Par une longue pulvérisation de finition sur l'ensemble de l'extérieur du bois. Le but est de le blinder formellement et de prévenir toute nouvelle invasion de spores.</li>
+</ul>
+
+<h3>Synergies vertueuses avec le démoussage et la couverture</h3>
+<p>Il est fondamental de coupler ces travaux curatifs avec un <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">démoussage de toiture</a> ainsi qu'un diagnostic de votre couverture. Les infiltrations d'eau, même minimes (tuile poreuse, défaut de zinguerie), sont le terreau de nidification idéal des invasions fongiques. Maintenir votre toiture étanche est l'assurance absolue d'avoir éradiqué le risque d'humidité interne.</p>
+
+<h2>Tableau récapitulatif des prix d'un traitement (Matériel et Main d'œuvre TTC)</h2>
+<p>Le prix global de l'intervention dépend de l’accessibilité de vos combles, du degré des parasites à éliminer et de la technique préventive ou très curative choisie. Retrouvez ici nos estimations de tarifs appliqués pour la région en 2026 :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Type de Traitement Charpente</th>
+            <th class="p-4 text-left font-semibold">Méthode mise en œuvre</th>
+            <th class="p-4 text-left font-semibold">Tarif estimé au m² (TTC)</th>
+            <th class="p-4 text-left font-semibold">Montant moyen pour 80m²</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Traitement Préventif Fongicide</strong></td>
+            <td class="p-4">Pulvérisation en surface complète</td>
+            <td class="p-4">15 € à 30 € / m²</td>
+            <td class="p-4">1 200 € à 2 400 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Traitement Curatif Lourd (Injection)</strong></td>
+            <td class="p-4">Bûchage + Perçages + Injections certifiées</td>
+            <td class="p-4">40 € à 65 € / m²</td>
+            <td class="p-4">3 200 € à 5 200 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Remplacement Structurel Poutres</strong></td>
+            <td class="p-4">Renfort/Changement si pièce irrécupérable</td>
+            <td class="p-4">Sur Devis (très variable)</td>
+            <td class="p-4">De 1 500 € à 3 500 € l'unité</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Quelles sont les aides financières 2025/2026 pour ce chantier ?</h2>
+<p>Les aides ciblent avant tout l'isolation thermique, mais réaliser formellement un traitement fongicide permet de bonifier un pack complet global :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Aide d'État / Subvention</th>
+            <th class="p-4 text-left font-semibold">Montant ou Taux accordé</th>
+            <th class="p-4 text-left font-semibold">Conditions d'éligibilité majeures</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>MaPrimeRénov' 2025/2026</strong></td>
+            <td class="p-4">Dépendant des dossiers d'ampleurs</td>
+            <td class="p-4">Subvention au projet global. Inclus dans "Rénovation d'ampleur" (saut de 2 classes DPE).</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>TVA à taux réduit (10% ou 5,5%)</strong></td>
+            <td class="p-4">TVA 10% pour l'entretien, TVA 5,5% si rénovation énergétique</td>
+            <td class="p-4">Logement habité de plus de 2 ans et intervention réalisée par un artisan certifié.</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Primes CEE (Éco-primes)</strong></td>
+            <td class="p-4">Jusqu'à 10-12 € / m² d'isolant ajouté</td>
+            <td class="p-4">Valable uniquement si le traitement précède la mise en place d'une isolation de combles avec artisan RGE.</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Aide à l'autonomie MaPrimeAdapt'</strong></td>
+            <td class="p-4">De 50% à 70% pour la sécurisation du domicile</td>
+            <td class="p-4">Idéal si vous couplez cela avec un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> sur ces étages, plafonné à 22 000 € les travaux.</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="my-10">
+    <h2 class="text-2xl font-bold mb-6">FAQ : Vos questions posées au téléphone à nos experts</h2>
+    <div class="space-y-4">
+        <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+            <h3 class="text-xl font-bold text-blue-900 mt-0">La mérule est-elle la seule menace fongique grave pour ma charpente ?</h3>
+            <p>Non. Même si la mérule déclenche beaucoup d'alertes médiatiques grâce aux arrêtés préfectoraux, le coniophore des caves ou le lenzite pèsent aussi fortement sur le pourrissement cubique du bois. Côté insectes, les termites, vrillettes ou capricornes font d'énormes dégâts structurels tous les étés.</p>
+        </div>
+        <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+            <h3 class="text-xl font-bold text-blue-900 mt-0">Faut-il payer pour faire faire le diagnostic fongique de son bois ?</h3>
+            <p>Non, ce n'est pas nécessaire. Nos artisans experts RGE du réseau "Le Cercle des Artisans" se déplacent généralement pour un contrôle gratuit et visuel du bois à votre domicile et établissent ensuite le chiffrage formel.</p>
+        </div>
+        <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+            <h3 class="text-xl font-bold text-blue-900 mt-0">Combien de temps dois-je aérer ma maison après l'injection chimique ?</h3>
+            <p>Nos artisans privilégient aujourd'hui des micro-émulsions aqueuses, très inodores et en conformité drastique avec la norme NF (label respectueux de la santé de l'homme). Nous préconisons en général d'aérer les pièces pendant les 48 premières heures de pulvérisation. Mais pour des combles perdus confinés, cela ne perturbera pas votre quotidien au rez-de-chaussée.</p>
+        </div>
+        <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+            <h3 class="text-xl font-bold text-blue-900 mt-0">Dois-je attendre un délai spécifique avant d'isoler mes combles ?</h3>
+            <p>Absolument ! Il faut au strict minimum patienter trois à quatre semaines d'assèchement formel avant de recouvrir les rampants traités ou le sol avec de la nouvelle laine de roche ou de verre en flocon. Le bois traité biocide nécessite une parfaite évaporation de son humidité en phase de résilience.</p>
+        </div>
+    </div>
+</div>
+
+<h2>Conclusion : La longévité de votre toiture passe par la protection de son ossature !</h2>
+<p>Protéger l'ossature de votre toiture est l'assurance impondérable de la pérennité globale de votre bien immobilier. Intervenir dès l'apparition des premiers grignotages d'insectes, ou des toutes premières traces blanchâtres suspectes, évite le risque massif de l'effondrement ou des énormes affaissements des tuiles, dont la cure imposerait en finalité la refonte totale onéreuse de la charpentière. Ne négligez donc pas son traitement !</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Exigez un bilan certifié pour la protection de vote toit !</strong>
+        <p class="text-blue-800 m-0">Ne laissez pas la mérule ou les insectes ronger le capital de votre logement. Contactez les artisans RGE du réseau pour obtenir un devis de traitement fongicide ou réaliser un diagnostic charpente précis à domicile, avec les aides associées déduites.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Comparez jusqu'à 3 Devis Gratuits
+        </a>
+    </div>
+</div>
+`
+    },
     {
         slug: "isolation-combles-perdus-rentabilite-chantier-numero-un",
         title: "Isolation des combles perdus : Pourquoi c'est le chantier N°1 pour la rentabilité",
