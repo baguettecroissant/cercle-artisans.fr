@@ -2,6 +2,161 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "maprimerenov-copropriete-vote-travaux-ag",
+        title: "MaPrimeRénov' Copropriété : Comment voter les travaux en assemblée ?",
+        metaDescription: "Guide complet MaPrimeRénov' Copropriété 2025 : conditions, montants des aides, processus de vote en AG (majorité), prix et devis par artisans RGE.",
+        heroImage: "/images/blog/maprimerenov-copropriete-hero.png",
+        category: "Copropriété",
+        publishedAt: "2026-03-09",
+        readTime: "18 min",
+        excerpt: "La rénovation énergétique en copropriété est un levier majeur pour réduire les charges et valoriser son patrimoine. MaPrimeRénov' Copropriété 2025 propose des aides massives. Découvrez comment préparer votre dossier et voter les travaux en Assemblée Générale.",
+        relatedServices: ["isolation-exterieur", "pompe-a-chaleur-air-eau", "isolation-combles", "fenetre", "climatisation", "monte-escalier", "ascenseur-privatif", "demoussage-toiture"],
+        content: `
+<h2>MaPrimeRénov' Copropriété 2025 : Le levier incontournable de la rénovation énergétique collective</h2>
+<p class="text-lg leading-relaxed">Face à l'envolée des prix de l'énergie et aux nouvelles exigences réglementaires du Diagnostic de Performance Énergétique (DPE), de nombreux copropriétaires s'interrogent : comment réduire durablement les charges tout en valorisant leur patrimoine ? La réponse réside dans la rénovation globale, largement soutenue par le dispositif <strong>MaPrimeRénov' Copropriété 2025</strong>. Ce programme de l'Agence Nationale de l'Habitat (Anah) permet de financer une part substantielle des travaux de rénovation énergétique à l'échelle de l'immeuble. Cependant, engager un tel chantier nécessite une organisation rigoureuse, de la réalisation de l'audit énergétique jusqu'au vote crucial en Assemblée Générale (AG). <strong>Comment voter les travaux en assemblée ?</strong> Quelles sont les aides disponibles et les majorités requises ? Les experts du Cercle des Artisans vous livrent ici un guide ultra-complet pour transformer votre copropriété en un habitat performant, économe et confortable.</p>
+
+<p>Dans ce dossier, nous aborderons les solutions techniques comme l' <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation par l'extérieur</a>, les systèmes de chauffage performants tels que la <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a>, et les processus administratifs pour maximiser vos subventions.</p>
+
+<h2>Pourquoi engager des travaux de rénovation en copropriété ?</h2>
+<p>L'intérêt de la rénovation énergétique collective dépasse le simple cadre écologique. C'est une stratégie financière et patrimoniale gagnante sur le long terme.</p>
+
+<h3>1. Réduire massivement les charges de chauffage</h3>
+<p>Dans une copropriété non isolée, les déperditions thermiques sont colossales. L'ADEME estime que l'isolation des murs par l'extérieur et la réfection de la toiture peuvent réduire les besoins de chauffage de plus de 50%. En traitant également l' <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> et en remplaçant les <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a> anciennes par des modèles à haute performance (Double vitrage thermique, argon, intercalaires Warm Edge), vous agissez directement sur le montant de vos factures individuelles ou collectives.</p>
+
+<h3>2. Valoriser votre patrimoine immobilier (La Valeur Verte)</h3>
+<p>Un immeuble rénové, classé A, B ou C au DPE, se vend plus cher et plus vite. C'est ce qu'on appelle la "Valeur Verte". À l'inverse, les "passoires thermiques" (classes F et G) subissent une décote importante et sont progressivement interdites à la location (Loi Climat et Résilience). Investir dans la rénovation, c'est protéger la valeur de votre appartement.</p>
+
+<h3>3. Améliorer le confort et la sécurité des résidents</h3>
+<p>La rénovation énergétique, c'est aussi un gain de confort acoustique et thermique au quotidien. Dans une approche globale, certains immeubles profitent de ces travaux pour améliorer l'accessibilité en installant un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> pour les PMR ou un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a> pour les duplex et derniers étages. Un habitat sain commence aussi par une toiture autoprotégée, d'où l'importance d'un <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">demoussage de toiture</a> régulier pour éviter les infiltrations qui dégradent les isolants internes.</p>
+
+<h2>Les solutions techniques pour une copropriété performante</h2>
+<p>Pour atteindre les 35% de gain énergétique requis par l'Anah, plusieurs bouquets de travaux sont possibles.</p>
+
+<h3>L'Isolation Thermique par l'Extérieur (ITE) : Le bouclier thermique</h3>
+<p>C'est la solution reine en copropriété. Elle consiste à envelopper l'immeuble d'une couche d'isolant (polystyrène expansé, laine de roche ou fibre de bois) protégée par un enduit ou un bardage. Avec un <strong>coefficient thermique R</strong> élevé (souvent R ≥ 3,7 m².K/W), l'ITE élimine les ponts thermiques au niveau des planchers et des refends, garantissant une inertie thermique optimale.</p>
+
+<h3>Le remplacement du système de chauffage et de ventilation</h3>
+<p>Passer d'une chaudière fioul ou gaz vétuste à une chaufferie collective avec <strong>pompe à chaleur air-eau</strong> ou chaudière biomasse permet des économies spectaculaires. Couplée à une ventilation mécanique contrôlée (VMC) double flux ou hygroréglable type B, vous assurez une qualité d'air saine sans gaspillage de calories.</p>
+
+<h3>La menuiserie et l'isolation des points singuliers</h3>
+<p>Le changement des fenêtres en parties privatives peut être déclaré "d'intérêt collectif" pour harmoniser les performances de la façade. L'utilisation de châssis PVC ou Aluminium à rupture de pont thermique avec les <strong>certifications NF</strong> et <strong>CSTB</strong> est indispensable pour garantir l'éligibilité aux aides.</p>
+
+<h2>Le prix de la rénovation globale en copropriété (2025-2026)</h2>
+<p>Le coût d'un projet de rénovation d'ampleur en copropriété est un investissement conséquent, mais largement amorti par les subventions. En moyenne, les tarifs HT constatés pour une rénovation complète (ITE + Combles + Ventilation + Menuiseries) se situent entre <strong>15 000 € et 35 000 € par logement</strong>, selon la complexité architecturale et le niveau de performance visé.</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Poste de Travaux</th>
+            <th class="p-4 text-left font-semibold">Détails Techniques (Normes)</th>
+            <th class="p-4 text-left font-semibold">Prix moyen estimé (par logement)</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Isolation des Murs (ITE)</strong></td>
+            <td class="p-4">R ≥ 3,7 m².K/W, Isolant certifié ACERMI</td>
+            <td class="p-4">8 000 € – 15 000 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Isolation Toiture / Combles</strong></td>
+            <td class="p-4">R ≥ 7 m².K/W, Laine de roche soufflée NF</td>
+            <td class="p-4">2 500 € – 4 500 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Menuiseries (Fenêtres)</strong></td>
+            <td class="p-4">Uw ≤ 1,3 W/m².K, Certification NF/CSTB</td>
+            <td class="p-4">4 000 € – 7 000 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Chauffage (PAC Collective)</strong></td>
+            <td class="p-4">Régulation classe B minimum</td>
+            <td class="p-4">5 000 € – 8 000 €</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>MaPrimeRénov' Copropriété 2025 : Décryptage des aides financières</h2>
+<p>L'aide MaPrimeRénov' Copropriété a été simplifiée pour 2025 afin d'encourager les rénovations performantes. Voici les montants précis :</p>
+
+<ul>
+    <li><strong>Le Socle de Base :</strong> L'Anah finance <strong>30% à 45%</strong> du montant HT des travaux éligibles, sur une base de plafond de dépenses de <strong>25 000 € par logement</strong>.
+        <ul>
+            <li>30% de financement pour un gain énergétique d'au moins 35%.</li>
+            <li>45% de financement pour un gain énergétique d'au moins 50%.</li>
+        </ul>
+    </li>
+    <li><strong>Bonus Sortie de Passoire (10%) :</strong> Cumulable si l'immeuble passe d'une classe F ou G à une classe D minimum.</li>
+    <li><strong>Bonus Copropriété Fragile (20%) :</strong> Pour les immeubles avec un taux d'impayés > 8% ou situés en zone NPNRU.</li>
+    <li><strong>Aides Individuelles :</strong> Les foyers aux revenus modestes et très modestes reçoivent une prime complémentaire de <strong>1 500 € à 3 000 €</strong> par logement.</li>
+    <li><strong>Les CEE (Certificats d'Économies d'Énergie) :</strong> Souvent intégrés directement au dossier Anah, ils apportent une aide complémentaire substantielle calculée au kWh cumac économisé.</li>
+</ul>
+
+<h2>Comment voter les travaux en Assemblée Générale ? Le guide juridique</h2>
+<p>Le vote des travaux est l'étape la plus redoutée mais aussi la plus cruciale. En 2025, les règles de majorité ont été assouplies pour favoriser la transition écologique.</p>
+
+<h3>1. La phase d'étude et la majorité simple (Article 24)</h3>
+<p>Avant de voter les travaux eux-mêmes, le syndicat doit voter la réalisation d'un <strong>Diagnostic Technique Global (DTG)</strong> ou d'un <strong>Plan Pluriannuel de Travaux (PPT)</strong>. Ces études sont indispensables pour définir la stratégie de rénovation. Elles se votent à la <strong>majorité simple (Article 24)</strong> : la majorité des voix des copropriétaires présents ou représentés.</h3>
+
+<h3>2. Le vote des travaux et la majorité absolue (Article 25)</h3>
+<p>Les travaux d'économies d'énergie se votent à la <strong>majorité de l'Article 25</strong> : la majorité des voix de TOUS les copropriétaires de l'immeuble (présents, représentés et absents).
+    <ul>
+        <li><strong>Passerelle de l'Article 25-1 :</strong> Si le projet a recueilli au moins un tiers (1/3) des voix de tous les copropriétaires, l'assemblée peut procéder immédiatement à un second vote à la majorité simple (Article 24). Si le projet a moins d'un tiers des voix, une nouvelle AG peut être convoquée dans les 3 mois pour un vote à la majorité simple.</li>
+    </ul>
+</p>
+
+<h3>3. L'Accompagnateur Rénov' et l'AMO : Une obligation légale</h3>
+<p>Pour bénéficier de MaPrimeRénov' Copropriété, l'assistance à maîtrise d'ouvrage (AMO) est <strong>obligatoire</strong>. Cet expert accompagne le syndic et le conseil syndical dans le montage financier, technique et administratif du dossier. L'Anah subventionne cette prestation à hauteur de 50% (plafonnée selon la taille de l'immeuble).</p>
+
+<h2>Processus d'installation étape par étape par un pro RGE</h2>
+<ol>
+    <li><strong>Audit Énergétique :</strong> Diagnostic complet de l'immeuble pour identifier les gisements d'économies.</li>
+    <li><strong>Conception du projet :</strong> Choix des matériaux (épaisseur de l'isolant, type de ventilation) et consultation des entreprises <strong>certifiées RGE</strong>.</li>
+    <li><strong>Vote en AG :</strong> Adoption du plan de travaux et du plan de financement selon la majorité requise.</li>
+    <li><strong>Montage des dossiers d'aides :</strong> L'AMO prépare la demande de subvention globale auprès de l'Anah.</li>
+    <li><strong>Réalisation du chantier :</strong> Pose de l'ITE, isolation des combles, installation des pompes à chaleur par des artisans qualifiés.</li>
+    <li><strong>Réception et Contrôle :</strong> Vérification du gain énergétique réel (DPE post-travaux) et déblocage final des fonds.</li>
+</ol>
+
+<h2>FAQ : Questions fréquentes sur la rénovation en copropriété</h2>
+<div class="space-y-4">
+    <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+        <h3 class="text-xl font-bold text-blue-900 mt-0">Peut-on imposer les travaux de fenêtres aux copropriétaires ?</h3>
+        <p>Oui, si l'AG vote les travaux de menuiseries comme "travaux d'intérêt collectif sur parties privatives". Cela permet d'assurer une performance homogène de toute la façade et une éligibilité optimale aux aides collectives.</p>
+    </div>
+    <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+        <h3 class="text-xl font-bold text-blue-900 mt-0">Combien de temps dure un chantier de rénovation globale ?</h3>
+        <p>Pour un immeuble de 30 à 50 lots, comptez entre 6 et 12 mois de travaux, selon l'ampleur des interventions (notamment si une ITE est réalisée avec pose d'échafaudages complets).</p>
+    </div>
+    <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+        <h3 class="text-xl font-bold text-blue-900 mt-0">Les bailleurs ont-ils droit aux mêmes aides que les occupants ?</h3>
+        <p>Oui, MaPrimeRénov' Copropriété est ouverte aux copropriétaires bailleurs sans condition de ressources pour les parties communes. Les aides individuelles Anah sont en revanche réservées aux occupants modestes.</p>
+    </div>
+    <div class="bg-gray-50 p-5 rounded-lg border border-gray-200">
+        <h3 class="text-xl font-bold text-blue-900 mt-0">La climatisation est-elle éligible aux aides collectives ?</h3>
+        <p>Non, la <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation</a> seule n'est pas subventionnée par MaPrimeRénov' Copropriété. Seuls les systèmes de chauffage performants (PAC air-eau) le sont.</p>
+    </div>
+</div>
+
+<h2>Conclusion : Pourquoi choisir un artisan RGE du Cercle des Artisans ?</h2>
+<p>Réussir une rénovation en copropriété est un défi de haute technicité qui ne supporte pas l'amateurisme. Choisir un artisan du réseau <strong>Le Cercle des Artisans</strong>, c'est l'assurance de collaborer avec des professionnels <strong>Reconnus Garants de l'Environnement (RGE)</strong>, experts des contraintes spécifiques du collectif. Nous vous accompagnons de l'audit jusqu'à la livraison, en garantissant le respect scrupuleux des <strong>normes NF</strong> et des exigences de l'Anah pour sécuriser vos subventions.</p>
+
+<p>Ne laissez pas votre copropriété devenir une passoire thermique. Anticipez les obligations légales de 2025 et valorisez votre bien dès aujourd'hui.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Lancez votre projet de rénovation collective en toute sérénité !</strong>
+        <p class="text-blue-800 m-0">Obtenez des devis gratuits et détaillés pour votre copropriété. Étude de faisabilité, montage des dossiers d'aides et travaux certifiés par nos artisans RGE.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Demander une Étude Gratuite
+        </a>
+    </div>
+</div>
+`
+    },
+    {
         slug: "comment-savoir-si-charpente-besoin-traitement-fongicide",
         title: "Comment savoir si votre charpente a besoin d'un traitement fongicide ?",
         metaDescription: "Comment savoir si votre charpente a besoin d'un traitement fongicide ? Repérer les signes d'infestation, solutions, devis et détail des aides MaPrimeRénov'.",
@@ -2411,7 +2566,7 @@ export const blogPosts: BlogPost[] = [
         publishedAt: "2026-03-07",
         readTime: "15 min",
         excerpt: "Tout ce que vous devez savoir pour installer une pompe à chaleur en Île-de-France : les contraintes urbaines, le prix total détaillé, les aides 2026, et de nombreuses informations pour maîtriser votre facture d'électricité grâce aux artisans certifiés.",
-        relatedServices: ["pompe-a-chaleur-air-eau","isolation-combles","isolation-exterieur","climatisation","fenetre"],
+        relatedServices: ["pompe-a-chaleur-air-eau", "isolation-combles", "isolation-exterieur", "climatisation", "fenetre"],
         content: `
 
 <p class="text-lg leading-relaxed">Les hivers glaciaux et les étés caniculaires qui frappent régulièrement l'Île-de-France mettent à rude épreuve le confort thermique des habitations. Face à la flambée constante des prix du gaz et du fioul, l'installation d'une <strong>pompe à chaleur (PAC)</strong> s'impose naturellement comme la solution la plus écologique et la plus rentable en 2026. Cependant, réaliser ce type de travaux de rénovation énergétique dans la région francilienne est loin de s'apparenter à un long fleuve tranquille. Densité urbaine, règles drastiques d'urbanisme (notamment avec les Architectes des Bâtiments de France - ABF), normes acoustiques strictes régies par le Code de la Santé Publique et copropriétés exigeantes : les contraintes locales appellent à un niveau d'expertise irréprochable. Pour naviguer dans ces eaux agitées, l'intervention d'installateurs chevronnés et dotés des certifications <strong>RGE (Reconnu Garant de l'Environnement)</strong> et QualiPAC est non négociable. Dans ce guide ultra-complet, les experts du réseau <strong>Le Cercle des Artisans</strong> décryptent minutieusement les contraintes franciliennes, l'analyse détaillée des coûts, les spécificités des coefficients de performance, ainsi que les aides financières (MaPrimeRénov', CEE, <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">MaPrimeAdapt'</a> dans le cadre du maintien à domicile) mobilisables pour faire chuter votre reste à charge.</p>
