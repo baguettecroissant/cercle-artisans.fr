@@ -2,6 +2,281 @@ import { BlogPost } from "@/types";
 
 export const blogPosts: BlogPost[] = [
     {
+        slug: "simulation-aides-2026-renovation-globale",
+        title: "Simulation aides 2026 : Calculez vos primes pour une rénovation globale",
+        metaDescription: "Simulez vos aides rénovation 2026 : MaPrimeRénov', CEE, MaPrimeAdapt', Éco-PTZ. Montants par profil, tableaux de prix, guide complet par artisans RGE certifiés.",
+        heroImage: "/images/blog/simulation-aides-2026-hero.png",
+        category: "Aides & Financement",
+        publishedAt: "2026-03-13",
+        readTime: "17 min",
+        excerpt: "Avant de lancer votre projet de rénovation énergétique, il est indispensable de simuler précisément les aides auxquelles vous avez droit. MaPrimeRénov', CEE, MaPrimeAdapt', Éco-PTZ : découvrez comment calculer vos primes pour une rénovation globale en 2026 et réduire votre reste à charge au minimum.",
+        relatedServices: ["isolation-exterieur", "pompe-a-chaleur-air-eau", "isolation-combles", "fenetre", "climatisation", "monte-escalier", "ascenseur-privatif", "demoussage-toiture"],
+        content: `
+<h2>Pourquoi simuler vos aides avant de lancer une rénovation globale en 2026 ?</h2>
+<p class="text-lg leading-relaxed">En 2026, la <strong>rénovation énergétique globale</strong> reste l'un des investissements les plus rentables pour un propriétaire français. Économies d'énergie immédiates, amélioration du Diagnostic de Performance Énergétique (DPE), valorisation de votre patrimoine immobilier et, surtout, un confort de vie radicalement transformé : les bénéfices sont multiples et durables. Mais soyons réalistes : un chantier d'envergure — <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation thermique par l'extérieur (ITE)</a>, remplacement du système de chauffage par une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a>, <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a>, changement des <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a> — représente un investissement conséquent, souvent compris entre <strong>25 000 € et 70 000 €</strong> pour une maison individuelle de 100 m².</p>
+
+<p>C'est précisément pour cela que l'étape de la <strong>simulation des aides financières</strong> est absolument fondamentale. Mal estimer vos droits, c'est risquer de surdimensionner votre reste à charge… ou pire, de passer à côté de milliers d'euros de subventions cumulables. Les experts du <strong>Cercle des Artisans</strong>, tous <strong>certifiés RGE</strong> (Reconnu Garant de l'Environnement), vous livrent ici un guide ultra-complet pour calculer avec précision les primes auxquelles vous êtes éligible en 2026.</p>
+
+<h2>Pourquoi faire une rénovation globale plutôt que des gestes isolés ?</h2>
+<p>Depuis la réforme de <strong>MaPrimeRénov' 2024</strong>, confirmée et renforcée en 2025 puis 2026, l'État oriente massivement les propriétaires vers la <strong>rénovation d'ampleur</strong> (aussi appelée « Parcours Accompagné ») plutôt que les gestes isolés. La logique est simple : traiter simultanément l'enveloppe thermique et le système de chauffage garantit une performance énergétique supérieure et durable.</p>
+
+<h3>1. Un gain énergétique supérieur et un meilleur DPE</h3>
+<p>Un bouquet de travaux combinant l'<a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation des murs par l'extérieur</a> (coefficient thermique <strong>R ≥ 3,7 m².K/W</strong>, isolant certifié ACERMI), l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> (<strong>R ≥ 7 m².K/W</strong>) et l'installation d'une <strong>PAC air-eau</strong> performante (COP ≥ 3) permet typiquement un saut de <strong>3 à 4 classes DPE</strong>. Passer d'une étiquette F ou G (passoire thermique) à une classe B ou C, c'est transformer radicalement la valeur verte de votre bien — un atout décisif pour la revente ou la location, sachant que les logements classés G sont déjà interdits à la location depuis 2025.</p>
+
+<h3>2. Des aides considérablement plus généreuses en rénovation globale</h3>
+<p>La rénovation d'ampleur ouvre des taux de financement que les gestes isolés ne permettent tout simplement pas d'atteindre. En Parcours Accompagné, l'ANAH peut financer <strong>jusqu'à 90% du montant HT des travaux</strong> pour les ménages très modestes (profil Bleu). Les profils intermédiaires et aisés, exclus de nombreuses aides en monogeste, deviennent éligibles à des subventions substantielles en rénovation globale.</p>
+
+<h3>3. Un confort thermique et acoustique immédiat</h3>
+<p>En traitant l'ensemble de l'enveloppe en une seule campagne de travaux, vous supprimez d'un coup tous les ponts thermiques. Terminées les parois froides en hiver, les surchauffes insupportables sous les combles en été, les courants d'air autour des fenêtres. Couplé à une <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation réversible</a> correctement dimensionnée ou à votre nouvelle PAC, le confort est total, été comme hiver.</p>
+
+<h2>Les aides financières 2026 : Le guide complet poste par poste</h2>
+<p>Voici le détail exhaustif et précis de chaque dispositif d'aide mobilisable pour votre rénovation globale en 2026. L'ensemble de ces aides est <strong>cumulable</strong>, ce qui permet de réduire drastiquement votre reste à charge.</p>
+
+<h3>1. MaPrimeRénov' Parcours Accompagné (Rénovation d'ampleur)</h3>
+<p>C'est le pilier central du financement. L'ANAH subventionne un pourcentage du montant HT des travaux éligibles, en fonction de votre profil de revenus et du gain énergétique obtenu :</p>
+<ul>
+    <li><strong>Gain de 2 classes DPE :</strong> Taux de prise en charge de 40% (profil Rose/Aisés) à 80% (profil Bleu/Très modestes).</li>
+    <li><strong>Gain de 3 classes DPE :</strong> Taux de 50% (Rose) à 80% (Bleu).</li>
+    <li><strong>Gain de 4 classes DPE ou plus :</strong> Taux de 60% (Rose) à <strong>90%</strong> (Bleu).</li>
+</ul>
+<p>Le plafond de dépenses éligibles est de <strong>40 000 € HT</strong> pour un gain de 2 classes, <strong>55 000 € HT</strong> pour 3 classes, et <strong>70 000 € HT</strong> pour 4 classes et plus. Un <strong>bonus sortie de passoire énergétique</strong> de <strong>10%</strong> s'ajoute si votre logement quitte les classes F ou G.</p>
+<p>Condition impérative : les travaux doivent être réalisés par des artisans <strong>certifiés RGE</strong> et un <strong>Accompagnateur Rénov'</strong> (Mon Accompagnateur Rénov' - MAR) est obligatoirement désigné pour piloter le projet.</p>
+
+<h3>2. Les Certificats d'Économies d'Énergie (CEE) — Primes Énergie</h3>
+<p>Les CEE, versés par les fournisseurs d'énergie (EDF, Engie, TotalEnergies), sont <strong>100% cumulables</strong> avec MaPrimeRénov'. Le montant dépend de la nature des travaux, de votre zone climatique (H1/H2/H3) et de vos revenus. En 2026, pour une rénovation globale typique :</p>
+<ul>
+    <li><strong>Installation d'une PAC air-eau :</strong> Prime CEE de <strong>2 500 € à 4 000 €</strong> (Coup de Pouce Chauffage).</li>
+    <li><strong>Isolation des combles (80 m²) :</strong> Prime CEE de <strong>640 € à 1 200 €</strong>.</li>
+    <li><strong>ITE des murs (100 m²) :</strong> Prime CEE de <strong>1 500 € à 3 000 €</strong>.</li>
+    <li><strong>Remplacement des fenêtres (6 unités) :</strong> Prime CEE de <strong>300 € à 700 €</strong>.</li>
+</ul>
+<p><strong>Total CEE cumulé pour une rénovation globale :</strong> comptez en moyenne <strong>5 000 € à 9 000 €</strong> de primes énergie qui s'ajoutent à MaPrimeRénov'.</p>
+
+<h3>3. MaPrimeAdapt' : L'aide pour l'accessibilité du logement</h3>
+<p>Si votre projet de rénovation inclut des travaux d'adaptation pour le maintien à domicile — installation d'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a>, d'un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a>, ou l'aménagement de la salle de bains — <strong>MaPrimeAdapt'</strong> peut financer de <strong>50% à 70%</strong> du coût de ces équipements, plafonné à <strong>22 000 € HT</strong> de travaux. Cette aide est destinée aux personnes de plus de 70 ans (ou dès 60 ans en situation de perte d'autonomie, GIR 1 à 6) sous conditions de ressources.</p>
+
+<h3>4. La TVA à taux réduit de 5,5%</h3>
+<p>Tous les travaux de rénovation énergétique dans un logement achevé depuis plus de 2 ans bénéficient automatiquement du taux super-réduit de <strong>TVA à 5,5%</strong> (au lieu de 20%). Sur un chantier à 50 000 €, cela représente une économie de <strong>7 250 €</strong> par rapport au taux normal. Ce taux est inclus directement sur la facture de l'artisan professionnel.</p>
+
+<h3>5. L'Éco-Prêt à Taux Zéro (Éco-PTZ)</h3>
+<p>Pour financer le reste à charge, l'Éco-PTZ permet d'emprunter <strong>jusqu'à 50 000 €</strong> pour un bouquet de travaux de rénovation globale, <strong>sans aucun intérêt à rembourser</strong>. Durée de remboursement : jusqu'à 20 ans. Aucune condition de ressources n'est requise, seule la certification RGE de l'artisan est exigée.</p>
+
+<h3>6. Les aides locales complémentaires</h3>
+<p>De nombreuses collectivités (régions, départements, communautés de communes) proposent des aides supplémentaires cumulables avec les aides nationales. Certaines régions offrent des bonus de <strong>500 € à 3 000 €</strong> pour la rénovation énergétique. Renseignez-vous auprès de votre Espace Conseil France Rénov' ou confiez cette recherche à votre Accompagnateur Rénov'.</p>
+
+<h2>Tableau de simulation : Combien allez-vous recevoir selon votre profil ?</h2>
+<p>Pour vous donner une vision concrète du reste à charge, voici une simulation type pour une <strong>maison individuelle de 100 m²</strong>, classée F au DPE, avec un bouquet de travaux visant un saut de 3 classes DPE (passage en classe C). Budget total des travaux estimé : <strong>45 000 € HT</strong>.</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Aide / Dispositif</th>
+            <th class="p-4 text-left font-semibold">Profil Bleu (Très modestes)</th>
+            <th class="p-4 text-left font-semibold">Profil Jaune (Modestes)</th>
+            <th class="p-4 text-left font-semibold">Profil Violet (Intermédiaires)</th>
+            <th class="p-4 text-left font-semibold">Profil Rose (Aisés)</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>MaPrimeRénov' Parcours Accompagné</strong></td>
+            <td class="p-4">36 000 € (80%)</td>
+            <td class="p-4">27 000 € (60%)</td>
+            <td class="p-4">22 500 € (50%)</td>
+            <td class="p-4">13 500 € (30%)</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Bonus Sortie de Passoire (10%)</strong></td>
+            <td class="p-4">4 500 €</td>
+            <td class="p-4">4 500 €</td>
+            <td class="p-4">4 500 €</td>
+            <td class="p-4">4 500 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Primes CEE cumulées</strong></td>
+            <td class="p-4">7 000 €</td>
+            <td class="p-4">6 500 €</td>
+            <td class="p-4">5 500 €</td>
+            <td class="p-4">5 000 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Économie TVA 5,5%</strong></td>
+            <td class="p-4">6 525 €</td>
+            <td class="p-4">6 525 €</td>
+            <td class="p-4">6 525 €</td>
+            <td class="p-4">6 525 €</td>
+        </tr>
+        <tr class="border-b bg-blue-50 font-bold">
+            <td class="p-4">Total des aides estimées</td>
+            <td class="p-4 text-green-700">54 025 €</td>
+            <td class="p-4 text-green-700">44 525 €</td>
+            <td class="p-4 text-green-700">39 025 €</td>
+            <td class="p-4 text-green-700">29 525 €</td>
+        </tr>
+        <tr class="bg-yellow-50 font-bold">
+            <td class="p-4">Reste à charge estimé</td>
+            <td class="p-4 text-blue-900">≈ 0 € *</td>
+            <td class="p-4 text-blue-900">≈ 3 000 €</td>
+            <td class="p-4 text-blue-900">≈ 8 500 €</td>
+            <td class="p-4 text-blue-900">≈ 18 000 €</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 mb-6">
+    <strong>* Reste à charge plancher obligatoire :</strong> Depuis 2025, un reste à charge minimum de <strong>10%</strong> du montant TTC est imposé, même pour les ménages très modestes. Le reste à charge réel pour le profil Bleu sera donc d'environ <strong>4 750 € TTC</strong>. L'Éco-PTZ (jusqu'à 50 000 € à taux zéro) peut financer intégralement ce solde.
+</div>
+
+<h2>Tableau détaillé : Le prix des travaux poste par poste (matériel + main d'œuvre)</h2>
+<p>Pour alimenter votre simulation, voici les tarifs moyens TTC constatés en 2026 pour chaque poste de travaux, fourniture et pose par un artisan certifié RGE :</p>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Poste de travaux</th>
+            <th class="p-4 text-left font-semibold">Exigences techniques (Normes)</th>
+            <th class="p-4 text-left font-semibold">Prix moyen TTC (maison 100 m²)</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>ITE Polystyrène (murs)</strong></td>
+            <td class="p-4">R ≥ 3,7 m².K/W, isolant ACERMI, NF DTU 55.2</td>
+            <td class="p-4">12 000 € – 18 000 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Isolation combles perdus (soufflage)</strong></td>
+            <td class="p-4">R ≥ 7 m².K/W, laine de roche NF, NF DTU 45.11</td>
+            <td class="p-4">2 000 € – 3 500 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>PAC Air-Eau (remplacement chaudière)</strong></td>
+            <td class="p-4">COP ≥ 3, ETAS ≥ 126%, NF PAC certification</td>
+            <td class="p-4">10 000 € – 16 000 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Fenêtres double vitrage (6 unités)</strong></td>
+            <td class="p-4">Uw ≤ 1,3 W/m².K, NF/CSTB, vitrages argon</td>
+            <td class="p-4">4 000 € – 7 000 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>VMC double flux</strong></td>
+            <td class="p-4">Rendement ≥ 85%, NF 205, certification Eurovent</td>
+            <td class="p-4">4 000 € – 7 000 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Démoussage toiture + hydrofuge</strong></td>
+            <td class="p-4">Préalable recommandé avant isolation</td>
+            <td class="p-4">2 500 € – 5 000 €</td>
+        </tr>
+        <tr class="bg-blue-50 font-bold">
+            <td class="p-4">Total rénovation globale estimée</td>
+            <td class="p-4">—</td>
+            <td class="p-4">34 500 € – 56 500 € TTC</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Le processus de simulation et de rénovation étape par étape</h2>
+<p>Voici le parcours concret, de la première simulation en ligne jusqu'à la réception de votre chantier. Les artisans RGE du <strong>Cercle des Artisans</strong> vous accompagnent à chaque étape.</p>
+
+<h3>Étape 1 : La simulation en ligne de vos aides</h3>
+<p>Rendez-vous sur le site officiel <strong>France Rénov'</strong> ou directement auprès de nos experts pour réaliser une première estimation. Vous renseignez votre revenu fiscal de référence, la composition de votre foyer, le type de logement (maison/appartement), sa surface, son année de construction et son DPE actuel. Le simulateur vous indique immédiatement votre profil de couleur (Bleu, Jaune, Violet, Rose) et les montants indicatifs par poste de travaux.</p>
+
+<h3>Étape 2 : L'audit énergétique obligatoire</h3>
+<p>Avant tout dépôt de dossier MaPrimeRénov' Parcours Accompagné, un <strong>audit énergétique réglementaire</strong> doit être réalisé par un professionnel qualifié. Cet audit analyse l'ensemble de votre bâti (murs, toiture, plancher bas, menuiseries, ventilation, système de chauffage) et propose au minimum deux scénarios de travaux avec le gain DPE correspondant. Son coût oscille entre <strong>800 € et 1 500 €</strong>, mais il est partiellement subventionné par MaPrimeRénov'.</p>
+
+<h3>Étape 3 : La désignation de l'Accompagnateur Rénov' (MAR)</h3>
+<p>L'intervention d'un <strong>Mon Accompagnateur Rénov'</strong> agréé par l'ANAH est obligatoire pour tout Parcours Accompagné. Il vous guide dans le choix des travaux, valide les devis, monte le dossier de financement et suit le chantier. Sa prestation est subventionnée à hauteur de <strong>100%</strong> pour les profils Bleu et Jaune.</p>
+
+<h3>Étape 4 : La consultation des artisans RGE et les devis</h3>
+<p>C'est l'étape déterminante. Vous sollicitez <strong>au minimum 2 à 3 devis</strong> d'artisans certifiés RGE pour chaque lot de travaux. Les artisans du <strong>Cercle des Artisans</strong> vous fournissent des devis détaillés, mentionnant précisément les performances cibles (valeurs R, Uw, COP), les références des matériaux certifiés <strong>ACERMI</strong> ou <strong>NF</strong>, et le montant des aides directement déduites.</p>
+
+<h3>Étape 5 : Le dépôt du dossier MaPrimeRénov' et la validation</h3>
+<p>Votre Accompagnateur Rénov' dépose le dossier complet sur la plateforme ANAH : audit énergétique, devis signés, pièces d'identité, avis d'imposition. L'ANAH étudie et valide le dossier, généralement sous <strong>4 à 8 semaines</strong>.  <strong>Important :</strong> ne signez aucun devis et ne commencez aucun travail avant d'avoir reçu la notification d'accord de l'ANAH.</p>
+
+<h3>Étape 6 : La réalisation des travaux et le contrôle qualité</h3>
+<p>Les artisans RGE interviennent selon le planning établi. Pour une rénovation globale typique (ITE + combles + PAC + fenêtres), comptez <strong>8 à 16 semaines de chantier</strong>. À l'issue, un DPE post-travaux est réalisé pour attester du gain énergétique — condition sine qua non pour le déblocage final des aides ANAH.</p>
+
+<h2>Quels travaux inclure dans votre simulation pour maximiser les aides ?</h2>
+<p>Pour atteindre le saut de classes DPE nécessaire (minimum 2 classes pour le Parcours Accompagné), voici les bouquets de travaux les plus performants :</p>
+
+<h3>Bouquet Bronze — Saut de 2 classes DPE</h3>
+<ul>
+    <li><a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">Isolation des combles perdus</a> (R ≥ 7 m².K/W)</li>
+    <li>Remplacement de la chaudière par une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">PAC air-eau</a></li>
+    <li>Remplacement de 4 à 6 <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres simple vitrage</a></li>
+</ul>
+<p><strong>Budget moyen :</strong> 20 000 € – 30 000 € | <strong>Aides estimées :</strong> 12 000 € à 24 000 €</p>
+
+<h3>Bouquet Argent — Saut de 3 classes DPE</h3>
+<ul>
+    <li>Isolation des combles + <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">ITE des murs</a> (R ≥ 3,7 m².K/W)</li>
+    <li>PAC air-eau + VMC double flux</li>
+    <li>Remplacement de toutes les fenêtres</li>
+</ul>
+<p><strong>Budget moyen :</strong> 35 000 € – 50 000 € | <strong>Aides estimées :</strong> 20 000 € à 40 000 €</p>
+
+<h3>Bouquet Or — Saut de 4 classes DPE ou plus</h3>
+<ul>
+    <li>ITE complète + isolation combles + isolation plancher bas</li>
+    <li>PAC air-eau haute température + VMC double flux + ballon thermodynamique</li>
+    <li>Menuiseries triple vitrage + <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">réfection de toiture et hydrofuge</a></li>
+    <li>Éventuellement : adaptation PMR avec <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> (finançable via MaPrimeAdapt')</li>
+</ul>
+<p><strong>Budget moyen :</strong> 50 000 € – 70 000 € | <strong>Aides estimées :</strong> 35 000 € à 63 000 €</p>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-5 mb-6">
+    <strong>💡 Le conseil stratégique du Cercle des Artisans :</strong> Visez systématiquement le bouquet qui vous fait gagner <strong>au moins 3 classes DPE</strong>. Le surcoût marginal entre un saut de 2 et 3 classes est largement compensé par l'augmentation du taux de subvention MaPrimeRénov' (+10 à 20 points) et du plafond de dépenses éligibles (+15 000 € HT). C'est mathématiquement le point d'optimisation financière maximal.
+</div>
+
+<h2>FAQ : Les questions que nos clients posent au téléphone</h2>
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">Les aides MaPrimeRénov' sont-elles versées avant ou après les travaux ?</h3>
+        <p>Les aides MaPrimeRénov' Parcours Accompagné sont versées <strong>après la fin des travaux</strong>, sur présentation des factures acquittées et du DPE post-travaux. L'ANAH procède au virement sous <strong>2 à 4 semaines</strong> après le dépôt du dossier de demande de paiement complet. Il est donc essentiel de prévoir le financement transitoire (l'<strong>Éco-PTZ</strong> est parfait pour cela). Cependant, une <strong>avance de 70%</strong> de l'aide peut être accordée aux ménages très modestes (profil Bleu) sur demande auprès de l'ANAH, pour éviter toute situation de trésorerie difficile.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Peut-on cumuler MaPrimeRénov' et MaPrimeAdapt' sur le même logement ?</h3>
+        <p>Oui, ces deux aides sont <strong>parfaitement cumulables</strong>, à condition que les travaux soient de nature différente. MaPrimeRénov' finance les travaux de <strong>performance énergétique</strong> (isolation, chauffage, ventilation), tandis que MaPrimeAdapt' couvre les travaux d'<strong>adaptation et d'accessibilité</strong> (monte-escalier, douche PMR, <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a>). Cela signifie qu'un couple de seniors peut faire financer simultanément l'isolation de sa maison ET l'installation d'un monte-escalier, en mobilisant les deux dispositifs.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">La simulation en ligne est-elle fiable à 100% ?</h3>
+        <p>Les simulateurs officiels (France Rénov', ANAH) et ceux de nos partenaires donnent un <strong>ordre de grandeur réaliste</strong> de vos aides. Cependant, le montant définitif ne sera confirmé qu'après l'audit énergétique et l'instruction du dossier par l'ANAH. Certains paramètres (complexité architecturale, état de la charpente, accessibilité du chantier) peuvent faire varier les devis et donc le montant des aides. C'est pourquoi nous recommandons systématiquement de compléter la simulation en ligne par une <strong>visite technique gratuite</strong> à domicile avec un artisan RGE du Cercle des Artisans.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Combien de temps faut-il pour monter un dossier MaPrimeRénov' complet ?</h3>
+        <p>De la première simulation à l'accord de l'ANAH, comptez en moyenne <strong>2 à 4 mois</strong>. Ce délai inclut : la réalisation de l'audit énergétique (2-3 semaines), la recherche et la comparaison des devis RGE (2-4 semaines), le montage administratif avec l'Accompagnateur Rénov' (1-2 semaines) et l'instruction par l'ANAH (4-8 semaines). Pour accélérer le processus, concentrez votre demande de devis auprès d'un réseau structuré comme <strong>Le Cercle des Artisans</strong>, où l'ensemble des corps de métier RGE est coordonné en amont.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Quels travaux ne sont PAS éligibles aux aides en 2026 ?</h3>
+        <p>Certains travaux courants ne sont pas subventionnés dans le cadre de MaPrimeRénov' : la <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation</a> seule (sauf si elle est intégrée à une PAC réversible dans un bouquet global), le <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">démoussage de toiture</a> réalisé isolément (qui relève de l'entretien), et les travaux purement esthétiques. Toutefois, dans le cadre d'un Parcours Accompagné, ces postes peuvent être intégrés au chiffrage global et bénéficier indirectement de la subvention si le gain DPE cible est atteint.</p>
+    </div>
+</div>
+
+<h2>Conclusion : Lancez votre simulation dès aujourd'hui et sécurisez vos primes 2026</h2>
+<p>Les chiffres sont éloquents : en 2026, une rénovation globale bien conçue peut être financée <strong>de 60% à 90%</strong> par les aides cumulées de l'État. Mais ces aides ne sont accessibles qu'à une double condition : faire appel à des artisans <strong>certifiés RGE</strong> pour l'exécution des travaux, et se faire accompagner par un professionnel agréé pour le montage du dossier.</p>
+
+<p>C'est exactement la promesse du <strong>Cercle des Artisans</strong> : un réseau national de professionnels audités, maîtrisant les exigences techniques (<strong>normes NF</strong>, certifications <strong>ACERMI</strong>, <strong>CSTB</strong>), les réglementations de l'ANAH et le montage financier complet de vos dossiers MaPrimeRénov', CEE et MaPrimeAdapt'. Ne passez pas à côté de milliers d'euros d'aides par méconnaissance ou par manque d'accompagnement.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Simulez vos aides et obtenez vos devis gratuits pour 2026 !</strong>
+        <p class="text-blue-800 m-0">Recevez gratuitement jusqu'à 3 devis détaillés d'artisans RGE certifiés. Nos experts calculent pour vous le montant exact de MaPrimeRénov', des CEE et de toutes les aides cumulables. Reste à charge garanti le plus bas du marché.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Simuler Mes Aides & Obtenir Mes Devis
+        </a>
+    </div>
+</div>
+`
+    },
+    {
         slug: "maprimerenov-copropriete-vote-travaux-ag",
         title: "MaPrimeRénov' Copropriété : Comment voter les travaux en assemblée ?",
         metaDescription: "Guide complet MaPrimeRénov' Copropriété 2025 : conditions, montants des aides, processus de vote en AG (majorité), prix et devis par artisans RGE.",
