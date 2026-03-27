@@ -13,11 +13,23 @@ export const metadata: Metadata = {
     },
 };
 
-export default function BlogPage() {
+export default function BlogPage({ searchParams }: { searchParams: { page?: string } }) {
+    const currentPage = Number(searchParams?.page) || 1;
+    const postsPerPage = 15;
+
     // Sort posts by date descending
     const sortedPosts = [...blogPosts].sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
-    // First post is featured
-    const [featured, ...rest] = sortedPosts;
+    
+    // Pagination logic
+    const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
+    const startIndex = (currentPage - 1) * postsPerPage;
+    const endIndex = startIndex + postsPerPage;
+    const currentPosts = sortedPosts.slice(startIndex, endIndex);
+
+    // First post is featured (only on page 1)
+    const isFirstPage = currentPage === 1;
+    const featured = isFirstPage ? currentPosts[0] : null;
+    const rest = isFirstPage ? currentPosts.slice(1) : currentPosts;
 
     return (
         <div className="min-h-screen bg-gray-50/50">
@@ -46,6 +58,7 @@ export default function BlogPage() {
 
             <div className="container mx-auto px-4 py-16 -mt-12 relative z-20">
                 {/* Featured Article */}
+                {featured && (
                 <Link
                     href={`/blog/${featured.slug}`}
                     className="group block bg-white rounded-2xl shadow-xl overflow-hidden border border-slate-100 mb-16 hover:shadow-2xl transition-all duration-300"
@@ -97,6 +110,7 @@ export default function BlogPage() {
                         </div>
                     </div>
                 </Link>
+                )}
 
                 {/* Other Articles Grid */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -147,6 +161,41 @@ export default function BlogPage() {
                         </Link>
                     ))}
                 </div>
+
+                {/* Pagination Controls */}
+                {totalPages > 1 && (
+                    <div className="mt-16 flex justify-center items-center space-x-4">
+                        {currentPage > 1 ? (
+                            <Link
+                                href={`/blog?page=${currentPage - 1}`}
+                                className="px-6 py-3 bg-white border border-slate-200 text-slate-700 font-medium rounded-lg hover:bg-slate-50 hover:text-blue-600 transition-colors shadow-sm"
+                            >
+                                Page précédente
+                            </Link>
+                        ) : (
+                            <span className="px-6 py-3 bg-gray-50 border border-slate-100 text-slate-400 font-medium rounded-lg cursor-not-allowed">
+                                Page précédente
+                            </span>
+                        )}
+                        
+                        <span className="text-slate-500 font-medium">
+                            Page {currentPage} sur {totalPages}
+                        </span>
+
+                        {currentPage < totalPages ? (
+                            <Link
+                                href={`/blog?page=${currentPage + 1}`}
+                                className="px-6 py-3 bg-white border border-slate-200 text-slate-700 font-medium rounded-lg hover:bg-slate-50 hover:text-blue-600 transition-colors shadow-sm"
+                            >
+                                Page suivante
+                            </Link>
+                        ) : (
+                            <span className="px-6 py-3 bg-gray-50 border border-slate-100 text-slate-400 font-medium rounded-lg cursor-not-allowed">
+                                Page suivante
+                            </span>
+                        )}
+                    </div>
+                )}
             </div>
         </div>
     );
