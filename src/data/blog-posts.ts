@@ -3702,5 +3702,204 @@ export const blogPosts: BlogPost[] = [
     </div>
 </div>
 `
+    },
+
+    {
+        slug: "monte-escalier-nice-paca-accessibilite-senior",
+        title: "Monte-escalier à Nice et PACA : Conseils pour l'accessibilité senior",
+        metaDescription: "Monte-escalier à Nice et en PACA : prix 2025, aides MaPrimeAdapt', installation par artisans certifiés. Guide complet pour l'accessibilité senior et le maintien à domicile.",
+        heroImage: "/images/blog/monte-escalier-nice-paca-hero.png",
+        category: "Accessibilité",
+        publishedAt: "2026-03-30",
+        readTime: "16 min",
+        excerpt: "Vous habitez Nice, Cannes, Antibes ou ailleurs en PACA et vos escaliers deviennent un obstacle au quotidien ? Découvrez notre guide complet sur les monte-escaliers : types d'équipements, prix détaillés, aides MaPrimeAdapt' 2025 et processus d'installation par des artisans certifiés.",
+        relatedServices: ["monte-escalier", "ascenseur-privatif", "pompe-a-chaleur-air-eau", "isolation-exterieur", "fenetre", "climatisation"],
+        content: `
+<h2>Pourquoi le monte-escalier est devenu indispensable pour les seniors à Nice et en région PACA</h2>
+
+<p>Avec l'avancée en âge, les escaliers deviennent souvent le premier obstacle concret au <strong>maintien à domicile</strong>. À Nice, Cannes, Antibes, Grasse ou Toulon, des milliers de seniors vivent dans des maisons à étages typiques de la région PACA — bastides provençales, villas sur les collines, immeubles anciens sans ascenseur — où monter et descendre les marches plusieurs fois par jour représente un risque de chute majeur. Selon les données de Santé publique France, <strong>les chutes dans les escaliers constituent la première cause d'accident domestique mortel chez les plus de 65 ans</strong>, avec plus de 10 000 décès par an en France.</p>
+
+<p>L'installation d'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> est la réponse technique la plus efficace, la plus rapide à mettre en œuvre et souvent la plus économique pour sécuriser l'accès aux étages de votre domicile. Contrairement à un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a> qui nécessite des travaux structurels lourds, le monte-escalier s'installe directement sur votre escalier existant, <strong>sans aucune modification du bâti</strong>, en moins d'une journée dans la plupart des cas. En tant qu'experts de l'accessibilité senior au sein du réseau <strong>Le Cercle des Artisans</strong>, nous accompagnons chaque année des centaines de familles de la Côte d'Azur dans ce projet déterminant pour leur qualité de vie.</p>
+
+<h3>Pourquoi investir dans un monte-escalier en 2025 en région PACA ?</h3>
+
+<p>Au-delà de la sécurité immédiate, l'installation d'un monte-escalier s'inscrit dans une démarche globale d'adaptation du logement au vieillissement. Voici les raisons principales qui poussent nos clients azuréens à franchir le pas.</p>
+
+<ul>
+    <li><strong>Prévention des chutes et sécurisation quotidienne :</strong> Un monte-escalier certifié aux normes <strong>NF EN 81-40</strong> (norme européenne spécifique aux monte-escaliers pour personnes à mobilité réduite) élimine totalement le risque de chute dans les escaliers. Chaque appareil est équipé de ceintures de sécurité, de détecteurs d'obstacles sur le rail, de systèmes d'arrêt d'urgence et d'un verrouillage par clé pour éviter toute utilisation non autorisée.</li>
+    <li><strong>Maintien de l'autonomie et du lien social :</strong> Pouvoir continuer à vivre chez soi, dans son quartier, entouré de ses voisins et de ses repères, est un facteur déterminant du bien-être psychologique des seniors. Le monte-escalier préserve cette autonomie en rendant l'intégralité du logement accessible, y compris les chambres situées à l'étage.</li>
+    <li><strong>Alternative économique à la maison de retraite :</strong> Le coût mensuel moyen d'un EHPAD en région PACA atteint <strong>2 500 € à 3 800 € par mois</strong>. En comparaison, l'investissement dans un monte-escalier — même haut de gamme — est amorti en quelques mois seulement d'économies sur les frais d'hébergement en établissement spécialisé.</li>
+    <li><strong>Valorisation patrimoniale du logement :</strong> Un logement adapté au vieillissement (monte-escalier, douche de plain-pied, barres d'appui) se vend plus facilement et à meilleur prix sur un marché immobilier où la population senior est en forte croissance, notamment sur la Côte d'Azur. L'accessibilité est un atout immobilier concret, au même titre qu'une bonne <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation thermique par l'extérieur</a>.</li>
+    <li><strong>Confort climatique et adaptation globale :</strong> En PACA, les étages supérieurs sont souvent exposés à la chaleur estivale intense. Coupler l'installation d'un monte-escalier avec une <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation réversible</a> performante vous assure un confort optimal à chaque étage de votre maison, été comme hiver, sans effort.</li>
+</ul>
+
+<h3>Les différents types de monte-escaliers : quelle solution technique pour votre logement ?</h3>
+
+<p>Le choix du monte-escalier dépend essentiellement de la configuration géométrique de votre escalier, de l'espace disponible, et de vos besoins spécifiques en matière de mobilité. Les fabricants leaders du marché français — <strong>Stannah, Handicare (Companion), ThyssenKrupp Home Solutions, Otolift</strong> — proposent des gammes couvrant toutes les configurations imaginables.</p>
+
+<ul>
+    <li>
+        <strong>Le monte-escalier droit (escalier rectiligne) :</strong> C'est la solution la plus simple et la plus économique. Le rail est monorail, fixé directement sur les marches (jamais sur le mur), et s'adapte aux escaliers droits sans palier intermédiaire ni virage. La longueur standard couvre de 3 à 15 mètres de dénivelé. Le siège pivotant à 90° en haut de course permet un débarquement sécurisé face au palier. <strong>Capacité de charge standard : 120 à 160 kg.</strong> Vitesse de déplacement : environ 0,10 à 0,15 m/s (norme NF EN 81-40). Ce modèle représente environ 60% des installations réalisées par nos artisans en PACA.
+    </li>
+    <li>
+        <strong>Le monte-escalier tournant (escalier courbe, en L, en U ou hélicoïdal) :</strong> C'est la solution technique la plus sophistiquée. Le rail est fabriqué sur mesure, cintré en usine au millimètre près à partir d'un relevé 3D laser de votre escalier. Il épouse chaque virage, chaque palier intermédiaire, chaque changement d'angle. Le coût est significativement plus élevé que le modèle droit en raison de la fabrication sur mesure du rail. <strong>Les fabricants comme Stannah Starla ou Otolift Modul-Air</strong> proposent des rails bi-tube garantissant une stabilité supérieure dans les courbes serrées. Ce modèle est particulièrement demandé dans les bastides et villas anciennes de la région niçoise.
+    </li>
+    <li>
+        <strong>Le monte-escalier extérieur (escalier de jardin, accès piscine, terrasse surélevée) :</strong> Conçu spécifiquement pour résister aux intempéries, au soleil intense de la Côte d'Azur, au sel marin en zone côtière et aux variations de température. Le rail et les composants mécaniques sont traités anti-corrosion (galvanisation à chaud, revêtement époxy marine). Le siège est en matériau hydrophobe et résistant aux UV. <strong>Norme d'étanchéité IP65 minimum requise.</strong> Solution idéale pour les maisons en hauteur avec jardin en terrasses, très courantes à Nice (quartiers Cimiez, Mont Boron, collines de Fabron) ou dans l'arrière-pays grassois.
+    </li>
+    <li>
+        <strong>Le monte-escalier debout ou perché (siège relevable) :</strong> Destiné aux personnes qui ont des difficultés à s'asseoir (problèmes de genoux, hanches) mais qui conservent une bonne stabilité debout. L'utilisateur se tient en position semi-debout, appuyé sur un siège relevable type « selle » avec des accoudoirs renforcés. Cette solution est adaptée aux escaliers très étroits (largeur minimale de 60 cm seulement, contre 70 cm pour un siège classique). Modèle de référence : <strong>Stannah Perch</strong>.
+    </li>
+</ul>
+
+<p>Si votre logement comporte plusieurs niveaux (sous-sol, rez-de-chaussée, étage, combles aménagés), il est possible d'installer <strong>plusieurs monte-escaliers indépendants</strong> sur chaque volée d'escalier, ou d'opter pour un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a> qui desservira l'ensemble des niveaux en une seule infrastructure.</p>
+
+<h3>Prix détaillé d'un monte-escalier en 2025 : matériel + installation en région PACA</h3>
+
+<p>Le prix d'un monte-escalier varie considérablement en fonction du type d'escalier (droit ou tournant), de la longueur du rail, de la marque, des options choisies et de la complexité de l'installation. En région PACA, les tarifs sont alignés sur la moyenne nationale avec une légère majoration de <strong>5 à 10%</strong> dans les zones géographiques difficiles d'accès (arrière-pays, villas perchées sur les collines). Voici les fourchettes de prix constatées en 2025, <strong>fourniture et pose TTC incluses</strong> (TVA à 5,5% applicable automatiquement pour les logements de plus de 2 ans).</p>
+
+<ul>
+    <li><strong>Monte-escalier droit standard :</strong> De <strong>3 500 € à 6 500 € TTC</strong> posé. Ce budget comprend un rail monorail en aluminium anodisé de 3 à 6 mètres, un siège pivotant avec ceinture, une télécommande sans fil, deux batteries rechargeables de secours (fonctionnement garanti même en cas de coupure de courant) et la pose par un technicien certifié. Les modèles d'entrée de gamme (Handicare 950+, Stannah Siena) démarrent à 3 500 €, tandis que les modèles premium (Stannah Solus avec siège inclinable, accoudoirs réglables et repose-pieds motorisé) atteignent 6 500 €.</li>
+    <li><strong>Monte-escalier tournant sur mesure :</strong> De <strong>7 500 € à 14 000 € TTC</strong> posé. Le surcoût s'explique par la fabrication sur mesure du rail cintré en usine, le relevé 3D préalable et la complexité du montage. Un escalier en colimaçon ou avec plusieurs paliers intermédiaires peut atteindre le haut de la fourchette. Les fabricants premium comme <strong>Otolift Modul-Air</strong> (rail bi-tube) ou <strong>ThyssenKrupp Flow</strong> (rail monorail cintré compact) se situent entre 9 000 € et 14 000 € installés.</li>
+    <li><strong>Monte-escalier extérieur (traitement anticorrosion) :</strong> De <strong>5 000 € à 12 000 € TTC</strong> posé. La fourchette dépend de la longueur et de la configuration (droit ou tournant extérieur). Le traitement anticorrosion, l'étanchéité IP65 et la résistance UV ajoutent un surcoût de 20 à 30% par rapport au modèle intérieur équivalent.</li>
+    <li><strong>Monte-escalier debout / perché :</strong> De <strong>4 000 € à 7 000 € TTC</strong> posé. Solution de niche, moins courante mais indispensable pour les escaliers très étroits ou les personnes ayant des problèmes articulaires aux membres inférieurs.</li>
+</ul>
+
+<p><em>À ces prix s'ajoutent le contrat d'entretien annuel (recommandé), généralement facturé entre <strong>150 € et 300 € par an</strong> (incluant une visite préventive complète : vérification du rail, lubrification, contrôle des batteries et des dispositifs de sécurité).</em></p>
+
+<h3>Les aides financières 2025 pour l'installation d'un monte-escalier en PACA</h3>
+
+<p>L'installation d'un monte-escalier bénéficie d'un panel d'aides financières particulièrement attractif, permettant de réduire le reste à charge de <strong>50% à 80%</strong> dans certains cas. Voici le détail précis des dispositifs en vigueur en 2025.</p>
+
+<ul>
+    <li>
+        <strong>MaPrimeAdapt' (ANAH) — L'aide principale :</strong> Depuis le 1er janvier 2024, <strong>MaPrimeAdapt'</strong> est devenue l'aide phare pour l'adaptation du logement au vieillissement et au handicap. Elle est destinée aux personnes de <strong>plus de 70 ans</strong> (sans condition de perte d'autonomie) ou aux personnes de <strong>60 à 69 ans en perte d'autonomie</strong> (GIR 1 à 6), ainsi qu'aux personnes en situation de handicap (taux d'incapacité ≥ 50%). Les taux de prise en charge sont :
+        <ul>
+            <li><strong>Ménages très modestes :</strong> Prise en charge de <strong>70%</strong> du montant HT des travaux, plafonnée à <strong>22 000 € HT</strong> de travaux (soit une aide maximale de <strong>15 400 €</strong>).</li>
+            <li><strong>Ménages modestes :</strong> Prise en charge de <strong>50%</strong> du montant HT, même plafond (aide maximale de <strong>11 000 €</strong>).</li>
+        </ul>
+        Pour un monte-escalier tournant à 12 000 € HT, un ménage très modeste peut donc recevoir jusqu'à <strong>8 400 €</strong> de MaPrimeAdapt'. Condition impérative : un <strong>diagnostic autonomie</strong> préalable réalisé par un ergothérapeute agréé ou un opérateur AMO (Assistance à Maîtrise d'Ouvrage) est obligatoire.
+    </li>
+    <li>
+        <strong>Les caisses de retraite (CARSAT, MSA, CNRACL) :</strong> Les caisses de retraite proposent des aides complémentaires au maintien à domicile, sous forme de subventions ou de prêts bonifiés. La <strong>CARSAT Sud-Est</strong> (caisse régionale pour la PACA) propose notamment le programme « Bien Vieillir Chez Soi » avec des aides pouvant atteindre <strong>3 500 €</strong> pour l'adaptation du logement. Ces aides sont <strong>cumulables</strong> avec MaPrimeAdapt'.
+    </li>
+    <li>
+        <strong>Le crédit d'impôt pour l'adaptation du logement :</strong> Un crédit d'impôt de <strong>25%</strong> des dépenses d'équipement (matériel uniquement, hors main d'œuvre) est applicable pour les travaux d'adaptation du logement en faveur des personnes âgées ou handicapées. Le plafond est de <strong>5 000 € de dépenses</strong> pour une personne seule et <strong>10 000 €</strong> pour un couple. Ce crédit est cumulable avec MaPrimeAdapt' et les aides des caisses de retraite.
+    </li>
+    <li>
+        <strong>La TVA à taux réduit de 5,5% :</strong> Comme pour tous les travaux d'amélioration de l'habitat dans un logement de plus de 2 ans, la TVA est automatiquement réduite à <strong>5,5%</strong> (au lieu de 20%) sur la fourniture et la pose du monte-escalier. Sur un devis de 10 000 €, cela représente une économie directe de <strong>1 450 €</strong>.
+    </li>
+    <li>
+        <strong>L'APA (Allocation Personnalisée d'Autonomie) :</strong> Pour les personnes classées en <strong>GIR 1 à 4</strong>, l'APA peut financer partiellement l'installation d'un monte-escalier dans le cadre du plan d'aide personnalisé établi par le Conseil Départemental des Alpes-Maritimes (06) ou du Var (83). Le montant dépend du GIR et des ressources du bénéficiaire.
+    </li>
+    <li>
+        <strong>Les aides locales en PACA :</strong> La Métropole Nice Côte d'Azur, le Département des Alpes-Maritimes et certaines communes (Nice, Cannes, Antibes, Menton) proposent des aides complémentaires à l'adaptation du logement. Le CCAS (Centre Communal d'Action Sociale) de votre commune est le premier interlocuteur à contacter. En parallèle, si votre projet de maintien à domicile inclut des travaux de rénovation énergétique — comme l'installation d'une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a> pour réduire les factures d'énergie — ces travaux sont finançables par <strong>MaPrimeRénov'</strong> et les <strong>CEE</strong>, en complément de MaPrimeAdapt' pour le monte-escalier.
+    </li>
+</ul>
+
+<h3>Le processus d'installation d'un monte-escalier étape par étape</h3>
+
+<p>L'installation d'un monte-escalier par un artisan qualifié du <strong>Cercle des Artisans</strong> suit un protocole rigoureux garantissant sécurité, fiabilité et finition irréprochable. Voici le déroulement complet, de la première prise de contact à la mise en service.</p>
+
+<ul>
+    <li><strong>Étape 1 : La visite technique gratuite et le relevé de mesures.</strong> Un technicien spécialisé se déplace gratuitement à votre domicile pour évaluer la configuration de votre escalier (longueur, largeur utile résiduelle, angles, paliers, revêtement des marches), votre niveau de mobilité et vos besoins spécifiques. Pour un escalier tournant, un relevé 3D numérique au gabarit est réalisé avec un appareil de mesure laser pour garantir un rail parfaitement ajusté. Cette visite dure environ <strong>45 minutes à 1 heure</strong>.</li>
+    <li><strong>Étape 2 : La constitution du dossier d'aides financières.</strong> Avant toute commande, notre équipe administrative monte l'intégralité de votre dossier <strong>MaPrimeAdapt'</strong>, contacte votre caisse de retraite et identifie toutes les aides locales disponibles à votre adresse en PACA. Le diagnostic autonomie obligatoire est coordonné avec un ergothérapeute agréé. Cette étape est <strong>entièrement prise en charge</strong> par nos soins — vous n'avez aucune démarche complexe à effectuer.</li>
+    <li><strong>Étape 3 : La fabrication du rail sur mesure (escalier tournant uniquement).</strong> Pour un escalier courbe, le rail est fabriqué en usine à partir du relevé 3D. Le délai de fabrication est de <strong>3 à 6 semaines</strong> selon le fabricant et la complexité. Pour un escalier droit, le rail est découpé à longueur le jour de la pose.</li>
+    <li><strong>Étape 4 : L'installation proprement dite.</strong> Le jour J, le technicien installe le rail, le motoréducteur, le siège et tous les éléments de sécurité. Le rail est fixé <strong>exclusivement sur les marches</strong> (et non sur le mur), par des chevilles mécaniques haute résistance qui n'endommagent pas la structure. <strong>Aucun câblage mural n'est nécessaire :</strong> le monte-escalier se branche sur une simple prise électrique 220V standard. Durée d'installation : <strong>2 à 4 heures pour un escalier droit</strong>, <strong>4 à 8 heures pour un escalier tournant</strong>.</li>
+    <li><strong>Étape 5 : Les essais, la formation et la mise en service.</strong> Le technicien effectue une série de tests de sécurité complets (arrêt d'urgence, détecteur d'obstacles, fonctionnement sur batterie de secours, verrouillage par clé). Il forme ensuite l'utilisateur et ses proches au fonctionnement de l'appareil : utilisation de la télécommande, du joystick de commande sur l'accoudoir, du dispositif de repliage du siège et du repose-pieds. Un certificat de conformité <strong>NF EN 81-40</strong> est délivré à l'issue de l'installation.</li>
+</ul>
+
+<h3>Tableau récapitulatif : Prix et aides pour un monte-escalier en PACA (2025)</h3>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Type de monte-escalier</th>
+            <th class="p-4 text-left font-semibold">Prix TTC posé (fourchette)</th>
+            <th class="p-4 text-left font-semibold">Aide MaPrimeAdapt' max (70%)</th>
+            <th class="p-4 text-left font-semibold">Reste à charge estimé*</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Monte-escalier droit</strong></td>
+            <td class="p-4">3 500 € — 6 500 €</td>
+            <td class="p-4">Jusqu'à 4 550 €</td>
+            <td class="p-4">1 050 € — 1 950 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Monte-escalier tournant</strong></td>
+            <td class="p-4">7 500 € — 14 000 €</td>
+            <td class="p-4">Jusqu'à 9 800 €</td>
+            <td class="p-4">2 250 € — 4 200 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Monte-escalier extérieur</strong></td>
+            <td class="p-4">5 000 € — 12 000 €</td>
+            <td class="p-4">Jusqu'à 8 400 €</td>
+            <td class="p-4">1 500 € — 3 600 €</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Monte-escalier debout / perché</strong></td>
+            <td class="p-4">4 000 € — 7 000 €</td>
+            <td class="p-4">Jusqu'à 4 900 €</td>
+            <td class="p-4">1 200 € — 2 100 €</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4" class="p-4 text-xs text-gray-500 italic bg-gray-50">
+                * Reste à charge estimé pour un ménage très modeste bénéficiant de MaPrimeAdapt' à 70%. Le reste à charge peut être encore réduit en cumulant le crédit d'impôt (25%), les aides CARSAT et les aides locales (CCAS, département 06/83). TVA à 5,5% déjà incluse dans les prix affichés. Barèmes MaPrimeAdapt' 2025 sous réserve de mise à jour par l'ANAH.
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<h3>FAQ : Les questions que nos clients posent sur les monte-escaliers</h3>
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">Le monte-escalier fonctionne-t-il en cas de coupure de courant ?</h3>
+        <p>Oui, absolument. Tous les monte-escaliers modernes certifiés <strong>NF EN 81-40</strong> sont équipés de <strong>batteries rechargeables de secours</strong> (généralement deux batteries 12V DC en série) qui prennent automatiquement le relais en cas de coupure du réseau électrique 220V. Ces batteries sont rechargées en continu lorsque le siège est en position de parking (en haut ou en bas de l'escalier). L'autonomie moyenne est de <strong>10 à 20 trajets complets</strong> sur batterie, ce qui laisse largement le temps de rétablir le courant. C'est un critère de sécurité fondamental, surtout en PACA où les coupures liées aux orages méditerranéens ne sont pas rares.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Le monte-escalier est-il compatible avec un escalier étroit ?</h3>
+        <p>La largeur minimale requise dépend du modèle choisi. Un monte-escalier classique à siège pivotant nécessite une largeur d'escalier d'au moins <strong>70 cm</strong>. Pour les escaliers plus étroits (fréquents dans les immeubles anciens de Nice centre ou du Vieux-Nice), le <strong>monte-escalier debout (perché)</strong> ne nécessite que <strong>60 cm</strong> de largeur utile. De plus, tous les modèles sont conçus avec un siège, des accoudoirs et un repose-pieds <strong>entièrement repliables</strong> : une fois replié contre le mur, l'encombrement résiduel sur l'escalier est de seulement <strong>30 à 35 cm</strong>, laissant le passage libre aux autres occupants du logement.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Puis-je cumuler MaPrimeAdapt' pour le monte-escalier et MaPrimeRénov' pour d'autres travaux ?</h3>
+        <p><strong>Oui, les deux aides sont parfaitement cumulables</strong> car elles financent des travaux de nature différente. MaPrimeAdapt' couvre l'adaptation du logement (monte-escalier, douche PMR, barres d'appui), tandis que MaPrimeRénov' finance la rénovation énergétique (<a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation des murs</a>, <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur</a>, <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a>). Beaucoup de nos clients seniors en PACA profitent de l'installation du monte-escalier pour engager simultanément des travaux de rénovation énergétique, bénéficiant ainsi d'un double financement. Les artisans du <strong>Cercle des Artisans</strong> coordonnent l'ensemble des corps de métier pour un chantier fluide et optimisé.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Quelle est la durée de vie d'un monte-escalier et l'entretien nécessaire ?</h3>
+        <p>Un monte-escalier de qualité (Stannah, Handicare, ThyssenKrupp, Otolift), correctement entretenu, a une durée de vie moyenne de <strong>10 à 15 ans</strong>. Le moteur à courant continu (moteur brushless sur les modèles récents) est conçu pour plus de <strong>15 000 cycles</strong> complets (montées/descentes). L'entretien annuel par un technicien agréé — <strong>obligatoire pour maintenir la garantie</strong> — comprend : la lubrification du rail, le contrôle des batteries, la vérification de l'usure du pignon d'entraînement et de la crémaillère, le test des dispositifs de sécurité et la mise à jour du firmware (pour les modèles connectés). Coût annuel : <strong>150 € à 300 €</strong> selon le contrat.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Faut-il une autorisation de la copropriété pour installer un monte-escalier dans un immeuble ?</h3>
+        <p>Si le monte-escalier est installé dans les <strong>parties privatives</strong> de votre logement (escalier intérieur de votre appartement en duplex), aucune autorisation n'est nécessaire. En revanche, si l'installation concerne les <strong>parties communes</strong> de l'immeuble (escalier commun), elle est soumise au vote de l'Assemblée Générale des copropriétaires. Depuis la loi ELAN de 2018, les travaux d'accessibilité bénéficient d'une <strong>majorité simplifiée (Article 24)</strong>, ce qui facilite considérablement leur adoption. En cas de refus injustifié de la copropriété, des recours existent. Pour les immeubles sans ascenseur, l'alternative peut être un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif ou collectif</a>.</p>
+    </div>
+</div>
+
+<h2>Passez à l'action : Sécurisez votre domicile avec un monte-escalier installé par des experts</h2>
+
+<p>L'accessibilité de votre logement n'est pas un luxe, c'est une nécessité pour <strong>vieillir en toute sécurité et en toute dignité chez vous</strong>. En région PACA — à Nice, Cannes, Antibes, Grasse, Toulon, Aix-en-Provence, Marseille ou dans l'arrière-pays — les maisons à étages sont la norme, et chaque escalier non sécurisé représente un risque quotidien. Grâce aux aides financières généreuses de 2025 (<strong>MaPrimeAdapt'</strong> couvrant jusqu'à 70% du coût, crédit d'impôt de 25%, aides CARSAT, TVA à 5,5%), le reste à charge pour un monte-escalier peut descendre à quelques centaines d'euros seulement pour les ménages les plus modestes.</p>
+
+<p>Le réseau <strong>Le Cercle des Artisans</strong> vous garantit une installation réalisée dans les règles de l'art par des techniciens qualifiés, un matériel certifié <strong>NF EN 81-40</strong> issu des meilleurs fabricants européens, et surtout un <strong>accompagnement administratif complet</strong> pour le montage de vos dossiers d'aides. Ne laissez pas vos escaliers devenir un obstacle à votre liberté. Demandez dès maintenant votre visite technique gratuite.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Obtenez votre devis gratuit pour un monte-escalier en PACA !</strong>
+        <p class="text-blue-800 m-0">Recevez jusqu'à 3 devis détaillés et personnalisés d'artisans certifiés en région PACA. Nous montons l'intégralité de vos dossiers MaPrimeAdapt', crédit d'impôt et aides CARSAT. Visite technique gratuite, sans engagement.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Demander Mon Devis Gratuit
+        </a>
+    </div>
+</div>
+`
     }
 ];
