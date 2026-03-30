@@ -1,4 +1,4 @@
-// Force rebuild to clear Vercel Edge cache
+// Force rebuild v2 to clear Vercel Edge cache
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     async redirects() {
