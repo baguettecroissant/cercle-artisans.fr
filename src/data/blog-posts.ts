@@ -3901,5 +3901,256 @@ export const blogPosts: BlogPost[] = [
     </div>
 </div>
 `
+    },
+    {
+        slug: "isolation-combles-bordeaux-humidite-atlantique",
+        title: "Isolation des combles à Bordeaux : Faire face à l'humidité de l'Atlantique",
+        metaDescription: "Guide expert pour l'isolation des combles à Bordeaux : techniques anti-humidité, prix détaillés, aides MaPrimeRénov' 2025, CEE. Conseils d'artisans RGE pour lutter contre le climat atlantique.",
+        heroImage: "/images/blog/isolation-combles-bordeaux-humidite-hero.png",
+        category: "Isolation",
+        publishedAt: "2026-04-12",
+        readTime: "16 min",
+        excerpt: "À Bordeaux, l'humidité océanique impose des contraintes spécifiques pour l'isolation des combles. Découvrez les matériaux, techniques et aides financières pour isoler vos combles efficacement face au climat atlantique, avec les conseils de nos artisans RGE.",
+        relatedServices: ["isolation-combles", "isolation-exterieur", "pompe-a-chaleur-air-eau", "demoussage-toiture", "fenetre", "climatisation"],
+        content: `
+<h2>Pourquoi l'isolation des combles à Bordeaux est un défi climatique à part entière</h2>
+
+<p>Bordeaux, joyau du Sud-Ouest classé au patrimoine mondial de l'UNESCO, bénéficie d'un cadre de vie exceptionnel. Mais derrière les façades en pierre blonde de ses échoppes et de ses immeubles haussmanniens se cache une réalité thermique que connaissent bien les propriétaires bordelais : <strong>un climat océanique chargé d'humidité</strong> qui met à rude épreuve l'enveloppe thermique des habitations. Avec une pluviométrie annuelle avoisinant les <strong>950 mm</strong>, des brouillards matinaux récurrents sur la Garonne et un taux d'hygrométrie fréquemment supérieur à <strong>80 %</strong> en automne et en hiver, isoler ses combles à Bordeaux ne relève pas d'un simple geste technique : c'est un acte stratégique qui doit intégrer la gestion de la vapeur d'eau dès la conception.</p>
+
+<p>Or, les combles représentent le premier poste de <strong>déperditions thermiques</strong> d'une maison : jusqu'à <strong>30 % de la chaleur</strong> s'échappe par la toiture d'un logement mal isolé. À Bordeaux, cette déperdition est amplifiée par le phénomène de condensation que génère le différentiel entre l'air chaud intérieur et l'humidité extérieure permanente. Sans une isolation adaptée, c'est la porte ouverte aux moisissures sous la charpente, à la dégradation des bois de structure et à des factures de chauffage qui flambent. En tant qu'experts en rénovation énergétique au sein du réseau <strong>Le Cercle des Artisans</strong>, nos artisans <strong>certifiés RGE</strong> (Reconnu Garant de l'Environnement) interviennent quotidiennement dans l'agglomération bordelaise — de Saint-Médard-en-Jalles à Cenon, de Mérignac à Talence — et connaissent parfaitement ces problématiques. Voici notre guide complet pour réussir votre <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> dans les conditions climatiques spécifiques de Bordeaux.</p>
+
+<h2>Pourquoi isoler vos combles à Bordeaux en 2025 : une urgence thermique et financière</h2>
+
+<p>L'isolation des combles n'est pas un simple « geste d'amélioration » : c'est l'investissement de rénovation énergétique le plus rentable que vous puissiez réaliser. Voici pourquoi cette intervention est particulièrement critique dans le contexte bordelais.</p>
+
+<h3>Lutter contre les déperditions thermiques massives par la toiture</h3>
+
+<ul>
+    <li><strong>30 % des pertes de chaleur par le toit :</strong> Dans une maison non isolée ou mal isolée, la toiture constitue le premier vecteur de fuite thermique. À Bordeaux, où les hivers restent doux mais humides (températures moyennes de 5 à 8 °C de décembre à février), le chauffage fonctionne en continu pendant plus de 5 mois. Une toiture non isolée, c'est littéralement chauffer le ciel bordelais.</li>
+    <li><strong>Réduire drastiquement les factures d'énergie :</strong> Une isolation performante des combles permet de réaliser des économies de <strong>25 % à 35 %</strong> sur la facture de chauffage annuelle. Pour une maison bordelaise type de 100 m² chauffée au gaz, cela représente une économie estimée de <strong>400 € à 700 € par an</strong>.</li>
+    <li><strong>Améliorer le confort d'été :</strong> Bordeaux subit désormais des épisodes caniculaires de plus en plus fréquents, avec des pics à 40 °C en juillet-août. Des combles bien isolés avec un matériau à fort <strong>déphasage thermique</strong> (fibre de bois, ouate de cellulose) ralentissent considérablement la pénétration de la chaleur et limitent le recours à une <a href="/service/climatisation" class="text-blue-600 hover:underline font-medium">climatisation</a> énergivore.</li>
+    <li><strong>Valoriser votre bien immobilier :</strong> Le marché immobilier bordelais est exigeant. Un logement affichant un DPE (Diagnostic de Performance Énergétique) en classe A ou B se valorise de <strong>15 % à 20 %</strong> par rapport à un logement classé F ou G, les fameuses « passoires thermiques » désormais interdites à la location.</li>
+</ul>
+
+<h3>Maîtriser le risque d'humidité et de condensation spécifique au climat atlantique</h3>
+
+<p>C'est ici que la spécificité bordelaise entre en jeu. Le climat océanique de la façade atlantique génère une <strong>pression de vapeur d'eau extérieure</strong> élevée quasi permanente. Lorsque vous chauffez votre intérieur, l'air chaud (qui contient naturellement plus de vapeur d'eau) monte vers les combles par convection. Au contact d'une zone froide — une toiture mal isolée, un sous-face de couverture non ventilé — cette vapeur se <strong>condense</strong>. C'est le redoutable phénomène du <strong>point de rosée</strong>.</p>
+
+<p>Les conséquences d'une condensation chronique sous toiture sont désastreuses :</p>
+<ul>
+    <li><strong>Développement de moisissures et de champignons lignivores</strong> (mérule, coniophore) sur la charpente bois.</li>
+    <li><strong>Dégradation mécanique de l'isolant</strong> : une laine minérale gorgée d'eau perd jusqu'à <strong>70 %</strong> de ses propriétés isolantes.</li>
+    <li><strong>Corrosion des éléments métalliques</strong> : connecteurs, sabots de charpente, vis de couverture.</li>
+    <li><strong>Efflorescences et dégâts d'eau visibles</strong> sur les plafonds des pièces inférieures.</li>
+</ul>
+
+<p>La solution professionnelle passe par un système d'isolation qui gère intelligemment les transferts de vapeur d'eau : pare-vapeur côté chaud, isolant respirant, ventilation de la sous-face de couverture. C'est précisément l'expertise que nos artisans RGE apportent sur chaque chantier bordelais. Avant toute intervention d'isolation, il est d'ailleurs souvent recommandé de procéder à un <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">démoussage de toiture</a> et à l'application d'un hydrofuge pour garantir l'étanchéité de la couverture.</p>
+
+<h2>Les solutions techniques adaptées au climat bordelais : Types d'isolation et matériaux</h2>
+
+<p>Le choix de la technique et du matériau d'isolation doit impérativement être adapté à la configuration de vos combles (perdus ou aménagés), à la nature de votre charpente et, surtout, au climat océanique de Bordeaux. Pour être éligible aux aides financières, votre isolant doit atteindre une <strong>résistance thermique R ≥ 7 m².K/W</strong> pour les combles perdus et <strong>R ≥ 6 m².K/W</strong> pour les rampants de toiture (combles aménagés).</p>
+
+<h3>L'isolation des combles perdus : la solution la plus économique et efficace</h3>
+
+<p>Les combles perdus (non aménageables) représentent la majorité des configurations rencontrées dans les maisons bordelaises, notamment dans les échoppes traditionnelles. La technique privilégiée est le <strong>soufflage mécanique</strong> d'isolant en vrac sur le plancher des combles.</p>
+
+<ul>
+    <li><strong>Ouate de cellulose (lambda 0,038 à 0,042 W/m.K) :</strong> C'est le matériau star pour Bordeaux. Issue du recyclage de papier journal, la ouate de cellulose possède une excellente capacité à <strong>réguler l'hygrométrie</strong> : elle absorbe et restitue la vapeur d'eau sans perdre ses propriétés isolantes (capacité hygroscopique de 15 % de son poids). Son déphasage thermique élevé (10 à 12 heures en 30 cm d'épaisseur) est un atout majeur contre les canicules bordelaises. <strong>Épaisseur recommandée pour R = 7 :</strong> environ 30 à 33 cm.</li>
+    <li><strong>Laine de roche en flocons (lambda 0,035 à 0,040 W/m.K) :</strong> Matériau minéral incombustible (classe A1), naturellement hydrophobe et imputrescible. La laine de roche est particulièrement pertinente dans les combles bordelais car elle ne retient pas l'eau : même en cas de fuite ponctuelle de toiture en hiver, elle conserve ses performances. <strong>Épaisseur pour R = 7 :</strong> environ 28 à 31 cm. Certifiée NF et ACERMI.</li>
+    <li><strong>Laine de verre en flocons (lambda 0,030 à 0,040 W/m.K) :</strong> Solution économique historique, la laine de verre soufflée reste très répandue. Attention toutefois dans le contexte bordelais : la laine de verre est plus sensible à l'humidité que la laine de roche. Un pare-vapeur continu et parfaitement étanche côté chaud est <strong>impératif</strong> pour éviter la condensation dans la masse de l'isolant.</li>
+</ul>
+
+<h3>L'isolation des combles aménagés (rampants de toiture)</h3>
+
+<p>Pour les combles aménagés — typiques des maisons bordelaises à étage avec mansardes ou des immeubles de centre-ville —, l'isolation se pose sur les <strong>rampants de toiture</strong>, entre et sous les chevrons de la charpente. Cette configuration est plus complexe et nécessite une attention particulière à la gestion de la vapeur d'eau.</p>
+
+<ul>
+    <li><strong>Panneaux semi-rigides de fibre de bois (lambda 0,036 à 0,042 W/m.K) :</strong> Le choix royal pour Bordeaux. La fibre de bois offre un <strong>déphasage thermique exceptionnel</strong> (jusqu'à 14 heures pour 20 cm d'épaisseur), loin devant les laines minérales (3 à 6 heures). Elle est perméable à la vapeur d'eau (faible résistance à la diffusion), ce qui permet au « complexe toiture » de respirer tout en protégeant des surchauffes estivales. <strong>Épaisseur recommandée pour R = 6 :</strong> environ 22 à 24 cm en double couche croisée.</li>
+    <li><strong>Laine de roche semi-rigide haute densité (lambda 0,034 à 0,036 W/m.K) :</strong> Solution technique polyvalente combinant excellentes performances thermiques, acoustiques et une tenue mécanique sur la durée. Incombustible (euroclasse A1), elle est exigée dans certaines configurations où le DTU impose des matériaux non propagateurs de flamme.</li>
+    <li><strong>Combinaison bicouche (entre + sous chevrons) :</strong> Dans les charpentes traditionnelles bordelaises où l'épaisseur des chevrons est limitée (souvent 8 à 10 cm), nos artisans RGE mettent en œuvre une isolation en double couche croisée : une première couche comprimée entre chevrons, puis une seconde couche sous chevrons avec un contre-lattage. Cette technique supprime les ponts thermiques au droit des bois de charpente et permet d'atteindre facilement un R de 6 à 8 m².K/W.</li>
+</ul>
+
+<h3>Le système de ventilation : le complément indispensable à Bordeaux</h3>
+
+<p>Isoler sans ventiler, c'est condamner votre charpente à long terme. Dans le contexte d'humidité atlantique, nos artisans vérifient systématiquement :</p>
+
+<ul>
+    <li><strong>La lame d'air ventilée sous couverture :</strong> Un espace de ventilation continu de <strong>minimum 4 cm</strong> doit être maintenu entre l'isolant et la sous-face des tuiles ou des ardoises (DTU 40.29 et DTU 40.21). Cette lame d'air évacue la vapeur d'eau ayant traversé l'isolant et empêche la condensation sous couverture.</li>
+    <li><strong>Le pare-vapeur ou frein-vapeur :</strong> Posé du côté chaud (côté intérieur du logement), le pare-vapeur empêche l'essentiel de la vapeur d'eau intérieure de migrer vers l'isolant. Dans le contexte bordelais, nous recommandons un <strong>frein-vapeur hygrovariable</strong> (Sd variable de 0,25 m à 25 m selon le taux d'humidité relative), qui s'adapte automatiquement aux conditions saisonnières : très étanche en hiver (quand le risque de condensation est maximal) et plus ouvert en été (pour permettre un séchage éventuel de l'isolant vers l'intérieur).</li>
+    <li><strong>La VMC performante :</strong> Le renouvellement d'air intérieur par une VMC (Ventilation Mécanique Contrôlée) simple flux hygroréglable B ou double flux est obligatoire pour évacuer l'excès d'humidité intérieure. Une maison bordelaise bien isolée mais mal ventilée devient rapidement un terrain propice aux moisissures.</li>
+</ul>
+
+<h2>Le prix détaillé de l'isolation des combles à Bordeaux : budget matériel + main d'œuvre</h2>
+
+<p>Le budget d'une isolation de combles dépend principalement de la technique employée (soufflage en combles perdus vs. pose en rampants), du matériau choisi et de la surface à traiter. Voici les fourchettes de prix constatées sur le marché bordelais en 2025, <strong>TVA à 5,5 % incluse</strong> (taux réduit applicable à la rénovation énergétique, sans démarche particulière lorsque le logement a plus de 2 ans).</p>
+
+<ul>
+    <li><strong>Combles perdus par soufflage (laine de roche ou ouate de cellulose) :</strong> De <strong>25 € à 50 € par m²</strong> posé. C'est l'intervention la plus rapide (1 à 2 jours pour une maison de 100 m²) et la plus rentable. Le soufflage mécanique permet une couverture homogène et continue, sans pont thermique.</li>
+    <li><strong>Combles aménagés — rampants en laine minérale (roche ou verre) :</strong> De <strong>50 € à 90 € par m²</strong> posé, incluant pare-vapeur, contre-lattage et parement en plaques de plâtre.</li>
+    <li><strong>Combles aménagés — rampants en fibre de bois :</strong> De <strong>70 € à 120 € par m²</strong> posé. Le surcoût par rapport aux laines minérales est compensé par un déphasage thermique très supérieur et une gestion optimale de l'humidité — un argument de poids à Bordeaux.</li>
+    <li><strong>Sarking (isolation par l'extérieur de la toiture) :</strong> De <strong>150 € à 250 € par m²</strong> posé. Cette technique haut de gamme, qui consiste à poser des panneaux isolants rigides sur la charpente (par-dessus les chevrons), est idéale pour les rénovations lourdes avec réfection complète de la couverture. Elle supprime tous les ponts thermiques et libère le volume sous toiture.</li>
+</ul>
+
+<p>À titre d'exemple concret : pour une échoppe bordelaise typique de <strong>80 m² de combles perdus</strong>, le budget d'isolation par soufflage de ouate de cellulose (R = 7) s'établit entre <strong>2 000 € et 4 000 € TTC</strong> avant déduction des aides financières. Un investissement qui se rentabilise en <strong>3 à 5 ans</strong> grâce aux économies d'énergie générées.</p>
+
+<h2>Les aides financières 2025 pour l'isolation des combles : MaPrimeRénov', CEE et plus encore</h2>
+
+<p>L'isolation des combles fait partie des <strong>gestes de rénovation énergétique les mieux subventionnés</strong> par les pouvoirs publics. En cumulant intelligemment les dispositifs disponibles en 2025, le reste à charge peut devenir dérisoire, voire quasi nul pour les ménages aux revenus les plus modestes.</p>
+
+<h3>MaPrimeRénov' 2025 — Les barèmes par profil de revenus</h3>
+
+<p>L'ANAH (Agence Nationale de l'Habitat) subventionne directement l'isolation des combles et des rampants de toiture à condition que la résistance thermique atteigne <strong>R ≥ 7 m².K/W</strong> (combles perdus) et que les travaux soient réalisés par un artisan <strong>certifié RGE</strong>. Les montants varient selon votre profil de revenus :</p>
+
+<ul>
+    <li><strong>Profil Bleu (Très modestes) :</strong> Aide de <strong>25 € par m²</strong> d'isolant posé.</li>
+    <li><strong>Profil Jaune (Modestes) :</strong> Aide de <strong>20 € par m²</strong> d'isolant posé.</li>
+    <li><strong>Profil Violet (Intermédiaires) :</strong> Aide de <strong>15 € par m²</strong> d'isolant posé.</li>
+    <li><strong>Profil Rose (Aisés) :</strong> Non éligible en monogeste, mais jusqu'à <strong>90 % en Parcours Accompagné</strong> (rénovation globale combinant isolation + chauffage performant, par exemple avec une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a>).</li>
+</ul>
+
+<h3>Les Certificats d'Économies d'Énergie (CEE) — Primes Énergie</h3>
+
+<p>Les primes CEE, versées par les fournisseurs d'énergie (EDF, Engie, TotalEnergies), sont <strong>100 % cumulables</strong> avec MaPrimeRénov'. Pour l'isolation des combles, le montant de la prime CEE dépend de votre zone climatique et de vos revenus. Bordeaux se situe en <strong>zone climatique H2c</strong>. En 2025 :</p>
+
+<ul>
+    <li><strong>Ménages modestes (Coup de Pouce Isolation) :</strong> Prime CEE de <strong>10 € à 12 € par m²</strong>.</li>
+    <li><strong>Autres ménages :</strong> Prime CEE de <strong>5 € à 10 € par m²</strong>.</li>
+</ul>
+
+<h3>Les aides complémentaires cumulables</h3>
+
+<ul>
+    <li><strong>TVA réduite à 5,5 % :</strong> Appliquée automatiquement sur la facture de l'artisan RGE pour la fourniture et la pose de l'isolant, sans aucune démarche de votre part.</li>
+    <li><strong>Éco-PTZ (Éco-Prêt à Taux Zéro) :</strong> Jusqu'à <strong>15 000 €</strong> pour un geste isolé ou <strong>50 000 €</strong> pour une rénovation globale, remboursable sur <strong>20 ans sans intérêt</strong>. Aucune condition de ressources.</li>
+    <li><strong>Aides locales Nouvelle-Aquitaine :</strong> Le programme « Ré-Adopte » de la Région Nouvelle-Aquitaine propose une prime complémentaire de <strong>1 500 € à 3 500 €</strong> pour les travaux d'isolation, cumulable avec les dispositifs nationaux. La Métropole de Bordeaux, Bordeaux Métropole Énergie et certaines communes proposent également des subventions ponctuelles.</li>
+    <li><strong>MaPrimeAdapt' :</strong> Si vous êtes senior (70 ans et plus ou en situation de perte d'autonomie), <strong>MaPrimeAdapt'</strong> peut financer de <strong>50 % à 70 %</strong> des travaux d'adaptation du logement (plafonnés à 22 000 € HT). Il arrive fréquemment que nos clients bordelais combinent une isolation des combles avec l'installation d'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> ou d'un <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a> pour sécuriser leur maison à étages.</li>
+</ul>
+
+<h3>Tableau récapitulatif des prix et aides pour l'isolation des combles à Bordeaux</h3>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Type d'isolation</th>
+            <th class="p-4 text-left font-semibold">Prix moyen au m² posé (TTC)</th>
+            <th class="p-4 text-left font-semibold">Aides cumulées max* (MaPrimeRénov' + CEE)</th>
+            <th class="p-4 text-left font-semibold">Reste à charge estimé au m² (Profil Bleu)</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Combles perdus — Soufflage ouate de cellulose</strong></td>
+            <td class="p-4">25 € à 50 €</td>
+            <td class="p-4">Jusqu'à ~37 € / m²</td>
+            <td class="p-4">À partir de 0 € *</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Combles perdus — Soufflage laine de roche</strong></td>
+            <td class="p-4">25 € à 45 €</td>
+            <td class="p-4">Jusqu'à ~37 € / m²</td>
+            <td class="p-4">À partir de 0 € *</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Rampants — Laine minérale semi-rigide</strong></td>
+            <td class="p-4">50 € à 90 €</td>
+            <td class="p-4">Jusqu'à ~37 € / m²</td>
+            <td class="p-4">À partir de 13 € / m²</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Rampants — Panneaux fibre de bois</strong></td>
+            <td class="p-4">70 € à 120 €</td>
+            <td class="p-4">Jusqu'à ~37 € / m²</td>
+            <td class="p-4">À partir de 33 € / m²</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Sarking (isolation par l'extérieur toiture)</strong></td>
+            <td class="p-4">150 € à 250 €</td>
+            <td class="p-4">Jusqu'à ~37 € / m²</td>
+            <td class="p-4">À partir de 113 € / m²</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4" class="p-4 text-xs text-gray-500 italic bg-gray-50">
+                * Les montants d'aides sont estimés pour un profil Bleu (très modestes) en zone H2c (Bordeaux) et en cumulant MaPrimeRénov' + CEE + TVA 5,5 %. Le reste à charge réel dépend de la surface, du matériau, des revenus du foyer et des aides locales complémentaires éventuelles (Région Nouvelle-Aquitaine, Bordeaux Métropole). Barèmes 2025 susceptibles d'évolution.
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<h2>Le processus d'installation étape par étape : Comment nos artisans RGE isolent vos combles à Bordeaux</h2>
+
+<p>Comprendre le déroulement du chantier vous permet d'anticiper sereinement l'intervention. Voici le protocole scrupuleusement suivi par les artisans du <strong>Cercle des Artisans</strong> pour chaque chantier d'isolation de combles en zone atlantique.</p>
+
+<h3>Étape 1 : Le diagnostic technique et l'état des lieux de la toiture</h3>
+
+<p>Avant toute intervention, notre artisan RGE réalise une <strong>visite technique gratuite et sans engagement</strong> à votre domicile. Il inspecte l'état de la charpente (détection de bois dégradés, présence de champignons, traces d'humidité), vérifie l'étanchéité de la couverture, contrôle la ventilation en sous-face et mesure les épaisseurs disponibles. À Bordeaux, cette étape est cruciale pour détecter d'éventuelles remontées d'humidité ou infiltrations liées au climat atlantique. Si un défaut d'étanchéité est constaté, un <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">démoussage de toiture</a> avec traitement hydrofuge sera recommandé en amont.</p>
+
+<h3>Étape 2 : La préparation du chantier et la sécurisation</h3>
+
+<p>L'artisan prépare l'accès aux combles, protège les zones sensibles (câblage électrique, conduits de VMC, spots encastrés avec mise en place de <strong>capots de protection coupe-feu</strong> conformes au DTU 45.11), et vérifie la portance du plancher pour supporter le poids de l'isolant. Les anciennes couches d'isolant dégradées (ancienne laine de verre tassée ou humide) sont retirées si nécessaire pour garantir la performance du nouvel isolant.</p>
+
+<h3>Étape 3 : La mise en place du dispositif de gestion de la vapeur d'eau</h3>
+
+<p>C'est <strong>l'étape critique</strong> en contexte bordelais. Pour les combles perdus, un pare-vapeur continu est posé sur le plancher avant soufflage, avec un recouvrement de <strong>10 cm minimum</strong> aux jonctions, scotché au ruban adhésif hygro. Pour les rampants, un frein-vapeur hygrovariable est agrafé sous les chevrons puis jointoyé avec un adhésif haute performance pour garantir une continuité parfaite. Cette membrane constitue la « ligne de défense » contre la migration de vapeur d'eau intérieure vers l'isolant et la charpente.</p>
+
+<h3>Étape 4 : La mise en œuvre de l'isolant</h3>
+
+<ul>
+    <li><strong>En combles perdus :</strong> L'isolant en vrac (ouate de cellulose ou laine de roche) est soufflé mécaniquement à l'aide d'une machine cardeur-souffleur, en respectant l'épaisseur nominale visée (30 à 33 cm pour R = 7). Des piges de contrôle sont plantées régulièrement pour vérifier l'épaisseur en temps réel. Le soufflage assure une couverture homogène, sans ponts thermiques, même dans les recoins inaccessibles à la main.</li>
+    <li><strong>En rampants :</strong> Les panneaux semi-rigides sont découpés et calés entre les chevrons (première couche), puis une seconde couche croisée est posée sous les chevrons avec un contre-lattage vissé. L'ensemble est fini par un parement en plaques de plâtre BA13 ou BA15 (résistance au feu améliorée).</li>
+</ul>
+
+<h3>Étape 5 : La vérification finale et la remise documentaire</h3>
+
+<p>L'artisan procède à un contrôle qualité complet : vérification des épaisseurs (piges), inspection visuelle de la continuité du pare-vapeur, contrôle de la ventilation en sous-face de couverture, test d'aspiration de la VMC. Il vous remet ensuite le dossier technique comprenant : le <strong>certificat d'installation RGE</strong>, la fiche technique ACERMI de l'isolant, la fiche standardisée <strong>CEE</strong> (BAR-EN-101 pour les combles perdus, BAR-EN-102 pour les rampants) et la facture détaillée nécessaire au dépôt de votre dossier <strong>MaPrimeRénov'</strong> sur le portail de l'ANAH. Durée totale du chantier : <strong>1 à 2 jours</strong> pour les combles perdus, <strong>3 à 5 jours</strong> pour les rampants avec parement.</p>
+
+<h2>FAQ : Les questions fréquentes sur l'isolation des combles à Bordeaux</h2>
+
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">Quel est le meilleur isolant pour lutter contre l'humidité atlantique dans les combles à Bordeaux ?</h3>
+        <p>Pour les <strong>combles perdus</strong>, la <strong>ouate de cellulose</strong> est idéale grâce à sa capacité hygroscopique naturelle : elle absorbe et restitue l'humidité sans perte de performance. Pour les <strong>rampants de combles aménagés</strong>, les <strong>panneaux de fibre de bois</strong> sont la référence à Bordeaux : leur perméabilité à la vapeur d'eau et leur déphasage thermique exceptionnel (14 heures pour 20 cm) en font le matériau le plus adapté au climat atlantique. Dans les deux cas, la mise en place d'un <strong>frein-vapeur hygrovariable</strong> et d'une <strong>lame d'air ventilée sous couverture</strong> (4 cm minimum) est indispensable. Un artisan RGE du <strong>Cercle des Artisans</strong> vous orientera vers la solution optimale après diagnostic de votre charpente.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">L'isolation des combles est-elle rentable à Bordeaux malgré le climat doux ?</h3>
+        <p>Absolument. Bordeaux se situe en <strong>zone climatique H2c</strong>, ce qui implique une saison de chauffe de <strong>5 à 6 mois</strong> (octobre à mars). Les économies annuelles sur la facture de chauffage sont estimées entre <strong>400 € et 700 €</strong> pour une maison de 100 m². Avec un coût d'isolation des combles perdus de 2 000 € à 4 000 € TTC (et souvent <strong>proche de zéro</strong> après déduction de MaPrimeRénov' + CEE pour les profils modestes), le <strong>retour sur investissement</strong> est de 3 à 5 ans maximum. Et n'oublions pas le bénéfice colossal en confort d'été : avec les épisodes caniculaires de plus en plus fréquents à Bordeaux (2022, 2023, 2024), une bonne isolation des combles peut faire chuter la température sous toiture de <strong>8 à 12 °C</strong> en plein pic de chaleur.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Faut-il une autorisation pour isoler ses combles dans le centre historique de Bordeaux (secteur sauvegardé) ?</h3>
+        <p>L'isolation des combles par l'intérieur (soufflage en combles perdus ou isolation des rampants) <strong>ne nécessite aucune autorisation d'urbanisme</strong> ni déclaration préalable, même dans le périmètre du secteur sauvegardé de Bordeaux ou dans les zones couvertes par l'Architecte des Bâtiments de France (ABF). Seule l'isolation par l'extérieur de la toiture (sarking) modifie l'aspect extérieur et peut nécessiter une <strong>Déclaration Préalable de Travaux</strong> si elle modifie la hauteur du faîtage ou l'aspect de la couverture. Dans tous les cas, les artisans du <strong>Cercle des Artisans</strong> vérifient les contraintes urbanistiques de votre adresse avant toute intervention.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Peut-on isoler ses combles et changer ses fenêtres en même temps pour maximiser les aides ?</h3>
+        <p>C'est même fortement recommandé ! En combinant l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> avec le remplacement de vos <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a> (Uw ≤ 1,3 W/m².K) et l'installation d'une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a>, vous entrez dans le cadre du <strong>Parcours Accompagné MaPrimeRénov'</strong>. Ce bouquet de travaux ouvre droit à des taux de financement de <strong>40 % à 90 %</strong> du montant HT (selon vos revenus et le gain DPE obtenu), avec des plafonds allant jusqu'à <strong>70 000 € HT</strong> pour un saut de 4 classes. C'est l'approche que nous privilégions chez <strong>Le Cercle des Artisans</strong> pour optimiser à la fois le confort et le financement.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Combien de temps durent des travaux d'isolation de combles ?</h3>
+        <p>L'isolation des <strong>combles perdus par soufflage</strong> est l'un des chantiers les plus rapides de la rénovation énergétique : comptez <strong>une demi-journée à une journée</strong> pour une maison standard de 80 à 120 m². L'isolation des <strong>rampants de combles aménagés</strong> est plus complexe (pose des panneaux, pare-vapeur, contre-lattage, parement) et nécessite <strong>3 à 5 jours ouvrés</strong>. Dans les deux cas, vous pouvez rester dans votre logement pendant les travaux — aucun déménagement temporaire n'est nécessaire.</p>
+    </div>
+</div>
+
+<h2>Passez à l'action : Isolez vos combles à Bordeaux avec un artisan RGE de confiance</h2>
+
+<p>L'isolation des combles à Bordeaux n'est pas qu'une question d'économie d'énergie : c'est un acte de <strong>préservation de votre patrimoine immobilier</strong> face aux agressions du climat atlantique. Humidité chronique, variations hygrothermiques, épisodes caniculaires : chaque saison met à l'épreuve une toiture mal protégée. En confiant votre chantier à un artisan du réseau <strong>Le Cercle des Artisans</strong>, vous bénéficiez d'une expertise locale irremplaçable : nos professionnels connaissent les spécificités du bâti bordelais — échoppes en pierre calcaire, charpentes traditionnelles en pin des Landes, couvertures en tuiles canal ou ardoises — et adaptent systématiquement leur approche technique au contexte climatique de la façade atlantique.</p>
+
+<p>Mieux encore : nos artisans <strong>certifiés RGE</strong> prennent en charge l'intégralité du montage de vos dossiers d'aides financières — <strong>MaPrimeRénov'</strong>, primes <strong>CEE</strong>, aides de la Région Nouvelle-Aquitaine, <strong>Éco-PTZ</strong> — pour vous garantir le <strong>reste à charge le plus bas possible</strong>. Couplée à une <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation des murs par l'extérieur</a>, votre isolation de combles transforme votre maison en un cocon thermique performant, confortable et valorisé sur le marché immobilier bordelais.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Isolez vos combles à Bordeaux : Obtenez vos devis gratuits !</strong>
+        <p class="text-blue-800 m-0">Recevez jusqu'à 3 devis détaillés d'artisans RGE certifiés, spécialistes de l'isolation en climat atlantique. Nous calculons pour vous le montant exact de MaPrimeRénov', des CEE et de toutes les aides locales cumulables. Visite technique gratuite, sans engagement.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Demander Mon Devis Gratuit
+        </a>
+    </div>
+</div>
+`
     }
 ];
