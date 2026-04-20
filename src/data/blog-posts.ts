@@ -4152,5 +4152,194 @@ export const blogPosts: BlogPost[] = [
     </div>
 </div>
 `
+    },
+    {
+        slug: "prix-nettoyage-toiture-m2-2026",
+        title: "Prix d'un nettoyage de toiture au m² en 2026 : Tarifs, méthodes et aides",
+        metaDescription: "Découvrez le prix d'un nettoyage de toiture au m² en 2026 : démoussage, traitement hydrofuge, nettoyage haute pression. Tarifs détaillés, aides financières et guide complet par artisans RGE certifiés.",
+        heroImage: "/images/blog/prix-nettoyage-toiture-hero.png",
+        category: "Toiture",
+        publishedAt: "2026-04-20",
+        readTime: "14 min",
+        excerpt: "Mousses, lichens, traces noires : votre toiture vieillit prématurément et menace l'étanchéité de votre maison. En 2026, un nettoyage professionnel coûte entre 15 € et 35 € le m². Découvrez les tarifs détaillés, les différentes méthodes de traitement et les aides financières disponibles pour entretenir et protéger durablement votre couverture.",
+        relatedServices: ["demoussage-toiture", "isolation-combles", "isolation-exterieur", "pompe-a-chaleur-air-eau", "fenetre"],
+        content: `
+<h2>Pourquoi le nettoyage de votre toiture est un investissement indispensable et non une dépense superflue</h2>
+
+<p>Votre toiture représente la première ligne de défense de votre habitation contre les agressions climatiques. Pluies battantes, gel hivernal, UV estivaux, pollution atmosphérique : année après année, votre couverture encaisse tout. Pourtant, la plupart des propriétaires négligent son entretien régulier, jusqu'au jour où les premiers signes de dégradation deviennent visibles depuis le sol — mousses verdâtres, lichens incrustés, traces noires de cyanobactéries, tuiles poreuses qui se délitent. À ce stade, le simple nettoyage ne suffit plus toujours : il faut parfois envisager un <a href="/service/demoussage-toiture" class="text-blue-600 hover:underline font-medium">démoussage de toiture</a> complet, voire une réfection partielle de la couverture.</p>
+
+<p>En tant qu'experts de la rénovation énergétique et de l'entretien du bâti au sein du réseau <strong>Le Cercle des Artisans</strong>, nous accompagnons chaque année des centaines de propriétaires dans l'entretien préventif de leur toiture. Car au-delà de l'esthétique, un toit sale et envahi par la végétation parasite compromet directement l'<strong>étanchéité</strong> de votre maison, accélère la dégradation des matériaux de couverture et dégrade significativement les <strong>performances thermiques</strong> de votre enveloppe. Or, une toiture défaillante représente jusqu'à <strong>30 % des déperditions de chaleur</strong> d'un logement — un chiffre qui justifie à lui seul de coupler l'entretien de votre toit avec une <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> performante.</p>
+
+<h3>Les conséquences concrètes d'une toiture non entretenue</h3>
+
+<ul>
+    <li><strong>Infiltrations d'eau et dégâts structurels :</strong> Les mousses et lichens retiennent l'humidité à la surface des tuiles par capillarité. Lors des cycles de gel-dégel hivernaux, cette eau piégée dilate les micro-fissures et finit par provoquer l'éclatement des tuiles (phénomène de gélifraction). Les infiltrations qui en résultent endommagent la charpente, l'isolant de combles et les plafonds intérieurs.</li>
+    <li><strong>Perte d'efficacité énergétique :</strong> Une couverture poreuse et dégradée ne joue plus son rôle de barrière thermique. L'humidité qui s'infiltre dans l'isolant réduit drastiquement sa résistance thermique R : un isolant mouillé perd jusqu'à 50 % de ses propriétés isolantes. C'est pourquoi un nettoyage de toiture doit systématiquement être accompagné d'une vérification de l'<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> (R ≥ 7 m².K/W pour être éligible aux aides).</li>
+    <li><strong>Dévalorisation immobilière :</strong> Un toit couvert de mousse est immédiatement visible et constitue un signal d'alarme pour tout acheteur potentiel. L'aspect extérieur de la toiture impacte directement la perception de l'état général du bien et son Diagnostic de Performance Énergétique (DPE).</li>
+    <li><strong>Risques de santé :</strong> Les moisissures et champignons qui prolifèrent sur un toit humide peuvent migrer vers l'intérieur du logement, provoquant des problèmes respiratoires, notamment pour les personnes vulnérables ou âgées. Pour ces dernières, le maintien d'un habitat sain est crucial, tout comme l'adaptation de leur logement via des équipements tels qu'un <a href="/service/monte-escalier" class="text-blue-600 hover:underline font-medium">monte-escalier</a> sécurisé.</li>
+</ul>
+
+<h2>Les différentes méthodes de nettoyage de toiture : quelle technique pour quel résultat ?</h2>
+
+<p>Le choix de la méthode de nettoyage dépend de plusieurs facteurs : le type de matériau de couverture (tuiles terre cuite, tuiles béton, ardoises naturelles, fibrociment), le degré d'encrassement, l'état général de la couverture et la pente du toit. Un artisan qualifié du <strong>Cercle des Artisans</strong> saura vous orienter vers la technique la plus adaptée à votre situation.</p>
+
+<h3>Le nettoyage manuel et le brossage mécanique</h3>
+
+<p>La méthode la plus douce et la plus respectueuse des matériaux fragiles. Elle consiste à brosser mécaniquement la surface de la toiture à l'aide de brosses rotatives montées sur perceuse ou manuelles à poils durs, pour décoller les mousses, lichens et dépôts organiques sans exercer de pression hydraulique. Cette technique est particulièrement recommandée pour les <strong>ardoises naturelles</strong> (très sensibles à la pression) et les <strong>tuiles anciennes en terre cuite</strong> dont l'émail de surface est usé. Le brossage mécanique est souvent suivi d'un rinçage basse pression et d'un traitement biocide préventif.</p>
+
+<h3>Le nettoyage haute pression (Kärcher professionnel)</h3>
+
+<p>La technique la plus répandue et la plus rapide. Un nettoyeur haute pression professionnel (pression régulée entre 80 et 150 bars maximum pour la toiture) projette un jet d'eau concentré qui décape efficacement les mousses, algues et salissures incrustées. <strong>Attention critique :</strong> une pression mal maîtrisée (au-delà de 150 bars) peut endommager irrémédiablement les tuiles en arrachant leur couche protectrice de surface (engobe ou émail), les rendant encore plus poreuses qu'avant le nettoyage. C'est pourquoi cette opération ne doit jamais être confiée à un bricoleur du dimanche. Seul un artisan professionnel sait régler finement la pression, l'angle d'attaque du jet (toujours du faîtage vers la gouttière, dans le sens de l'écoulement de l'eau) et la distance de travail adaptée à chaque matériau.</p>
+
+<h3>Le traitement chimique anti-mousse (application d'un algicide-fongicide)</h3>
+
+<p>Également appelé « traitement à effet différé », cette méthode consiste à pulvériser un produit biocide professionnel <strong>certifié NF</strong> sur l'ensemble de la surface de la toiture, sans nettoyage mécanique préalable (ou après un léger brossage). Le produit agit progressivement pendant 3 à 12 mois : il détruit les organismes végétaux (mousses, lichens, algues) qui se dessèchent et sont naturellement éliminés par les pluies. Cette technique est idéale pour les <strong>toitures en bon état</strong> présentant un développement modéré de végétation, et pour les matériaux fragiles qui ne supportent pas la pression. Le biocide utilisé doit être conforme à la réglementation européenne des produits biocides (TP2 — désinfectants) et ne doit pas contenir de substances nocives pour l'environnement (pas de mercure, pas de composés organostanniques).</p>
+
+<h3>L'hydrofuge de toiture : le traitement protecteur indispensable</h3>
+
+<p>L'hydrofuge n'est pas une méthode de nettoyage à proprement parler, mais un traitement de <strong>protection post-nettoyage</strong> absolument essentiel. Appliqué par pulvérisation après un nettoyage complet et un temps de séchage suffisant (48 à 72 heures par temps sec), l'hydrofuge imperméabilise la surface des tuiles en comblant les micro-porosités sans boucher les capillaires nécessaires à la respiration du matériau. On distingue deux grandes familles :</p>
+
+<ul>
+    <li><strong>L'hydrofuge filmogène (effet perlant) :</strong> Crée un film protecteur en surface qui fait « perler » l'eau. Protège efficacement pendant 5 à 8 ans. Moins adapté aux matériaux très respirants (ardoise naturelle).</li>
+    <li><strong>L'hydrofuge à effet perlant-mouillant (siloxane) :</strong> Pénètre dans les pores du matériau sans former de film en surface. Laisse la tuile « respirer » tout en la rendant imperméable. Durée de protection de 8 à 12 ans. Produit haut de gamme, recommandé par les fabricants de tuiles (Imerys, Terreal).</li>
+</ul>
+
+<p>Un hydrofuge de qualité professionnelle, appliqué correctement, prolonge la durée de vie de votre couverture de <strong>10 à 15 ans</strong> et ralentit considérablement la recolonisation par les mousses. C'est l'équivalent pour votre toit de ce qu'est une <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">isolation thermique par l'extérieur (ITE)</a> pour vos murs : une enveloppe protectrice qui sécurise l'ensemble du bâti.</p>
+
+<h2>Prix détaillé du nettoyage de toiture au m² en 2026 : matériaux, main d'œuvre et options</h2>
+
+<p>Le budget à prévoir pour un nettoyage de toiture varie sensiblement en fonction de la technique retenue, de la surface totale de la couverture, de son accessibilité (hauteur, pente, encombrement périphérique), de l'état d'encrassement et de la région géographique. Les tarifs ci-dessous sont des moyennes de marché 2026, <strong>TTC</strong>, incluant la main d'œuvre, le matériel et les produits professionnels.</p>
+
+<ul>
+    <li><strong>Simple nettoyage haute pression :</strong> De <strong>15 € à 25 € par m²</strong>. Ce tarif comprend l'installation sécurisée des équipements d'accès (échelle professionnelle, nacelle élévatrice ou échafaudage selon la configuration), le nettoyage intégral du toit, des rives et des faîtages, ainsi que le nettoyage des gouttières attenantes.</li>
+    <li><strong>Démoussage complet (nettoyage + traitement anti-mousse) :</strong> De <strong>20 € à 30 € par m²</strong>. Inclut le nettoyage haute pression ou le brossage mécanique, suivi de l'application d'un algicide-fongicide professionnel certifié NF.</li>
+    <li><strong>Forfait complet (nettoyage + anti-mousse + hydrofuge) :</strong> De <strong>25 € à 40 € par m²</strong>. C'est la prestation la plus complète et la plus recommandée par nos artisans. Elle garantit une protection durable de 8 à 12 ans contre les infiltrations et la recolonisation végétale.</li>
+    <li><strong>Traitement anti-mousse seul (sans nettoyage pression) :</strong> De <strong>5 € à 10 € par m²</strong>. Pour les toitures en bon état nécessitant uniquement un traitement préventif.</li>
+</ul>
+
+<p>À titre d'exemple concret : pour une maison individuelle standard avec une toiture de <strong>100 m²</strong> en tuiles terre cuite, le devis pour un forfait complet (nettoyage + anti-mousse + hydrofuge siloxane) se situera typiquement entre <strong>2 500 € et 4 000 € TTC</strong>. Ce budget peut paraître conséquent, mais il est à comparer au coût d'une réfection complète de couverture (entre 150 € et 300 € le m², soit 15 000 € à 30 000 € pour la même surface) — un entretien régulier vous évite cette dépense colossale.</p>
+
+<h2>Les aides financières 2026 pour l'entretien et la rénovation de toiture</h2>
+
+<p>Contrairement à une idée reçue fréquente, le simple nettoyage de toiture (démoussage, traitement anti-mousse) n'est <strong>pas directement éligible</strong> aux aides de type <strong>MaPrimeRénov'</strong> ou <strong>CEE</strong>. Ces aides ciblent spécifiquement les travaux de rénovation énergétique améliorant la performance thermique du logement. Cependant, plusieurs dispositifs peuvent financer indirectement votre projet de toiture ou s'y coupler intelligemment.</p>
+
+<ul>
+    <li><strong>La TVA à taux intermédiaire de 10 % :</strong> Les travaux d'entretien et d'amélioration des logements de plus de 2 ans bénéficient d'un taux de TVA réduit à 10 % (au lieu de 20 %). Le nettoyage de toiture, le démoussage et l'application d'hydrofuge entrent dans cette catégorie. Sur un devis de 3 500 €, l'économie de TVA représente <strong>350 €</strong> par rapport au taux normal.</li>
+    <li><strong>MaPrimeRénov' et CEE pour l'isolation des combles couplée :</strong> Si votre nettoyage de toiture s'inscrit dans un projet plus large de <strong>rénovation énergétique</strong> — par exemple, profiter du chantier de toiture pour réaliser simultanément une <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> (R ≥ 7 m².K/W) — alors les travaux d'isolation sont pleinement éligibles à MaPrimeRénov' et aux CEE. Les primes peuvent atteindre <strong>25 € à 75 € par m²</strong> selon votre profil de revenus (Bleu, Jaune, Violet). C'est la stratégie la plus intelligente : mutualiser l'échafaudage et le chantier pour traiter le toit et l'isolation en une seule campagne.</li>
+    <li><strong>Le Parcours Accompagné MaPrimeRénov' :</strong> Pour une rénovation globale combinant isolation de toiture + <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">ITE des murs</a> + remplacement du chauffage par une <a href="/service/pompe-a-chaleur-air-eau" class="text-blue-600 hover:underline font-medium">pompe à chaleur air-eau</a>, l'ANAH finance jusqu'à <strong>90 % du montant HT</strong> (profil Bleu, gain ≥ 4 classes DPE). Le nettoyage de toiture peut alors être intégré dans le devis global de rénovation.</li>
+    <li><strong>MaPrimeAdapt' :</strong> Si vous êtes une personne âgée (70 ans et plus) ou en perte d'autonomie, <strong>MaPrimeAdapt'</strong> peut financer de <strong>50 % à 70 %</strong> des travaux d'adaptation de votre logement (plafonnés à 22 000 € HT). Bien que ciblée sur l'accessibilité (monte-escalier, douche de plain-pied, <a href="/service/ascenseur-privatif" class="text-blue-600 hover:underline font-medium">ascenseur privatif</a>), cette aide peut être combinée avec des travaux de mise en sécurité du logement, dont l'étanchéité de la toiture fait partie.</li>
+    <li><strong>Les aides locales :</strong> Certaines régions, départements et intercommunalités proposent des subventions spécifiques pour la rénovation des toitures, en particulier dans les zones classées (secteurs Bâtiments de France) ou les centres historiques. Renseignez-vous auprès de votre mairie.</li>
+</ul>
+
+<h3>Tableau récapitulatif : Prix du nettoyage de toiture au m² et aides disponibles en 2026</h3>
+
+<table class="w-full border-collapse my-8 text-sm shadow-sm rounded-lg overflow-hidden">
+    <thead>
+        <tr class="bg-gray-800 text-white">
+            <th class="p-4 text-left font-semibold">Type de prestation</th>
+            <th class="p-4 text-left font-semibold">Prix moyen au m² (TTC, posé)</th>
+            <th class="p-4 text-left font-semibold">Budget pour 100 m² de toiture</th>
+            <th class="p-4 text-left font-semibold">Aides mobilisables</th>
+        </tr>
+    </thead>
+    <tbody class="bg-white">
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Nettoyage haute pression seul</strong></td>
+            <td class="p-4">15 € à 25 €</td>
+            <td class="p-4">1 500 € à 2 500 €</td>
+            <td class="p-4">TVA 10 %</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Démoussage complet (nettoyage + anti-mousse)</strong></td>
+            <td class="p-4">20 € à 30 €</td>
+            <td class="p-4">2 000 € à 3 000 €</td>
+            <td class="p-4">TVA 10 %</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Forfait complet (nettoyage + anti-mousse + hydrofuge)</strong></td>
+            <td class="p-4">25 € à 40 €</td>
+            <td class="p-4">2 500 € à 4 000 €</td>
+            <td class="p-4">TVA 10 %</td>
+        </tr>
+        <tr class="border-b hover:bg-gray-50">
+            <td class="p-4"><strong>Traitement anti-mousse seul (préventif)</strong></td>
+            <td class="p-4">5 € à 10 €</td>
+            <td class="p-4">500 € à 1 000 €</td>
+            <td class="p-4">TVA 10 %</td>
+        </tr>
+        <tr class="bg-green-50 font-bold">
+            <td class="p-4" colspan="2">Couplage nettoyage + isolation combles (R ≥ 7)</td>
+            <td class="p-4 text-green-700">4 500 € à 8 000 € (les 2 prestations)</td>
+            <td class="p-4">TVA 5,5 % (isolation) + MaPrimeRénov' + CEE</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4" class="p-4 text-xs text-gray-500 italic bg-gray-50">
+                * Tarifs indicatifs 2026, TTC, constatés sur le marché national. Les prix varient selon la région, la pente du toit, son accessibilité et le degré d'encrassement. Devis gratuit et personnalisé recommandé.
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<h2>Le processus d'intervention étape par étape : ce que fait un professionnel sur votre toit</h2>
+
+<p>Un nettoyage de toiture professionnel réalisé par un artisan du <strong>Cercle des Artisans</strong> suit un protocole rigoureux en 6 étapes, garantissant un résultat impeccable et durable sans dommage pour votre couverture.</p>
+
+<ul>
+    <li><strong>Étape 1 : Inspection visuelle et diagnostic de la couverture.</strong> Avant toute intervention, l'artisan monte sur le toit pour réaliser un diagnostic complet. Il vérifie l'état de chaque rang de tuiles (fissures, tuiles cassées, décollement), l'intégrité des solins, faîtages, rives et noues, ainsi que l'état des gouttières et descentes pluviales. Ce diagnostic permet de détecter d'éventuelles réparations à effectuer avant le nettoyage et d'adapter la méthode de nettoyage au matériau constaté.</li>
+    <li><strong>Étape 2 : Sécurisation du chantier et protection des abords.</strong> Installation des équipements de sécurité (harnais de sécurité, ligne de vie, garde-corps périphériques si nécessaire). Protection des plantations en pied de façade et des menuiseries (vos <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a> de toit Velux notamment) avec des bâches de protection. Mise en place de la signalétique de chantier.</li>
+    <li><strong>Étape 3 : Nettoyage mécanique et/ou haute pression.</strong> Selon le diagnostic, l'artisan procède au brossage mécanique des zones les plus encrassées, puis au nettoyage haute pression maîtrisée (80 à 150 bars maximum). Le jet est toujours orienté du faîtage vers la gouttière pour ne pas soulever les tuiles. Le nettoyage inclut systématiquement les rives, faîtages, solins de cheminée et gouttières.</li>
+    <li><strong>Étape 4 : Réparations ponctuelles.</strong> Si le diagnostic a révélé des tuiles cassées, fêlées ou manquantes, l'artisan procède à leur remplacement à l'identique. Les solins de cheminée et les joints de faîtage détériorés sont repris au mortier hydrofuge. Cette étape est cruciale pour garantir l'étanchéité avant l'application du traitement protecteur.</li>
+    <li><strong>Étape 5 : Application du traitement anti-mousse (algicide-fongicide).</strong> Après un temps de séchage de 24 à 48 heures (selon les conditions météorologiques), l'artisan applique par pulvérisation basse pression un produit biocide de grade professionnel, certifié NF, sur l'intégralité de la surface. Le produit pénètre dans les porosités du matériau et agit en profondeur pendant plusieurs mois.</li>
+    <li><strong>Étape 6 : Application de l'hydrofuge protecteur.</strong> Après un nouveau séchage de 48 à 72 heures, l'hydrofuge (filmogène ou siloxane selon le matériau) est appliqué en deux passes croisées à l'aide d'un pulvérisateur airless professionnel permettant une application homogène et une pénétration optimale. L'artisan remet au propriétaire la fiche technique du produit utilisé avec sa durée de garantie (généralement 10 ans pour un hydrofuge siloxane de qualité professionnelle).</li>
+</ul>
+
+<h2>FAQ : Les questions fréquentes sur le prix du nettoyage de toiture</h2>
+<div class="space-y-6">
+    <div>
+        <h3 class="text-xl font-bold">À quelle fréquence faut-il nettoyer sa toiture ?</h3>
+        <p>La fréquence idéale dépend de votre environnement. En règle générale, un <strong>nettoyage complet (démoussage + hydrofuge)</strong> est recommandé tous les <strong>8 à 12 ans</strong>. Un simple contrôle visuel annuel et un nettoyage des gouttières au moins deux fois par an (automne et printemps) sont indispensables. Les maisons situées à proximité d'arbres, en zone humide ou exposées au nord nécessitent un entretien plus fréquent — tous les 5 à 7 ans. L'application d'un hydrofuge de qualité professionnelle (siloxane) permet d'espacer significativement les interventions de démoussage lourdes.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Le nettoyage haute pression abîme-t-il les tuiles de ma toiture ?</h3>
+        <p>Oui, <strong>si la pression est mal réglée ou si l'opérateur n'est pas qualifié</strong>. C'est d'ailleurs la première cause de dégradation prématurée des toitures « nettoyées » par des amateurs. Une pression excessive (au-delà de 150 bars) arrache l'engobe ou l'émail protecteur des tuiles en terre cuite, rendant le matériau encore plus poreux et fragile qu'avant l'intervention. Un artisan professionnel du <strong>Cercle des Artisans</strong> règle sa pression entre <strong>80 et 120 bars</strong> pour les tuiles terre cuite, utilise une buse adaptée (jet plat, pas de jet rotatif sur tuile) et travaille systématiquement <strong>dans le sens de l'écoulement de l'eau</strong>. Pour les ardoises naturelles, très fragiles, nous privilégions le brossage mécanique doux sans aucune pression.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Peut-on nettoyer sa toiture soi-même pour économiser ?</h3>
+        <p>C'est <strong>fortement déconseillé</strong> pour deux raisons majeures. Premièrement, le travail en hauteur sur une toiture est extrêmement dangereux : les chutes de toit sont la première cause de décès accidentels domestiques en France. Un artisan professionnel dispose des équipements de sécurité réglementaires (harnais, ligne de vie, chaussures antidérapantes). Deuxièmement, un nettoyeur haute pression grand public (150 bars et plus, sans régulation fine) risque d'endommager irrémédiablement vos tuiles. Le coût d'un nettoyage professionnel (2 500 € à 4 000 € pour 100 m²) est incomparablement inférieur au coût d'une réfection de couverture suite à un mauvais traitement (15 000 € à 30 000 €).</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Quelle est la meilleure saison pour nettoyer sa toiture ?</h3>
+        <p>Les périodes idéales sont le <strong>printemps (mars-mai)</strong> et le <strong>début d'automne (septembre-octobre)</strong>. Le printemps permet d'éliminer les dégâts causés par l'hiver (mousses stimulées par l'humidité hivernale) avant l'été. L'automne permet de préparer la toiture avant les rigueurs de l'hiver. Il faut éviter les périodes de gel (risque d'éclatement des tuiles mouillées), les fortes chaleurs estivales (évaporation trop rapide des produits de traitement) et les jours de pluie (lessivage immédiat du biocide). Votre artisan du <strong>Cercle des Artisans</strong> planifie systématiquement l'intervention en fonction d'une fenêtre météorologique favorable de 3 à 5 jours consécutifs de temps sec.</p>
+    </div>
+
+    <div>
+        <h3 class="text-xl font-bold">Peut-on bénéficier de MaPrimeRénov' pour un nettoyage de toiture ?</h3>
+        <p>Non, le <strong>nettoyage de toiture seul</strong> (démoussage, traitement anti-mousse, hydrofuge) n'est pas éligible à MaPrimeRénov' car il ne constitue pas un geste d'amélioration de la performance énergétique au sens de l'ANAH. En revanche, si vous profitez de ce chantier de toiture pour réaliser simultanément une <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a> performante (coefficient thermique <strong>R ≥ 7 m².K/W</strong>), celle-ci est pleinement éligible à <strong>MaPrimeRénov'</strong> (jusqu'à 25 €/m² pour les profils Bleu) et aux <strong>CEE</strong> (8 € à 12 €/m²). C'est une stratégie recommandée : un seul déplacement, un seul échafaudage, deux problèmes résolus et des aides financières conséquentes qui réduisent le coût global de l'opération.</p>
+    </div>
+</div>
+
+<h2>Protégez votre toit, protégez votre patrimoine : agissez maintenant avec un artisan de confiance</h2>
+
+<p>Négliger l'entretien de votre toiture, c'est laisser les mousses, lichens et intempéries dégrader lentement mais sûrement ce qui constitue le bouclier numéro un de votre maison. Un <strong>nettoyage professionnel</strong> suivi d'un <strong>traitement hydrofuge de qualité</strong> prolonge la durée de vie de votre couverture de plus d'une décennie, prévient les infiltrations coûteuses, améliore l'aspect esthétique de votre bien et préserve l'intégrité de votre <a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation de combles</a>.</p>
+
+<p>En confiant votre projet à un artisan du réseau <strong>Le Cercle des Artisans</strong>, vous bénéficiez d'un diagnostic gratuit, d'un devis transparent détaillant chaque poste (nettoyage, traitement, hydrofuge, réparations éventuelles), et d'un accompagnement complet pour coupler votre entretien de toiture avec d'éventuels travaux de rénovation énergétique subventionnés (<a href="/service/isolation-combles" class="text-blue-600 hover:underline font-medium">isolation des combles</a>, <a href="/service/isolation-exterieur" class="text-blue-600 hover:underline font-medium">ITE des murs</a>, remplacement de <a href="/service/fenetre" class="text-blue-600 hover:underline font-medium">fenêtres</a>). Nos artisans <strong>certifiés RGE</strong> maîtrisent le montage intégral des dossiers <strong>MaPrimeRénov'</strong> et <strong>CEE</strong> pour les travaux éligibles.</p>
+
+<div class="mt-8 p-6 bg-blue-50 rounded-xl border-l-4 border-blue-600 shadow-sm text-center md:text-left md:flex items-center justify-between">
+    <div class="mb-4 md:mb-0">
+        <strong class="text-xl block text-blue-900 mb-2">Obtenez votre devis gratuit de nettoyage de toiture !</strong>
+        <p class="text-blue-800 m-0">Recevez jusqu'à 3 devis détaillés d'artisans qualifiés du Cercle des Artisans. Diagnostic de toiture gratuit, tarifs transparents et conseils pour coupler intelligemment votre entretien avec des travaux d'isolation subventionnés.</p>
+    </div>
+    <div class="shrink-0 md:ml-6">
+        <a href="/devis" class="inline-block bg-blue-600 !text-white no-underline px-8 py-4 rounded-full font-bold text-lg hover:bg-blue-700 transition-all shadow-md transform hover:scale-105">
+            Demander Mon Devis Gratuit
+        </a>
+    </div>
+</div>
+`
     }
 ];
