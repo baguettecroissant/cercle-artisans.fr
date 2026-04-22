@@ -5,7 +5,6 @@ import { notFound } from "next/navigation";
 import Image from "next/image";
 import { MapPin, ArrowRight, ShieldCheck, CheckCircle } from "lucide-react";
 import { NearbyCities } from "@/components/NearbyCities";
-import { QuoteWidget } from "@/components/QuoteWidget";
 
 // Force static generation for the cities we know about
 export async function generateStaticParams() {
@@ -83,9 +82,6 @@ export default function CityHubPage({ params }: { params: { citySlug: string } }
                                 </span>
                             </div>
 
-                            <div id="devis">
-                                <QuoteWidget />
-                            </div>
                         </div>
                         <div className="md:w-1/3 flex justify-center">
                             {/* Simple visual rep of the city/dept code */}
